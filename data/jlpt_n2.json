@@ -1,0 +1,12321 @@
+{
+  "了": {
+    "strokes": 2,
+    "grade": 8,
+    "freq": 792,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Complete",
+      "Finish"
+    ],
+    "readings_on": [
+      "りょう"
+    ],
+    "readings_kun": [],
+    "wk_level": 2,
+    "wk_meanings": [
+      "Finish",
+      "^Complete",
+      "^End"
+    ],
+    "wk_readings_on": [
+      "りょう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Barb"
+    ]
+  },
+  "丸": {
+    "strokes": 3,
+    "grade": 2,
+    "freq": 542,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Round",
+      "Full (month)",
+      "Perfection",
+      "-ship",
+      "Pills",
+      "Make Round",
+      "Roll Up",
+      "Curl Up",
+      "Seduce",
+      "Explain Away"
+    ],
+    "readings_on": [
+      "がん"
+    ],
+    "readings_kun": [
+      "まる",
+      "まる.める",
+      "まる.い"
+    ],
+    "wk_level": 2,
+    "wk_meanings": [
+      "Circle",
+      "^Circular",
+      "^Round"
+    ],
+    "wk_readings_on": [
+      "!がん"
+    ],
+    "wk_readings_kun": [
+      "まる"
+    ],
+    "wk_radicals": [
+      "Nine",
+      "Drop"
+    ]
+  },
+  "玉": {
+    "strokes": 5,
+    "grade": 1,
+    "freq": 737,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Jewel",
+      "Ball"
+    ],
+    "readings_on": [
+      "ぎょく"
+    ],
+    "readings_kun": [
+      "たま",
+      "たま-",
+      "-だま"
+    ],
+    "wk_level": 2,
+    "wk_meanings": [
+      "Ball"
+    ],
+    "wk_readings_on": [
+      "!ぎょく"
+    ],
+    "wk_readings_kun": [
+      "たま"
+    ],
+    "wk_radicals": [
+      "King",
+      "Drop"
+    ]
+  },
+  "久": {
+    "strokes": 3,
+    "grade": 5,
+    "freq": 688,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Long Time",
+      "Old Story"
+    ],
+    "readings_on": [
+      "きゅう",
+      "く"
+    ],
+    "readings_kun": [
+      "ひさ.しい"
+    ],
+    "wk_level": 32,
+    "wk_meanings": [
+      "Long Time"
+    ],
+    "wk_readings_on": [
+      "きゅう",
+      "^く"
+    ],
+    "wk_readings_kun": [
+      "!ひさ"
+    ],
+    "wk_radicals": [
+      "Prison",
+      "Slide"
+    ]
+  },
+  "戸": {
+    "strokes": 4,
+    "grade": 2,
+    "freq": 575,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Door",
+      "Counter For Houses",
+      "Door Radical (no. 63)"
+    ],
+    "readings_on": [
+      "こ"
+    ],
+    "readings_kun": [
+      "と"
+    ],
+    "wk_level": 3,
+    "wk_meanings": [
+      "Door"
+    ],
+    "wk_readings_on": [
+      "!こ"
+    ],
+    "wk_readings_kun": [
+      "と"
+    ],
+    "wk_radicals": [
+      "Door"
+    ]
+  },
+  "毛": {
+    "strokes": 4,
+    "grade": 2,
+    "freq": 1179,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Fur",
+      "Hair",
+      "Feather",
+      "Down"
+    ],
+    "readings_on": [
+      "もう"
+    ],
+    "readings_kun": [
+      "け"
+    ],
+    "wk_level": 3,
+    "wk_meanings": [
+      "Fur",
+      "^Hair"
+    ],
+    "wk_readings_on": [
+      "もう"
+    ],
+    "wk_readings_kun": [
+      "!け"
+    ],
+    "wk_radicals": [
+      "Fur"
+    ]
+  },
+  "央": {
+    "strokes": 5,
+    "grade": 3,
+    "freq": 582,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Center",
+      "Middle"
+    ],
+    "readings_on": [
+      "おう"
+    ],
+    "readings_kun": [],
+    "wk_level": 4,
+    "wk_meanings": [
+      "Center",
+      "^Centre"
+    ],
+    "wk_readings_on": [
+      "おう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Big",
+      "Head"
+    ]
+  },
+  "氷": {
+    "strokes": 5,
+    "grade": 3,
+    "freq": 1450,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Icicle",
+      "Ice",
+      "Hail",
+      "Freeze",
+      "Congeal"
+    ],
+    "readings_on": [
+      "ひょう"
+    ],
+    "readings_kun": [
+      "こおり",
+      "ひ",
+      "こお.る"
+    ],
+    "wk_level": 4,
+    "wk_meanings": [
+      "Ice"
+    ],
+    "wk_readings_on": [
+      "!ひょう"
+    ],
+    "wk_readings_kun": [
+      "こおり"
+    ],
+    "wk_radicals": [
+      "Water",
+      "Drop"
+    ]
+  },
+  "皮": {
+    "strokes": 5,
+    "grade": 3,
+    "freq": 1092,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Pelt",
+      "Skin",
+      "Hide",
+      "Leather",
+      "Skin Radical (no. 107)"
+    ],
+    "readings_on": [
+      "ひ"
+    ],
+    "readings_kun": [
+      "かわ"
+    ],
+    "wk_level": 5,
+    "wk_meanings": [
+      "Skin"
+    ],
+    "wk_readings_on": [
+      "ひ"
+    ],
+    "wk_readings_kun": [
+      "!かわ"
+    ],
+    "wk_radicals": [
+      "Slide",
+      "Branch"
+    ]
+  },
+  "皿": {
+    "strokes": 5,
+    "grade": 3,
+    "freq": 1812,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Dish",
+      "A Helping",
+      "Plate"
+    ],
+    "readings_on": [
+      "べい"
+    ],
+    "readings_kun": [
+      "さら"
+    ],
+    "wk_level": 4,
+    "wk_meanings": [
+      "Plate",
+      "^Dish"
+    ],
+    "wk_readings_on": [],
+    "wk_readings_kun": [
+      "さら"
+    ],
+    "wk_radicals": [
+      "Plate"
+    ]
+  },
+  "竹": {
+    "strokes": 6,
+    "grade": 1,
+    "freq": 593,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Bamboo"
+    ],
+    "readings_on": [
+      "ちく"
+    ],
+    "readings_kun": [
+      "たけ"
+    ],
+    "wk_level": 4,
+    "wk_meanings": [
+      "Bamboo"
+    ],
+    "wk_readings_on": [],
+    "wk_readings_kun": [
+      "たけ"
+    ],
+    "wk_radicals": [
+      "Bamboo"
+    ]
+  },
+  "糸": {
+    "strokes": 6,
+    "grade": 1,
+    "freq": 1488,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Thread"
+    ],
+    "readings_on": [
+      "し"
+    ],
+    "readings_kun": [
+      "いと"
+    ],
+    "wk_level": 4,
+    "wk_meanings": [
+      "Thread"
+    ],
+    "wk_readings_on": [
+      "!し"
+    ],
+    "wk_readings_kun": [
+      "いと"
+    ],
+    "wk_radicals": [
+      "Thread"
+    ]
+  },
+  "虫": {
+    "strokes": 6,
+    "grade": 1,
+    "freq": 1351,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Insect",
+      "Bug",
+      "Temper"
+    ],
+    "readings_on": [
+      "ちゅう",
+      "き"
+    ],
+    "readings_kun": [
+      "むし"
+    ],
+    "wk_level": 4,
+    "wk_meanings": [
+      "Insect",
+      "^Bug"
+    ],
+    "wk_readings_on": [
+      "!ちゅう",
+      "!き"
+    ],
+    "wk_readings_kun": [
+      "むし"
+    ],
+    "wk_radicals": [
+      "Insect"
+    ]
+  },
+  "村": {
+    "strokes": 7,
+    "grade": 1,
+    "freq": 253,
+    "jlpt_old": 3,
+    "jlpt_new": 2,
+    "meanings": [
+      "Village",
+      "Town"
+    ],
+    "readings_on": [
+      "そん"
+    ],
+    "readings_kun": [
+      "むら"
+    ],
+    "wk_level": 4,
+    "wk_meanings": [
+      "Village"
+    ],
+    "wk_readings_on": [
+      "!そん"
+    ],
+    "wk_readings_kun": [
+      "むら"
+    ],
+    "wk_radicals": [
+      "Tree",
+      "Measurement"
+    ]
+  },
+  "貝": {
+    "strokes": 7,
+    "grade": 1,
+    "freq": 1787,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Shellfish"
+    ],
+    "readings_on": [
+      "ばい"
+    ],
+    "readings_kun": [
+      "かい"
+    ],
+    "wk_level": 4,
+    "wk_meanings": [
+      "Shellfish",
+      "^Shell"
+    ],
+    "wk_readings_on": [],
+    "wk_readings_kun": [
+      "かい"
+    ],
+    "wk_radicals": [
+      "Shellfish"
+    ]
+  },
+  "池": {
+    "strokes": 6,
+    "grade": 2,
+    "freq": 827,
+    "jlpt_old": 3,
+    "jlpt_new": 2,
+    "meanings": [
+      "Pond",
+      "Cistern",
+      "Pool",
+      "Reservoir"
+    ],
+    "readings_on": [
+      "ち"
+    ],
+    "readings_kun": [
+      "いけ"
+    ],
+    "wk_level": 8,
+    "wk_meanings": [
+      "Pond"
+    ],
+    "wk_readings_on": [
+      "ち"
+    ],
+    "wk_readings_kun": [
+      "!いけ"
+    ],
+    "wk_radicals": [
+      "Alligator",
+      "Tsunami"
+    ]
+  },
+  "羽": {
+    "strokes": 6,
+    "grade": 2,
+    "freq": 748,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Feathers",
+      "Counter For Birds, Rabbits"
+    ],
+    "readings_on": [
+      "う"
+    ],
+    "readings_kun": [
+      "は",
+      "わ",
+      "はね"
+    ],
+    "wk_level": 5,
+    "wk_meanings": [
+      "Feather",
+      "^Feathers",
+      "^Wing",
+      "^Wings"
+    ],
+    "wk_readings_on": [
+      "!う"
+    ],
+    "wk_readings_kun": [
+      "はね",
+      "は",
+      "わ"
+    ],
+    "wk_radicals": [
+      "Feathers"
+    ]
+  },
+  "角": {
+    "strokes": 7,
+    "grade": 2,
+    "freq": 805,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Angle",
+      "Corner",
+      "Square",
+      "Horn",
+      "Antlers"
+    ],
+    "readings_on": [
+      "かく"
+    ],
+    "readings_kun": [
+      "かど",
+      "つの"
+    ],
+    "wk_level": 5,
+    "wk_meanings": [
+      "Angle",
+      "^Corner"
+    ],
+    "wk_readings_on": [
+      "かく"
+    ],
+    "wk_readings_kun": [
+      "!かど"
+    ],
+    "wk_radicals": [
+      "Prison",
+      "Task"
+    ]
+  },
+  "谷": {
+    "strokes": 7,
+    "grade": 2,
+    "freq": 508,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Valley"
+    ],
+    "readings_on": [
+      "こく"
+    ],
+    "readings_kun": [
+      "たに",
+      "きわ.まる"
+    ],
+    "wk_level": 5,
+    "wk_meanings": [
+      "Valley"
+    ],
+    "wk_readings_on": [
+      "!こく"
+    ],
+    "wk_readings_kun": [
+      "たに"
+    ],
+    "wk_radicals": [
+      "Fins",
+      "Hat",
+      "Mouth"
+    ]
+  },
+  "麦": {
+    "strokes": 7,
+    "grade": 2,
+    "freq": 1615,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Barley",
+      "Wheat"
+    ],
+    "readings_on": [
+      "ばく"
+    ],
+    "readings_kun": [
+      "むぎ"
+    ],
+    "wk_level": 5,
+    "wk_meanings": [
+      "Wheat"
+    ],
+    "wk_readings_on": [
+      "!ばく"
+    ],
+    "wk_readings_kun": [
+      "むぎ"
+    ],
+    "wk_radicals": [
+      "Life",
+      "Winter"
+    ]
+  },
+  "林": {
+    "strokes": 8,
+    "grade": 1,
+    "freq": 656,
+    "jlpt_old": 3,
+    "jlpt_new": 2,
+    "meanings": [
+      "Grove",
+      "Forest"
+    ],
+    "readings_on": [
+      "りん"
+    ],
+    "readings_kun": [
+      "はやし"
+    ],
+    "wk_level": 5,
+    "wk_meanings": [
+      "Forest",
+      "^Woods"
+    ],
+    "wk_readings_on": [
+      "!りん"
+    ],
+    "wk_readings_kun": [
+      "はやし"
+    ],
+    "wk_radicals": [
+      "Tree"
+    ]
+  },
+  "州": {
+    "strokes": 6,
+    "grade": 3,
+    "freq": 386,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "State",
+      "Province"
+    ],
+    "readings_on": [
+      "しゅう",
+      "す"
+    ],
+    "readings_kun": [
+      "す"
+    ],
+    "wk_level": 6,
+    "wk_meanings": [
+      "State",
+      "^Province",
+      "^County"
+    ],
+    "wk_readings_on": [
+      "しゅう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Drop",
+      "River"
+    ]
+  },
+  "血": {
+    "strokes": 6,
+    "grade": 3,
+    "freq": 832,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Blood"
+    ],
+    "readings_on": [
+      "けつ"
+    ],
+    "readings_kun": [
+      "ち"
+    ],
+    "wk_level": 6,
+    "wk_meanings": [
+      "Blood"
+    ],
+    "wk_readings_on": [
+      "けつ"
+    ],
+    "wk_readings_kun": [
+      "!ち"
+    ],
+    "wk_radicals": [
+      "Blood"
+    ]
+  },
+  "星": {
+    "strokes": 9,
+    "grade": 2,
+    "freq": 844,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Star",
+      "Spot",
+      "Dot",
+      "Mark"
+    ],
+    "readings_on": [
+      "せい",
+      "しょう"
+    ],
+    "readings_kun": [
+      "ほし",
+      "-ぼし"
+    ],
+    "wk_level": 6,
+    "wk_meanings": [
+      "Star"
+    ],
+    "wk_readings_on": [
+      "せい"
+    ],
+    "wk_readings_kun": [
+      "!ほし"
+    ],
+    "wk_radicals": [
+      "Sun",
+      "Life"
+    ]
+  },
+  "札": {
+    "strokes": 5,
+    "grade": 4,
+    "freq": 921,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Tag",
+      "Paper Money",
+      "Counter For Bonds",
+      "Placard",
+      "Bid"
+    ],
+    "readings_on": [
+      "さつ"
+    ],
+    "readings_kun": [
+      "ふだ"
+    ],
+    "wk_level": 7,
+    "wk_meanings": [
+      "Bill",
+      "^Tag",
+      "^Label",
+      "^Note"
+    ],
+    "wk_readings_on": [
+      "さつ"
+    ],
+    "wk_readings_kun": [
+      "!ふだ"
+    ],
+    "wk_radicals": [
+      "Tree",
+      "Umbrella"
+    ]
+  },
+  "辺": {
+    "strokes": 5,
+    "grade": 4,
+    "freq": 428,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Environs",
+      "Boundary",
+      "Border",
+      "Vicinity"
+    ],
+    "readings_on": [
+      "へん"
+    ],
+    "readings_kun": [
+      "あた.り",
+      "ほと.り",
+      "-べ"
+    ],
+    "wk_level": 7,
+    "wk_meanings": [
+      "Area"
+    ],
+    "wk_readings_on": [
+      "へん"
+    ],
+    "wk_readings_kun": [
+      "!あた",
+      "!べ"
+    ],
+    "wk_radicals": [
+      "Scooter",
+      "Sword"
+    ]
+  },
+  "弱": {
+    "strokes": 10,
+    "grade": 2,
+    "freq": 958,
+    "jlpt_old": 3,
+    "jlpt_new": 2,
+    "meanings": [
+      "Weak",
+      "Frail"
+    ],
+    "readings_on": [
+      "じゃく"
+    ],
+    "readings_kun": [
+      "よわ.い",
+      "よわ.る",
+      "よわ.まる",
+      "よわ.める"
+    ],
+    "wk_level": 7,
+    "wk_meanings": [
+      "Weak"
+    ],
+    "wk_readings_on": [
+      "じゃく"
+    ],
+    "wk_readings_kun": [
+      "!よわ"
+    ],
+    "wk_radicals": [
+      "Bow",
+      "Ice"
+    ]
+  },
+  "黄": {
+    "strokes": 11,
+    "grade": 2,
+    "freq": 1240,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Yellow"
+    ],
+    "readings_on": [
+      "こう",
+      "おう"
+    ],
+    "readings_kun": [
+      "き",
+      "こ-"
+    ],
+    "wk_level": 7,
+    "wk_meanings": [
+      "Yellow"
+    ],
+    "wk_readings_on": [
+      "!おう"
+    ],
+    "wk_readings_kun": [
+      "き"
+    ],
+    "wk_radicals": [
+      "Yellow"
+    ]
+  },
+  "森": {
+    "strokes": 12,
+    "grade": 1,
+    "freq": 609,
+    "jlpt_old": 3,
+    "jlpt_new": 2,
+    "meanings": [
+      "Forest",
+      "Woods"
+    ],
+    "readings_on": [
+      "しん"
+    ],
+    "readings_kun": [
+      "もり"
+    ],
+    "wk_level": 8,
+    "wk_meanings": [
+      "Forest",
+      "^Woods"
+    ],
+    "wk_readings_on": [
+      "!しん"
+    ],
+    "wk_readings_kun": [
+      "もり"
+    ],
+    "wk_radicals": [
+      "Tree"
+    ]
+  },
+  "雲": {
+    "strokes": 12,
+    "grade": 2,
+    "freq": 1256,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Cloud"
+    ],
+    "readings_on": [
+      "うん"
+    ],
+    "readings_kun": [
+      "くも",
+      "-ぐも"
+    ],
+    "wk_level": 8,
+    "wk_meanings": [
+      "Cloud"
+    ],
+    "wk_readings_on": [
+      "!うん"
+    ],
+    "wk_readings_kun": [
+      "くも"
+    ],
+    "wk_radicals": [
+      "Rain",
+      "Cloud"
+    ]
+  },
+  "県": {
+    "strokes": 9,
+    "grade": 3,
+    "freq": 140,
+    "jlpt_old": 3,
+    "jlpt_new": 2,
+    "meanings": [
+      "Prefecture"
+    ],
+    "readings_on": [
+      "けん"
+    ],
+    "readings_kun": [
+      "か.ける"
+    ],
+    "wk_level": 9,
+    "wk_meanings": [
+      "Prefecture"
+    ],
+    "wk_readings_on": [
+      "けん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Eye",
+      "Lion",
+      "Small"
+    ]
+  },
+  "軽": {
+    "strokes": 12,
+    "grade": 3,
+    "freq": 790,
+    "jlpt_old": 3,
+    "jlpt_new": 2,
+    "meanings": [
+      "Lightly",
+      "Trifling",
+      "Unimportant"
+    ],
+    "readings_on": [
+      "けい",
+      "きょう",
+      "きん"
+    ],
+    "readings_kun": [
+      "かる.い",
+      "かろ.やか",
+      "かろ.んじる"
+    ],
+    "wk_level": 10,
+    "wk_meanings": [
+      "Lightweight",
+      "^Light",
+      "^Light Weight"
+    ],
+    "wk_readings_on": [
+      "!けい"
+    ],
+    "wk_readings_kun": [
+      "かる",
+      "かろ"
+    ],
+    "wk_radicals": [
+      "Car",
+      "Tombstone"
+    ]
+  },
+  "農": {
+    "strokes": 13,
+    "grade": 3,
+    "freq": 385,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Agriculture",
+      "Farmers"
+    ],
+    "readings_on": [
+      "のう"
+    ],
+    "readings_kun": [],
+    "wk_level": 10,
+    "wk_meanings": [
+      "Farming",
+      "^Agriculture"
+    ],
+    "wk_readings_on": [
+      "のう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Music",
+      "Landslide"
+    ]
+  },
+  "鉄": {
+    "strokes": 13,
+    "grade": 3,
+    "freq": 672,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Iron"
+    ],
+    "readings_on": [
+      "てつ"
+    ],
+    "readings_kun": [
+      "くろがね"
+    ],
+    "wk_level": 10,
+    "wk_meanings": [
+      "Iron"
+    ],
+    "wk_readings_on": [
+      "てつ"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Gold",
+      "Fault"
+    ]
+  },
+  "算": {
+    "strokes": 14,
+    "grade": 2,
+    "freq": 361,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Calculate",
+      "Divining",
+      "Number",
+      "Abacus",
+      "Probability"
+    ],
+    "readings_on": [
+      "さん"
+    ],
+    "readings_kun": [
+      "そろ"
+    ],
+    "wk_level": 10,
+    "wk_meanings": [
+      "Calculate",
+      "^Calculation"
+    ],
+    "wk_readings_on": [
+      "さん"
+    ],
+    "wk_readings_kun": [
+      "!そろ"
+    ],
+    "wk_radicals": [
+      "Bamboo",
+      "Eye",
+      "Twenty"
+    ]
+  },
+  "線": {
+    "strokes": 15,
+    "grade": 2,
+    "freq": 382,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Line",
+      "Track"
+    ],
+    "readings_on": [
+      "せん"
+    ],
+    "readings_kun": [
+      "すじ"
+    ],
+    "wk_level": 10,
+    "wk_meanings": [
+      "Line"
+    ],
+    "wk_readings_on": [
+      "せん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Thread",
+      "White",
+      "Water"
+    ]
+  },
+  "仲": {
+    "strokes": 6,
+    "grade": 4,
+    "freq": 919,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Go-between",
+      "Relationship"
+    ],
+    "readings_on": [
+      "ちゅう"
+    ],
+    "readings_kun": [
+      "なか"
+    ],
+    "wk_level": 11,
+    "wk_meanings": [
+      "Relationship"
+    ],
+    "wk_readings_on": [
+      "!ちゅう"
+    ],
+    "wk_readings_kun": [
+      "なか"
+    ],
+    "wk_radicals": [
+      "Leader",
+      "Middle"
+    ]
+  },
+  "低": {
+    "strokes": 7,
+    "grade": 4,
+    "freq": 435,
+    "jlpt_old": 3,
+    "jlpt_new": 2,
+    "meanings": [
+      "Lower",
+      "Short",
+      "Humble"
+    ],
+    "readings_on": [
+      "てい"
+    ],
+    "readings_kun": [
+      "ひく.い",
+      "ひく.める",
+      "ひく.まる"
+    ],
+    "wk_level": 11,
+    "wk_meanings": [
+      "Low"
+    ],
+    "wk_readings_on": [
+      "てい"
+    ],
+    "wk_readings_kun": [
+      "!ひく"
+    ],
+    "wk_radicals": [
+      "Leader",
+      "Clan",
+      "Ground"
+    ]
+  },
+  "岸": {
+    "strokes": 8,
+    "grade": 3,
+    "freq": 556,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Beach"
+    ],
+    "readings_on": [
+      "がん"
+    ],
+    "readings_kun": [
+      "きし"
+    ],
+    "wk_level": 11,
+    "wk_meanings": [
+      "Coast",
+      "^Shore"
+    ],
+    "wk_readings_on": [
+      "がん"
+    ],
+    "wk_readings_kun": [
+      "!きし"
+    ],
+    "wk_radicals": [
+      "Mountain",
+      "Cliff",
+      "Dry"
+    ]
+  },
+  "波": {
+    "strokes": 8,
+    "grade": 3,
+    "freq": 740,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Waves",
+      "Billows",
+      "Poland"
+    ],
+    "readings_on": [
+      "は"
+    ],
+    "readings_kun": [
+      "なみ"
+    ],
+    "wk_level": 11,
+    "wk_meanings": [
+      "Wave"
+    ],
+    "wk_readings_on": [
+      "は"
+    ],
+    "wk_readings_kun": [
+      "!なみ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Skin"
+    ]
+  },
+  "拾": {
+    "strokes": 9,
+    "grade": 3,
+    "freq": 1479,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Pick Up",
+      "Gather",
+      "Find",
+      "Go On Foot",
+      "Ten"
+    ],
+    "readings_on": [
+      "しゅう",
+      "じゅう"
+    ],
+    "readings_kun": [
+      "ひろ.う"
+    ],
+    "wk_level": 11,
+    "wk_meanings": [
+      "Pick Up"
+    ],
+    "wk_readings_on": [],
+    "wk_readings_kun": [
+      "ひろ"
+    ],
+    "wk_radicals": [
+      "Fingers",
+      "Suit"
+    ]
+  },
+  "秒": {
+    "strokes": 9,
+    "grade": 3,
+    "freq": 1015,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Second (1/60 Minute)"
+    ],
+    "readings_on": [
+      "びょう"
+    ],
+    "readings_kun": [],
+    "wk_level": 11,
+    "wk_meanings": [
+      "Second"
+    ],
+    "wk_readings_on": [
+      "びょう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Grain",
+      "Few"
+    ]
+  },
+  "競": {
+    "strokes": 20,
+    "grade": 4,
+    "freq": 610,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Emulate",
+      "Compete With",
+      "Bid",
+      "Sell At Auction",
+      "Bout",
+      "Contest",
+      "Race"
+    ],
+    "readings_on": [
+      "きょう",
+      "けい"
+    ],
+    "readings_kun": [
+      "きそ.う",
+      "せ.る",
+      "くら.べる"
+    ],
+    "wk_level": 11,
+    "wk_meanings": [
+      "Compete"
+    ],
+    "wk_readings_on": [
+      "きょう"
+    ],
+    "wk_readings_kun": [
+      "!きそ"
+    ],
+    "wk_radicals": [
+      "Stand",
+      "Older Brother"
+    ]
+  },
+  "令": {
+    "strokes": 5,
+    "grade": 4,
+    "freq": 804,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Orders",
+      "Ancient Laws",
+      "Command",
+      "Decree"
+    ],
+    "readings_on": [
+      "れい"
+    ],
+    "readings_kun": [],
+    "wk_level": 11,
+    "wk_meanings": [
+      "Orders"
+    ],
+    "wk_readings_on": [
+      "れい"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Orders"
+    ]
+  },
+  "根": {
+    "strokes": 10,
+    "grade": 3,
+    "freq": 620,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Root",
+      "Radical",
+      "Head (pimple)"
+    ],
+    "readings_on": [
+      "こん"
+    ],
+    "readings_kun": [
+      "ね",
+      "-ね"
+    ],
+    "wk_level": 12,
+    "wk_meanings": [
+      "Root"
+    ],
+    "wk_readings_on": [
+      "こん"
+    ],
+    "wk_readings_kun": [
+      "!ね"
+    ],
+    "wk_radicals": [
+      "Tree",
+      "Root"
+    ]
+  },
+  "倍": {
+    "strokes": 10,
+    "grade": 3,
+    "freq": 714,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Double",
+      "Twice",
+      "Times",
+      "Fold"
+    ],
+    "readings_on": [
+      "ばい"
+    ],
+    "readings_kun": [],
+    "wk_level": 12,
+    "wk_meanings": [
+      "Double",
+      "^Times",
+      "^Multiply"
+    ],
+    "wk_readings_on": [
+      "ばい"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Leader",
+      "Clown"
+    ]
+  },
+  "島": {
+    "strokes": 10,
+    "grade": 3,
+    "freq": 245,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Island"
+    ],
+    "readings_on": [
+      "とう"
+    ],
+    "readings_kun": [
+      "しま"
+    ],
+    "wk_level": 12,
+    "wk_meanings": [
+      "Island"
+    ],
+    "wk_readings_on": [
+      "!とう"
+    ],
+    "wk_readings_kun": [
+      "しま"
+    ],
+    "wk_radicals": [
+      "Bird",
+      "Mountain"
+    ]
+  },
+  "祭": {
+    "strokes": 11,
+    "grade": 3,
+    "freq": 1124,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Ritual",
+      "Offer Prayers",
+      "Celebrate",
+      "Deify",
+      "Enshrine",
+      "Worship"
+    ],
+    "readings_on": [
+      "さい"
+    ],
+    "readings_kun": [
+      "まつ.る",
+      "まつ.り",
+      "まつり"
+    ],
+    "wk_level": 12,
+    "wk_meanings": [
+      "Festival"
+    ],
+    "wk_readings_on": [
+      "さい"
+    ],
+    "wk_readings_kun": [
+      "!まつり",
+      "!まつ"
+    ],
+    "wk_radicals": [
+      "Tent",
+      "Jackhammer"
+    ]
+  },
+  "章": {
+    "strokes": 11,
+    "grade": 3,
+    "freq": 990,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Badge",
+      "Chapter",
+      "Composition",
+      "Poem",
+      "Design"
+    ],
+    "readings_on": [
+      "しょう"
+    ],
+    "readings_kun": [],
+    "wk_level": 12,
+    "wk_meanings": [
+      "Chapter"
+    ],
+    "wk_readings_on": [
+      "しょう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Stand",
+      "Early"
+    ]
+  },
+  "童": {
+    "strokes": 12,
+    "grade": 3,
+    "freq": 1138,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Juvenile",
+      "Child"
+    ],
+    "readings_on": [
+      "どう"
+    ],
+    "readings_kun": [
+      "わらべ"
+    ],
+    "wk_level": 12,
+    "wk_meanings": [
+      "Juvenile"
+    ],
+    "wk_readings_on": [
+      "どう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Stand",
+      "Village"
+    ]
+  },
+  "階": {
+    "strokes": 12,
+    "grade": 3,
+    "freq": 513,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Storey",
+      "Stair",
+      "Counter For Storeys Of A Building"
+    ],
+    "readings_on": [
+      "かい"
+    ],
+    "readings_kun": [
+      "きざはし"
+    ],
+    "wk_level": 12,
+    "wk_meanings": [
+      "Floor",
+      "^Story",
+      "^Storey"
+    ],
+    "wk_readings_on": [
+      "かい"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Building",
+      "Compare",
+      "White"
+    ]
+  },
+  "植": {
+    "strokes": 12,
+    "grade": 3,
+    "freq": 699,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Plant"
+    ],
+    "readings_on": [
+      "しょく"
+    ],
+    "readings_kun": [
+      "う.える",
+      "う.わる"
+    ],
+    "wk_level": 12,
+    "wk_meanings": [
+      "Plant"
+    ],
+    "wk_readings_on": [
+      "しょく"
+    ],
+    "wk_readings_kun": [
+      "!う"
+    ],
+    "wk_radicals": [
+      "Tree",
+      "Fix"
+    ]
+  },
+  "温": {
+    "strokes": 12,
+    "grade": 3,
+    "freq": 838,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Warm"
+    ],
+    "readings_on": [
+      "おん"
+    ],
+    "readings_kun": [
+      "あたた.か",
+      "あたた.かい",
+      "あたた.まる",
+      "あたた.める",
+      "ぬく"
+    ],
+    "wk_level": 12,
+    "wk_meanings": [
+      "Warm"
+    ],
+    "wk_readings_on": [
+      "おん"
+    ],
+    "wk_readings_kun": [
+      "!あたた"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Sun",
+      "Plate"
+    ]
+  },
+  "湯": {
+    "strokes": 12,
+    "grade": 3,
+    "freq": 1356,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Hot Water",
+      "Bath",
+      "Hot Spring"
+    ],
+    "readings_on": [
+      "とう"
+    ],
+    "readings_kun": [
+      "ゆ"
+    ],
+    "wk_level": 12,
+    "wk_meanings": [
+      "Hot Water"
+    ],
+    "wk_readings_on": [
+      "!とう"
+    ],
+    "wk_readings_kun": [
+      "ゆ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Easy"
+    ]
+  },
+  "短": {
+    "strokes": 12,
+    "grade": 3,
+    "freq": 689,
+    "jlpt_old": 3,
+    "jlpt_new": 2,
+    "meanings": [
+      "Short",
+      "Brevity",
+      "Fault",
+      "Defect",
+      "Weak Point"
+    ],
+    "readings_on": [
+      "たん"
+    ],
+    "readings_kun": [
+      "みじか.い"
+    ],
+    "wk_level": 12,
+    "wk_meanings": [
+      "Short"
+    ],
+    "wk_readings_on": [
+      "たん"
+    ],
+    "wk_readings_kun": [
+      "!みじか"
+    ],
+    "wk_radicals": [
+      "Arrow",
+      "Beans"
+    ]
+  },
+  "泉": {
+    "strokes": 9,
+    "grade": 6,
+    "freq": 1086,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Spring",
+      "Fountain"
+    ],
+    "readings_on": [
+      "せん"
+    ],
+    "readings_kun": [
+      "いずみ"
+    ],
+    "wk_level": 12,
+    "wk_meanings": [
+      "Spring",
+      "^Fountain"
+    ],
+    "wk_readings_on": [
+      "せん"
+    ],
+    "wk_readings_kun": [
+      "!いずみ"
+    ],
+    "wk_radicals": [
+      "White",
+      "Water"
+    ]
+  },
+  "橋": {
+    "strokes": 16,
+    "grade": 3,
+    "freq": 553,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Bridge"
+    ],
+    "readings_on": [
+      "きょう"
+    ],
+    "readings_kun": [
+      "はし"
+    ],
+    "wk_level": 13,
+    "wk_meanings": [
+      "Bridge"
+    ],
+    "wk_readings_on": [
+      "!きょう"
+    ],
+    "wk_readings_kun": [
+      "はし"
+    ],
+    "wk_radicals": [
+      "Tree",
+      "Heaven",
+      "Mouth",
+      "Mustache"
+    ]
+  },
+  "緑": {
+    "strokes": 14,
+    "grade": 3,
+    "freq": 1180,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Green"
+    ],
+    "readings_on": [
+      "りょく",
+      "ろく"
+    ],
+    "readings_kun": [
+      "みどり"
+    ],
+    "wk_level": 13,
+    "wk_meanings": [
+      "Green"
+    ],
+    "wk_readings_on": [
+      "!りょく"
+    ],
+    "wk_readings_kun": [
+      "みどり"
+    ],
+    "wk_radicals": [
+      "Thread",
+      "Wolverine",
+      "Water"
+    ]
+  },
+  "練": {
+    "strokes": 14,
+    "grade": 3,
+    "freq": 788,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Practice",
+      "Gloss",
+      "Train",
+      "Drill",
+      "Polish",
+      "Refine"
+    ],
+    "readings_on": [
+      "れん"
+    ],
+    "readings_kun": [
+      "ね.る",
+      "ね.り"
+    ],
+    "wk_level": 13,
+    "wk_meanings": [
+      "Practice"
+    ],
+    "wk_readings_on": [
+      "れん"
+    ],
+    "wk_readings_kun": [
+      "!ね"
+    ],
+    "wk_radicals": [
+      "Thread",
+      "East"
+    ]
+  },
+  "億": {
+    "strokes": 15,
+    "grade": 4,
+    "freq": 716,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Hundred Million",
+      "10**8"
+    ],
+    "readings_on": [
+      "おく"
+    ],
+    "readings_kun": [],
+    "wk_level": 13,
+    "wk_meanings": [
+      "Hundred Million"
+    ],
+    "wk_readings_on": [
+      "おく"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Leader",
+      "Idea"
+    ]
+  },
+  "課": {
+    "strokes": 15,
+    "grade": 4,
+    "freq": 455,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Chapter",
+      "Lesson",
+      "Section",
+      "Department",
+      "Division",
+      "Counter For Chapters (of A Book)"
+    ],
+    "readings_on": [
+      "か"
+    ],
+    "readings_kun": [],
+    "wk_level": 13,
+    "wk_meanings": [
+      "Section"
+    ],
+    "wk_readings_on": [
+      "か"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Say",
+      "Fruit"
+    ]
+  },
+  "賞": {
+    "strokes": 15,
+    "grade": 4,
+    "freq": 426,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Prize",
+      "Reward",
+      "Praise"
+    ],
+    "readings_on": [
+      "しょう"
+    ],
+    "readings_kun": [
+      "ほ.める"
+    ],
+    "wk_level": 13,
+    "wk_meanings": [
+      "Prize"
+    ],
+    "wk_readings_on": [
+      "しょう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Viking",
+      "Mouth",
+      "Shellfish"
+    ]
+  },
+  "輪": {
+    "strokes": 15,
+    "grade": 4,
+    "freq": 693,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Wheel",
+      "Ring",
+      "Circle",
+      "Link",
+      "Loop",
+      "Counter For Wheels And Flowers"
+    ],
+    "readings_on": [
+      "りん"
+    ],
+    "readings_kun": [
+      "わ"
+    ],
+    "wk_level": 13,
+    "wk_meanings": [
+      "Wheel",
+      "^Ring",
+      "^Loop"
+    ],
+    "wk_readings_on": [
+      "りん"
+    ],
+    "wk_readings_kun": [
+      "!わ"
+    ],
+    "wk_radicals": [
+      "Car",
+      "Hat",
+      "Ground",
+      "Bookshelf"
+    ]
+  },
+  "像": {
+    "strokes": 14,
+    "grade": 5,
+    "freq": 856,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Statue",
+      "Picture",
+      "Image",
+      "Figure",
+      "Portrait"
+    ],
+    "readings_on": [
+      "ぞう"
+    ],
+    "readings_kun": [],
+    "wk_level": 13,
+    "wk_meanings": [
+      "Statue",
+      "^Image"
+    ],
+    "wk_readings_on": [
+      "ぞう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Leader",
+      "Elephant"
+    ]
+  },
+  "卒": {
+    "strokes": 8,
+    "grade": 4,
+    "freq": 772,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Graduate",
+      "Soldier",
+      "Private",
+      "Die"
+    ],
+    "readings_on": [
+      "そつ",
+      "しゅつ"
+    ],
+    "readings_kun": [
+      "そっ.する",
+      "お.える",
+      "お.わる",
+      "ついに",
+      "にわか"
+    ],
+    "wk_level": 14,
+    "wk_meanings": [
+      "Graduate"
+    ],
+    "wk_readings_on": [
+      "そつ"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Lid",
+      "Person",
+      "Cross"
+    ]
+  },
+  "協": {
+    "strokes": 8,
+    "grade": 4,
+    "freq": 121,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Co-",
+      "Cooperation"
+    ],
+    "readings_on": [
+      "きょう"
+    ],
+    "readings_kun": [],
+    "wk_level": 14,
+    "wk_meanings": [
+      "Cooperation"
+    ],
+    "wk_readings_on": [
+      "きょう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Cross",
+      "Power"
+    ]
+  },
+  "周": {
+    "strokes": 8,
+    "grade": 4,
+    "freq": 562,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Circumference",
+      "Circuit",
+      "Lap"
+    ],
+    "readings_on": [
+      "しゅう"
+    ],
+    "readings_kun": [
+      "まわ.り"
+    ],
+    "wk_level": 14,
+    "wk_meanings": [
+      "Circumference"
+    ],
+    "wk_readings_on": [
+      "しゅう"
+    ],
+    "wk_readings_kun": [
+      "!まわ"
+    ],
+    "wk_radicals": [
+      "Circumference"
+    ]
+  },
+  "囲": {
+    "strokes": 7,
+    "grade": 4,
+    "freq": 771,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Surround",
+      "Besiege",
+      "Store",
+      "Paling",
+      "Enclosure",
+      "Encircle",
+      "Preserve",
+      "Keep"
+    ],
+    "readings_on": [
+      "い"
+    ],
+    "readings_kun": [
+      "かこ.む",
+      "かこ.う",
+      "かこ.い"
+    ],
+    "wk_level": 14,
+    "wk_meanings": [
+      "Surround"
+    ],
+    "wk_readings_on": [
+      "い"
+    ],
+    "wk_readings_kun": [
+      "!かこ"
+    ],
+    "wk_radicals": [
+      "Mouth",
+      "Well"
+    ]
+  },
+  "固": {
+    "strokes": 8,
+    "grade": 4,
+    "freq": 750,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Harden",
+      "Set",
+      "Clot",
+      "Curdle"
+    ],
+    "readings_on": [
+      "こ"
+    ],
+    "readings_kun": [
+      "かた.める",
+      "かた.まる",
+      "かた.まり",
+      "かた.い"
+    ],
+    "wk_level": 14,
+    "wk_meanings": [
+      "Hard"
+    ],
+    "wk_readings_on": [
+      "こ"
+    ],
+    "wk_readings_kun": [
+      "!かた"
+    ],
+    "wk_radicals": [
+      "Mouth",
+      "Old"
+    ]
+  },
+  "季": {
+    "strokes": 8,
+    "grade": 4,
+    "freq": 842,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Seasons"
+    ],
+    "readings_on": [
+      "き"
+    ],
+    "readings_kun": [],
+    "wk_level": 14,
+    "wk_meanings": [
+      "Seasons"
+    ],
+    "wk_readings_on": [
+      "き"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Grain",
+      "Child"
+    ]
+  },
+  "希": {
+    "strokes": 7,
+    "grade": 4,
+    "freq": 896,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Hope",
+      "Beg",
+      "Request",
+      "Pray",
+      "Beseech",
+      "Greece",
+      "Dilute (acid)",
+      "Rare",
+      "Few",
+      "Phenomenal"
+    ],
+    "readings_on": [
+      "き",
+      "け"
+    ],
+    "readings_kun": [
+      "まれ"
+    ],
+    "wk_level": 14,
+    "wk_meanings": [
+      "Wish"
+    ],
+    "wk_readings_on": [
+      "き"
+    ],
+    "wk_readings_kun": [
+      "!まれ"
+    ],
+    "wk_radicals": [
+      "Treasure",
+      "Narwhal",
+      "Towel"
+    ]
+  },
+  "材": {
+    "strokes": 7,
+    "grade": 4,
+    "freq": 565,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Lumber",
+      "Log",
+      "Timber",
+      "Wood",
+      "Materials",
+      "Ingredients",
+      "Talent"
+    ],
+    "readings_on": [
+      "ざい"
+    ],
+    "readings_kun": [],
+    "wk_level": 14,
+    "wk_meanings": [
+      "Lumber",
+      "^Material",
+      "^Timber"
+    ],
+    "wk_readings_on": [
+      "ざい"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Tree",
+      "Genius"
+    ]
+  },
+  "芸": {
+    "strokes": 7,
+    "grade": 4,
+    "freq": 719,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Technique",
+      "Art",
+      "Craft",
+      "Performance",
+      "Acting",
+      "Trick",
+      "Stunt"
+    ],
+    "readings_on": [
+      "げい",
+      "うん"
+    ],
+    "readings_kun": [
+      "う.える",
+      "のり",
+      "わざ"
+    ],
+    "wk_level": 14,
+    "wk_meanings": [
+      "Acting",
+      "^Art"
+    ],
+    "wk_readings_on": [
+      "げい"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Flowers",
+      "Cloud"
+    ]
+  },
+  "技": {
+    "strokes": 7,
+    "grade": 5,
+    "freq": 434,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Skill",
+      "Art",
+      "Craft",
+      "Ability",
+      "Feat",
+      "Performance",
+      "Vocation",
+      "Arts"
+    ],
+    "readings_on": [
+      "ぎ"
+    ],
+    "readings_kun": [
+      "わざ"
+    ],
+    "wk_level": 14,
+    "wk_meanings": [
+      "Skill"
+    ],
+    "wk_readings_on": [
+      "ぎ"
+    ],
+    "wk_readings_kun": [
+      "!わざ"
+    ],
+    "wk_radicals": [
+      "Fingers",
+      "Branch"
+    ]
+  },
+  "骨": {
+    "strokes": 10,
+    "grade": 6,
+    "freq": 936,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Skeleton",
+      "Bone",
+      "Remains",
+      "Frame"
+    ],
+    "readings_on": [
+      "こつ"
+    ],
+    "readings_kun": [
+      "ほね"
+    ],
+    "wk_level": 14,
+    "wk_meanings": [
+      "Bone"
+    ],
+    "wk_readings_on": [
+      "こつ"
+    ],
+    "wk_readings_kun": [
+      "!ほね"
+    ],
+    "wk_radicals": [
+      "Mustache",
+      "Forehead",
+      "Moon"
+    ]
+  },
+  "寺": {
+    "strokes": 6,
+    "grade": 2,
+    "freq": 879,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Buddhist Temple"
+    ],
+    "readings_on": [
+      "じ"
+    ],
+    "readings_kun": [
+      "てら"
+    ],
+    "wk_level": 15,
+    "wk_meanings": [
+      "Temple"
+    ],
+    "wk_readings_on": [
+      "!じ"
+    ],
+    "wk_readings_kun": [
+      "てら"
+    ],
+    "wk_radicals": [
+      "Temple"
+    ]
+  },
+  "岩": {
+    "strokes": 8,
+    "grade": 2,
+    "freq": 787,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Boulder",
+      "Rock",
+      "Cliff"
+    ],
+    "readings_on": [
+      "がん"
+    ],
+    "readings_kun": [
+      "いわ"
+    ],
+    "wk_level": 15,
+    "wk_meanings": [
+      "Boulder"
+    ],
+    "wk_readings_on": [
+      "!がん"
+    ],
+    "wk_readings_kun": [
+      "いわ"
+    ],
+    "wk_radicals": [
+      "Mountain",
+      "Stone"
+    ]
+  },
+  "区": {
+    "strokes": 4,
+    "grade": 3,
+    "freq": 137,
+    "jlpt_old": 3,
+    "jlpt_new": 2,
+    "meanings": [
+      "Ward",
+      "District"
+    ],
+    "readings_on": [
+      "く",
+      "おう",
+      "こう"
+    ],
+    "readings_kun": [],
+    "wk_level": 15,
+    "wk_meanings": [
+      "District",
+      "^Ward"
+    ],
+    "wk_readings_on": [
+      "く"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Cage",
+      "Treasure"
+    ]
+  },
+  "坂": {
+    "strokes": 7,
+    "grade": 3,
+    "freq": 865,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Slope",
+      "Incline",
+      "Hill"
+    ],
+    "readings_on": [
+      "はん"
+    ],
+    "readings_kun": [
+      "さか"
+    ],
+    "wk_level": 15,
+    "wk_meanings": [
+      "Slope"
+    ],
+    "wk_readings_on": [
+      "!はん"
+    ],
+    "wk_readings_kun": [
+      "さか"
+    ],
+    "wk_radicals": [
+      "Dirt",
+      "Anti"
+    ]
+  },
+  "勇": {
+    "strokes": 9,
+    "grade": 4,
+    "freq": 1319,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Courage",
+      "Cheer Up",
+      "Be In High Spirits",
+      "Bravery",
+      "Heroism"
+    ],
+    "readings_on": [
+      "ゆう"
+    ],
+    "readings_kun": [
+      "いさ.む"
+    ],
+    "wk_level": 15,
+    "wk_meanings": [
+      "Courage",
+      "^Bravery",
+      "^Valor",
+      "^Valour"
+    ],
+    "wk_readings_on": [
+      "ゆう"
+    ],
+    "wk_readings_kun": [
+      "!いさ"
+    ],
+    "wk_radicals": [
+      "Mama",
+      "Man"
+    ]
+  },
+  "毒": {
+    "strokes": 8,
+    "grade": 4,
+    "freq": 1419,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Poison",
+      "Virus",
+      "Venom",
+      "Germ",
+      "Harm",
+      "Injury",
+      "Spite"
+    ],
+    "readings_on": [
+      "どく"
+    ],
+    "readings_kun": [],
+    "wk_level": 15,
+    "wk_meanings": [
+      "Poison"
+    ],
+    "wk_readings_on": [
+      "どく"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Life",
+      "Window"
+    ]
+  },
+  "浅": {
+    "strokes": 9,
+    "grade": 4,
+    "freq": 1253,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Shallow",
+      "Superficial",
+      "Frivolous",
+      "Wretched",
+      "Shameful"
+    ],
+    "readings_on": [
+      "せん"
+    ],
+    "readings_kun": [
+      "あさ.い"
+    ],
+    "wk_level": 15,
+    "wk_meanings": [
+      "Shallow"
+    ],
+    "wk_readings_on": [
+      "!せん"
+    ],
+    "wk_readings_kun": [
+      "あさ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Bar"
+    ]
+  },
+  "軍": {
+    "strokes": 9,
+    "grade": 4,
+    "freq": 189,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Army",
+      "Force",
+      "Troops",
+      "War",
+      "Battle"
+    ],
+    "readings_on": [
+      "ぐん"
+    ],
+    "readings_kun": [
+      "いくさ"
+    ],
+    "wk_level": 15,
+    "wk_meanings": [
+      "Army"
+    ],
+    "wk_readings_on": [
+      "ぐん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Forehead",
+      "Car"
+    ]
+  },
+  "仏": {
+    "strokes": 4,
+    "grade": 5,
+    "freq": 819,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Buddha",
+      "The Dead",
+      "France"
+    ],
+    "readings_on": [
+      "ぶつ",
+      "ふつ"
+    ],
+    "readings_kun": [
+      "ほとけ"
+    ],
+    "wk_level": 15,
+    "wk_meanings": [
+      "Buddha"
+    ],
+    "wk_readings_on": [
+      "ぶつ"
+    ],
+    "wk_readings_kun": [
+      "!ほとけ"
+    ],
+    "wk_radicals": [
+      "Leader",
+      "Private"
+    ]
+  },
+  "築": {
+    "strokes": 16,
+    "grade": 5,
+    "freq": 821,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Fabricate",
+      "Build",
+      "Construct"
+    ],
+    "readings_on": [
+      "ちく"
+    ],
+    "readings_kun": [
+      "きず.く"
+    ],
+    "wk_level": 15,
+    "wk_meanings": [
+      "Construct",
+      "^Build"
+    ],
+    "wk_readings_on": [
+      "ちく"
+    ],
+    "wk_readings_kun": [
+      "!きず"
+    ],
+    "wk_radicals": [
+      "Bamboo",
+      "Saw",
+      "Tree"
+    ]
+  },
+  "門": {
+    "strokes": 8,
+    "grade": 2,
+    "freq": 452,
+    "jlpt_old": 3,
+    "jlpt_new": 2,
+    "meanings": [
+      "Gate",
+      "Counter For Cannons"
+    ],
+    "readings_on": [
+      "もん"
+    ],
+    "readings_kun": [
+      "かど",
+      "と"
+    ],
+    "wk_level": 16,
+    "wk_meanings": [
+      "Gates",
+      "^Gate"
+    ],
+    "wk_readings_on": [
+      "もん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Gate"
+    ]
+  },
+  "荷": {
+    "strokes": 10,
+    "grade": 3,
+    "freq": 1230,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Baggage",
+      "Shoulder-pole Load",
+      "Bear (a Burden)",
+      "Shoulder (a Gun)",
+      "Load",
+      "Cargo",
+      "Freight"
+    ],
+    "readings_on": [
+      "か"
+    ],
+    "readings_kun": [
+      "に"
+    ],
+    "wk_level": 16,
+    "wk_meanings": [
+      "Luggage"
+    ],
+    "wk_readings_on": [
+      "!か"
+    ],
+    "wk_readings_kun": [
+      "に"
+    ],
+    "wk_radicals": [
+      "Flowers",
+      "Leader",
+      "Lip Ring"
+    ]
+  },
+  "府": {
+    "strokes": 8,
+    "grade": 4,
+    "freq": 170,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Borough",
+      "Urban Prefecture",
+      "Govt Office",
+      "Representative Body",
+      "Storehouse"
+    ],
+    "readings_on": [
+      "ふ"
+    ],
+    "readings_kun": [],
+    "wk_level": 16,
+    "wk_meanings": [
+      "Government"
+    ],
+    "wk_readings_on": [
+      "ふ"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Canopy",
+      "Attach"
+    ]
+  },
+  "浴": {
+    "strokes": 10,
+    "grade": 4,
+    "freq": 1136,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Bathe",
+      "Be Favored With",
+      "Bask In"
+    ],
+    "readings_on": [
+      "よく"
+    ],
+    "readings_kun": [
+      "あ.びる",
+      "あ.びせる"
+    ],
+    "wk_level": 16,
+    "wk_meanings": [
+      "Bathe"
+    ],
+    "wk_readings_on": [
+      "よく"
+    ],
+    "wk_readings_kun": [
+      "!あ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Valley"
+    ]
+  },
+  "専": {
+    "strokes": 9,
+    "grade": 6,
+    "freq": 506,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Specialty",
+      "Exclusive",
+      "Mainly",
+      "Solely"
+    ],
+    "readings_on": [
+      "せん"
+    ],
+    "readings_kun": [
+      "もっぱ.ら"
+    ],
+    "wk_level": 16,
+    "wk_meanings": [
+      "Specialty"
+    ],
+    "wk_readings_on": [
+      "せん"
+    ],
+    "wk_readings_kun": [
+      "!もっぱ"
+    ],
+    "wk_radicals": [
+      "Cross",
+      "Rice Paddy",
+      "Measurement"
+    ]
+  },
+  "細": {
+    "strokes": 11,
+    "grade": 2,
+    "freq": 537,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Dainty",
+      "Get Thin",
+      "Taper",
+      "Slender",
+      "Narrow",
+      "Detailed",
+      "Precise"
+    ],
+    "readings_on": [
+      "さい"
+    ],
+    "readings_kun": [
+      "ほそ.い",
+      "ほそ.る",
+      "こま.か",
+      "こま.かい"
+    ],
+    "wk_level": 17,
+    "wk_meanings": [
+      "Thin"
+    ],
+    "wk_readings_on": [
+      "さい"
+    ],
+    "wk_readings_kun": [
+      "!ほそ",
+      "!こま"
+    ],
+    "wk_radicals": [
+      "Thread",
+      "Rice Paddy"
+    ]
+  },
+  "鼻": {
+    "strokes": 14,
+    "grade": 3,
+    "freq": 1632,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Nose",
+      "Snout"
+    ],
+    "readings_on": [
+      "び"
+    ],
+    "readings_kun": [
+      "はな"
+    ],
+    "wk_level": 17,
+    "wk_meanings": [
+      "Nose"
+    ],
+    "wk_readings_on": [
+      "!び"
+    ],
+    "wk_readings_kun": [
+      "はな"
+    ],
+    "wk_radicals": [
+      "Self",
+      "Rice Paddy",
+      "Twenty"
+    ]
+  },
+  "兵": {
+    "strokes": 7,
+    "grade": 4,
+    "freq": 522,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Soldier",
+      "Private",
+      "Troops",
+      "Army",
+      "Warfare",
+      "Strategy",
+      "Tactics"
+    ],
+    "readings_on": [
+      "へい",
+      "ひょう"
+    ],
+    "readings_kun": [
+      "つわもの"
+    ],
+    "wk_level": 17,
+    "wk_meanings": [
+      "Soldier"
+    ],
+    "wk_readings_on": [
+      "へい",
+      "ひょう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Axe",
+      "Ground",
+      "Fins"
+    ]
+  },
+  "塩": {
+    "strokes": 13,
+    "grade": 4,
+    "freq": 1148,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Salt"
+    ],
+    "readings_on": [
+      "えん"
+    ],
+    "readings_kun": [
+      "しお"
+    ],
+    "wk_level": 17,
+    "wk_meanings": [
+      "Salt"
+    ],
+    "wk_readings_on": [
+      "!えん"
+    ],
+    "wk_readings_kun": [
+      "しお"
+    ],
+    "wk_radicals": [
+      "Dirt",
+      "Gun",
+      "Mouth",
+      "Plate"
+    ]
+  },
+  "栄": {
+    "strokes": 9,
+    "grade": 4,
+    "freq": 920,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Flourish",
+      "Prosperity",
+      "Honor",
+      "Glory",
+      "Splendor"
+    ],
+    "readings_on": [
+      "えい",
+      "よう"
+    ],
+    "readings_kun": [
+      "さか.える",
+      "は.え",
+      "-ば.え",
+      "は.える",
+      "え"
+    ],
+    "wk_level": 17,
+    "wk_meanings": [
+      "Prosper",
+      "^Flourish"
+    ],
+    "wk_readings_on": [
+      "えい"
+    ],
+    "wk_readings_kun": [
+      "!さか"
+    ],
+    "wk_radicals": [
+      "Viking",
+      "Tree"
+    ]
+  },
+  "干": {
+    "strokes": 3,
+    "grade": 6,
+    "freq": 1349,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Dry",
+      "Parch",
+      "Ebb",
+      "Recede",
+      "Interfere",
+      "Intercede"
+    ],
+    "readings_on": [
+      "かん"
+    ],
+    "readings_kun": [
+      "ほ.す",
+      "ほ.し-",
+      "-ぼ.し",
+      "ひ.る"
+    ],
+    "wk_level": 17,
+    "wk_meanings": [
+      "Dry"
+    ],
+    "wk_readings_on": [
+      "かん"
+    ],
+    "wk_readings_kun": [
+      "!ほ",
+      "!ひ"
+    ],
+    "wk_radicals": [
+      "Dry"
+    ]
+  },
+  "底": {
+    "strokes": 8,
+    "grade": 4,
+    "freq": 867,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Bottom",
+      "Sole",
+      "Depth",
+      "Bottom Price",
+      "Base",
+      "Kind",
+      "Sort"
+    ],
+    "readings_on": [
+      "てい"
+    ],
+    "readings_kun": [
+      "そこ"
+    ],
+    "wk_level": 17,
+    "wk_meanings": [
+      "Bottom"
+    ],
+    "wk_readings_on": [
+      "!てい"
+    ],
+    "wk_readings_kun": [
+      "そこ"
+    ],
+    "wk_radicals": [
+      "Canopy",
+      "Clan",
+      "Ground"
+    ]
+  },
+  "署": {
+    "strokes": 13,
+    "grade": 6,
+    "freq": 725,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Signature",
+      "Govt Office",
+      "Police Station"
+    ],
+    "readings_on": [
+      "しょ"
+    ],
+    "readings_kun": [],
+    "wk_level": 17,
+    "wk_meanings": [
+      "Government Office",
+      "^Political Office",
+      "^Office"
+    ],
+    "wk_readings_on": [
+      "しょ"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Net",
+      "Someone"
+    ]
+  },
+  "恋": {
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1296,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Romance",
+      "In Love",
+      "Yearn For",
+      "Miss",
+      "Darling"
+    ],
+    "readings_on": [
+      "れん"
+    ],
+    "readings_kun": [
+      "こ.う",
+      "こい",
+      "こい.しい"
+    ],
+    "wk_level": 17,
+    "wk_meanings": [
+      "Romance"
+    ],
+    "wk_readings_on": [
+      "れん"
+    ],
+    "wk_readings_kun": [
+      "!こい"
+    ],
+    "wk_radicals": [
+      "Red",
+      "Heart"
+    ]
+  },
+  "訓": {
+    "strokes": 10,
+    "grade": 4,
+    "freq": 1134,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Instruction",
+      "Japanese Character Reading",
+      "Explanation",
+      "Read"
+    ],
+    "readings_on": [
+      "くん",
+      "きん"
+    ],
+    "readings_kun": [
+      "おし.える",
+      "よ.む",
+      "くん.ずる"
+    ],
+    "wk_level": 18,
+    "wk_meanings": [
+      "Instruction"
+    ],
+    "wk_readings_on": [
+      "くん"
+    ],
+    "wk_readings_kun": [
+      "!よ"
+    ],
+    "wk_radicals": [
+      "Say",
+      "River"
+    ]
+  },
+  "祈": {
+    "strokes": 8,
+    "grade": 8,
+    "freq": 1462,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Pray",
+      "Wish"
+    ],
+    "readings_on": [
+      "き"
+    ],
+    "readings_kun": [
+      "いの.る"
+    ],
+    "wk_level": 18,
+    "wk_meanings": [
+      "Pray"
+    ],
+    "wk_readings_on": [
+      "き"
+    ],
+    "wk_readings_kun": [
+      "!いの"
+    ],
+    "wk_radicals": [
+      "Spirit",
+      "Axe"
+    ]
+  },
+  "焼": {
+    "strokes": 12,
+    "grade": 4,
+    "freq": 982,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Bake",
+      "Burning"
+    ],
+    "readings_on": [
+      "しょう"
+    ],
+    "readings_kun": [
+      "や.く",
+      "や.き",
+      "や.き-",
+      "-や.き",
+      "や.ける"
+    ],
+    "wk_level": 18,
+    "wk_meanings": [
+      "Bake",
+      "^Cook",
+      "^Burn"
+    ],
+    "wk_readings_on": [
+      "!しょう"
+    ],
+    "wk_readings_kun": [
+      "や"
+    ],
+    "wk_radicals": [
+      "Fire",
+      "Gambler"
+    ]
+  },
+  "胸": {
+    "strokes": 10,
+    "grade": 6,
+    "freq": 1144,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Bosom",
+      "Breast",
+      "Chest",
+      "Heart",
+      "Feelings"
+    ],
+    "readings_on": [
+      "きょう"
+    ],
+    "readings_kun": [
+      "むね",
+      "むな-"
+    ],
+    "wk_level": 18,
+    "wk_meanings": [
+      "Chest",
+      "^Breast"
+    ],
+    "wk_readings_on": [
+      "!きょう"
+    ],
+    "wk_readings_kun": [
+      "むね"
+    ],
+    "wk_radicals": [
+      "Moon",
+      "Prison",
+      "Treasure Chest"
+    ]
+  },
+  "脳": {
+    "strokes": 11,
+    "grade": 6,
+    "freq": 459,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Brain",
+      "Memory"
+    ],
+    "readings_on": [
+      "のう",
+      "どう"
+    ],
+    "readings_kun": [
+      "のうずる"
+    ],
+    "wk_level": 18,
+    "wk_meanings": [
+      "Brain"
+    ],
+    "wk_readings_on": [
+      "のう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Moon",
+      "Grass",
+      "Treasure Chest"
+    ]
+  },
+  "枚": {
+    "strokes": 8,
+    "grade": 6,
+    "freq": 911,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Sheet Of...",
+      "Counter For Flat Thin Objects Or Sheets"
+    ],
+    "readings_on": [
+      "まい",
+      "ばい"
+    ],
+    "readings_kun": [],
+    "wk_level": 18,
+    "wk_meanings": [
+      "Flat Objects Counter",
+      "^Flat Object",
+      "^Counter For Flat Objects"
+    ],
+    "wk_readings_on": [
+      "まい"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Tree",
+      "Winter"
+    ]
+  },
+  "禁": {
+    "strokes": 13,
+    "grade": 5,
+    "freq": 681,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Prohibition",
+      "Ban",
+      "Forbid"
+    ],
+    "readings_on": [
+      "きん"
+    ],
+    "readings_kun": [],
+    "wk_level": 18,
+    "wk_meanings": [
+      "Prohibit",
+      "^Prohibition"
+    ],
+    "wk_readings_on": [
+      "きん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Tree",
+      "Jackhammer"
+    ]
+  },
+  "喫": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1347,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Consume",
+      "Eat",
+      "Drink",
+      "Smoke",
+      "Receive (a Blow)"
+    ],
+    "readings_on": [
+      "きつ"
+    ],
+    "readings_kun": [
+      "の.む"
+    ],
+    "wk_level": 18,
+    "wk_meanings": [
+      "Consume"
+    ],
+    "wk_readings_on": [
+      "きつ"
+    ],
+    "wk_readings_kun": [
+      "!の"
+    ],
+    "wk_radicals": [
+      "Mouth",
+      "Life",
+      "Sword",
+      "Big"
+    ]
+  },
+  "減": {
+    "strokes": 12,
+    "grade": 5,
+    "freq": 261,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Dwindle",
+      "Decrease",
+      "Reduce",
+      "Decline",
+      "Curtail",
+      "Get Hungry"
+    ],
+    "readings_on": [
+      "げん"
+    ],
+    "readings_kun": [
+      "へ.る",
+      "へ.らす"
+    ],
+    "wk_level": 19,
+    "wk_meanings": [
+      "Decrease"
+    ],
+    "wk_readings_on": [
+      "げん"
+    ],
+    "wk_readings_kun": [
+      "!へ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Feeling"
+    ]
+  },
+  "順": {
+    "strokes": 12,
+    "grade": 4,
+    "freq": 779,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Obey",
+      "Order",
+      "Turn",
+      "Right",
+      "Docility",
+      "Occasion"
+    ],
+    "readings_on": [
+      "じゅん"
+    ],
+    "readings_kun": [],
+    "wk_level": 19,
+    "wk_meanings": [
+      "Order",
+      "^Sequence"
+    ],
+    "wk_readings_on": [
+      "じゅん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "River",
+      "Geoduck"
+    ]
+  },
+  "布": {
+    "strokes": 5,
+    "grade": 5,
+    "freq": 877,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Linen",
+      "Cloth",
+      "Spread",
+      "Distribute"
+    ],
+    "readings_on": [
+      "ふ"
+    ],
+    "readings_kun": [
+      "ぬの"
+    ],
+    "wk_level": 19,
+    "wk_meanings": [
+      "Cloth"
+    ],
+    "wk_readings_on": [
+      "ふ"
+    ],
+    "wk_readings_kun": [
+      "!ぬの"
+    ],
+    "wk_radicals": [
+      "Narwhal",
+      "Towel"
+    ]
+  },
+  "詞": {
+    "strokes": 12,
+    "grade": 6,
+    "freq": 1636,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Part Of Speech",
+      "Words",
+      "Poetry"
+    ],
+    "readings_on": [
+      "し"
+    ],
+    "readings_kun": [
+      "ことば"
+    ],
+    "wk_level": 19,
+    "wk_meanings": [
+      "Part Of Speech",
+      "^Speech Particle",
+      "^Particle Of Speech",
+      "^Grammar Particle"
+    ],
+    "wk_readings_on": [
+      "し"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Say",
+      "Director"
+    ]
+  },
+  "歴": {
+    "strokes": 14,
+    "grade": 4,
+    "freq": 632,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Curriculum",
+      "Continuation",
+      "Passage Of Time"
+    ],
+    "readings_on": [
+      "れき",
+      "れっき"
+    ],
+    "readings_kun": [],
+    "wk_level": 19,
+    "wk_meanings": [
+      "Continuation"
+    ],
+    "wk_readings_on": [
+      "れき"
+    ],
+    "wk_readings_kun": [
+      "!へ"
+    ],
+    "wk_radicals": [
+      "Cliff",
+      "Tree",
+      "Stop"
+    ]
+  },
+  "冊": {
+    "strokes": 5,
+    "grade": 6,
+    "freq": 1313,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Tome",
+      "Counter For Books",
+      "Volume"
+    ],
+    "readings_on": [
+      "さつ",
+      "さく"
+    ],
+    "readings_kun": [
+      "ふみ"
+    ],
+    "wk_level": 19,
+    "wk_meanings": [
+      "Book Counter",
+      "^Counter For Books",
+      "^Counter For Volumes"
+    ],
+    "wk_readings_on": [
+      "さつ"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Bookshelf"
+    ]
+  },
+  "宇": {
+    "strokes": 6,
+    "grade": 6,
+    "freq": 883,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Eaves",
+      "Roof",
+      "House",
+      "Heaven"
+    ],
+    "readings_on": [
+      "う"
+    ],
+    "readings_kun": [],
+    "wk_level": 19,
+    "wk_meanings": [
+      "Outer Space"
+    ],
+    "wk_readings_on": [
+      "う"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Roof",
+      "Dry"
+    ]
+  },
+  "団": {
+    "strokes": 6,
+    "grade": 5,
+    "freq": 213,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Group",
+      "Association"
+    ],
+    "readings_on": [
+      "だん",
+      "とん"
+    ],
+    "readings_kun": [
+      "かたまり",
+      "まる.い"
+    ],
+    "wk_level": 19,
+    "wk_meanings": [
+      "Group"
+    ],
+    "wk_readings_on": [
+      "だん",
+      "とん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Mouth",
+      "Measurement"
+    ]
+  },
+  "暴": {
+    "strokes": 15,
+    "grade": 5,
+    "freq": 692,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Outburst",
+      "Rave",
+      "Fret",
+      "Force",
+      "Violence",
+      "Cruelty",
+      "Outrage"
+    ],
+    "readings_on": [
+      "ぼう",
+      "ばく"
+    ],
+    "readings_kun": [
+      "あば.く",
+      "あば.れる"
+    ],
+    "wk_level": 19,
+    "wk_meanings": [
+      "Violence"
+    ],
+    "wk_readings_on": [
+      "ぼう"
+    ],
+    "wk_readings_kun": [
+      "!あば",
+      "!ばく"
+    ],
+    "wk_radicals": [
+      "Sun",
+      "Together",
+      "Water"
+    ]
+  },
+  "混": {
+    "strokes": 11,
+    "grade": 5,
+    "freq": 824,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Mix",
+      "Blend",
+      "Confuse"
+    ],
+    "readings_on": [
+      "こん"
+    ],
+    "readings_kun": [
+      "ま.じる",
+      "-ま.じり",
+      "ま.ざる",
+      "ま.ぜる",
+      "こ.む"
+    ],
+    "wk_level": 19,
+    "wk_meanings": [
+      "Mix"
+    ],
+    "wk_readings_on": [
+      "こん"
+    ],
+    "wk_readings_kun": [
+      "!ま"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Sun",
+      "Compare"
+    ]
+  },
+  "乱": {
+    "strokes": 7,
+    "grade": 6,
+    "freq": 755,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Riot",
+      "War",
+      "Disorder",
+      "Disturb"
+    ],
+    "readings_on": [
+      "らん",
+      "ろん"
+    ],
+    "readings_kun": [
+      "みだ.れる",
+      "みだ.る",
+      "みだ.す",
+      "みだ",
+      "おさ.める",
+      "わた.る"
+    ],
+    "wk_level": 19,
+    "wk_meanings": [
+      "Riot"
+    ],
+    "wk_readings_on": [
+      "らん"
+    ],
+    "wk_readings_kun": [
+      "!みだ"
+    ],
+    "wk_radicals": [
+      "Tongue",
+      "Umbrella"
+    ]
+  },
+  "改": {
+    "strokes": 7,
+    "grade": 4,
+    "freq": 147,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Reformation",
+      "Change",
+      "Modify",
+      "Mend",
+      "Renew",
+      "Examine",
+      "Inspect",
+      "Search"
+    ],
+    "readings_on": [
+      "かい"
+    ],
+    "readings_kun": [
+      "あらた.める",
+      "あらた.まる"
+    ],
+    "wk_level": 19,
+    "wk_meanings": [
+      "Renew"
+    ],
+    "wk_readings_on": [
+      "かい"
+    ],
+    "wk_readings_kun": [
+      "!あらた"
+    ],
+    "wk_radicals": [
+      "Oneself",
+      "Winter"
+    ]
+  },
+  "絡": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 806,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Entwine",
+      "Coil Around",
+      "Get Caught In"
+    ],
+    "readings_on": [
+      "らく"
+    ],
+    "readings_kun": [
+      "から.む",
+      "から.まる"
+    ],
+    "wk_level": 19,
+    "wk_meanings": [
+      "Entangle",
+      "^Coil Around",
+      "^Entwine"
+    ],
+    "wk_readings_on": [
+      "らく"
+    ],
+    "wk_readings_kun": [
+      "!から"
+    ],
+    "wk_radicals": [
+      "Thread",
+      "Kiss"
+    ]
+  },
+  "比": {
+    "strokes": 4,
+    "grade": 5,
+    "freq": 329,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Compare",
+      "Race",
+      "Ratio",
+      "Philippines"
+    ],
+    "readings_on": [
+      "ひ"
+    ],
+    "readings_kun": [
+      "くら.べる"
+    ],
+    "wk_level": 19,
+    "wk_meanings": [
+      "Compare"
+    ],
+    "wk_readings_on": [
+      "ひ"
+    ],
+    "wk_readings_kun": [
+      "!くら"
+    ],
+    "wk_radicals": [
+      "Compare"
+    ]
+  },
+  "被": {
+    "strokes": 10,
+    "grade": 8,
+    "freq": 431,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Incur",
+      "Cover",
+      "Veil",
+      "Brood Over",
+      "Shelter",
+      "Wear",
+      "Put On",
+      "Be Exposed (film)",
+      "Receiving"
+    ],
+    "readings_on": [
+      "ひ"
+    ],
+    "readings_kun": [
+      "こうむ.る",
+      "おお.う",
+      "かぶ.る",
+      "かぶ.せる"
+    ],
+    "wk_level": 20,
+    "wk_meanings": [
+      "Incur"
+    ],
+    "wk_readings_on": [
+      "ひ"
+    ],
+    "wk_readings_kun": [
+      "!かぶ"
+    ],
+    "wk_radicals": [
+      "Spirit",
+      "Skin"
+    ]
+  },
+  "震": {
+    "strokes": 15,
+    "grade": 8,
+    "freq": 893,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Quake",
+      "Shake",
+      "Tremble",
+      "Quiver",
+      "Shiver"
+    ],
+    "readings_on": [
+      "しん"
+    ],
+    "readings_kun": [
+      "ふる.う",
+      "ふる.える"
+    ],
+    "wk_level": 20,
+    "wk_meanings": [
+      "Earthquake",
+      "^Quake",
+      "^Shake"
+    ],
+    "wk_readings_on": [
+      "しん"
+    ],
+    "wk_readings_kun": [
+      "!ふる"
+    ],
+    "wk_radicals": [
+      "Rain",
+      "Landslide"
+    ]
+  },
+  "械": {
+    "strokes": 11,
+    "grade": 4,
+    "freq": 1321,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Contraption",
+      "Fetter",
+      "Machine",
+      "Instrument"
+    ],
+    "readings_on": [
+      "かい"
+    ],
+    "readings_kun": [
+      "かせ"
+    ],
+    "wk_level": 20,
+    "wk_meanings": [
+      "Contraption"
+    ],
+    "wk_readings_on": [
+      "かい"
+    ],
+    "wk_readings_kun": [
+      "!かせ"
+    ],
+    "wk_radicals": [
+      "Tree",
+      "Drunkard",
+      "Twenty"
+    ]
+  },
+  "個": {
+    "strokes": 10,
+    "grade": 5,
+    "freq": 451,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Individual",
+      "Counter For Articles"
+    ],
+    "readings_on": [
+      "こ",
+      "か"
+    ],
+    "readings_kun": [],
+    "wk_level": 20,
+    "wk_meanings": [
+      "Individual"
+    ],
+    "wk_readings_on": [
+      "こ"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Leader",
+      "Mouth",
+      "Old"
+    ]
+  },
+  "圧": {
+    "strokes": 5,
+    "grade": 5,
+    "freq": 718,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Pressure",
+      "Push",
+      "Overwhelm",
+      "Oppress",
+      "Dominate"
+    ],
+    "readings_on": [
+      "あつ",
+      "えん",
+      "おう"
+    ],
+    "readings_kun": [
+      "お.す",
+      "へ.す",
+      "おさ.える",
+      "お.さえる"
+    ],
+    "wk_level": 20,
+    "wk_meanings": [
+      "Pressure"
+    ],
+    "wk_readings_on": [
+      "あつ"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Cliff",
+      "Dirt"
+    ]
+  },
+  "厚": {
+    "strokes": 9,
+    "grade": 5,
+    "freq": 768,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Thick",
+      "Heavy",
+      "Rich",
+      "Kind",
+      "Cordial",
+      "Brazen",
+      "Shameless"
+    ],
+    "readings_on": [
+      "こう"
+    ],
+    "readings_kun": [
+      "あつ.い",
+      "あか"
+    ],
+    "wk_level": 20,
+    "wk_meanings": [
+      "Thick"
+    ],
+    "wk_readings_on": [
+      "!こう"
+    ],
+    "wk_readings_kun": [
+      "あつ"
+    ],
+    "wk_radicals": [
+      "Cliff",
+      "Sun",
+      "Child"
+    ]
+  },
+  "防": {
+    "strokes": 7,
+    "grade": 5,
+    "freq": 331,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Ward Off",
+      "Defend",
+      "Protect",
+      "Resist"
+    ],
+    "readings_on": [
+      "ぼう"
+    ],
+    "readings_kun": [
+      "ふせ.ぐ"
+    ],
+    "wk_level": 20,
+    "wk_meanings": [
+      "Prevent",
+      "^Prevention"
+    ],
+    "wk_readings_on": [
+      "ぼう"
+    ],
+    "wk_readings_kun": [
+      "!ふせ"
+    ],
+    "wk_radicals": [
+      "Building",
+      "Direction"
+    ]
+  },
+  "史": {
+    "strokes": 5,
+    "grade": 4,
+    "freq": 511,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "History",
+      "Chronicle"
+    ],
+    "readings_on": [
+      "し"
+    ],
+    "readings_kun": [],
+    "wk_level": 19,
+    "wk_meanings": [
+      "History"
+    ],
+    "wk_readings_on": [
+      "し"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "History"
+    ]
+  },
+  "委": {
+    "strokes": 8,
+    "grade": 3,
+    "freq": 187,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Committee",
+      "Entrust To",
+      "Leave To",
+      "Devote",
+      "Discard"
+    ],
+    "readings_on": [
+      "い"
+    ],
+    "readings_kun": [
+      "ゆだ.ねる"
+    ],
+    "wk_level": 21,
+    "wk_meanings": [
+      "Committee"
+    ],
+    "wk_readings_on": [
+      "い"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Grain",
+      "Woman"
+    ]
+  },
+  "査": {
+    "strokes": 9,
+    "grade": 5,
+    "freq": 184,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Investigate"
+    ],
+    "readings_on": [
+      "さ"
+    ],
+    "readings_kun": [],
+    "wk_level": 21,
+    "wk_meanings": [
+      "Inspect",
+      "^Investigate",
+      "^Inspection",
+      "^Investigation"
+    ],
+    "wk_readings_on": [
+      "さ"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Tree",
+      "Top Hat"
+    ]
+  },
+  "総": {
+    "strokes": 14,
+    "grade": 5,
+    "freq": 129,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "General",
+      "Whole",
+      "All",
+      "Full",
+      "Total"
+    ],
+    "readings_on": [
+      "そう"
+    ],
+    "readings_kun": [
+      "す.べて",
+      "すべ.て",
+      "ふさ"
+    ],
+    "wk_level": 21,
+    "wk_meanings": [
+      "Whole"
+    ],
+    "wk_readings_on": [
+      "そう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Thread",
+      "Public",
+      "Heart"
+    ]
+  },
+  "設": {
+    "strokes": 11,
+    "grade": 5,
+    "freq": 145,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Establishment",
+      "Provision",
+      "Prepare"
+    ],
+    "readings_on": [
+      "せつ"
+    ],
+    "readings_kun": [
+      "もう.ける"
+    ],
+    "wk_level": 21,
+    "wk_meanings": [
+      "Establish"
+    ],
+    "wk_readings_on": [
+      "せつ"
+    ],
+    "wk_readings_kun": [
+      "!もう"
+    ],
+    "wk_radicals": [
+      "Say",
+      "Weapon"
+    ]
+  },
+  "省": {
+    "strokes": 9,
+    "grade": 4,
+    "freq": 548,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Focus",
+      "Government Ministry",
+      "Conserve"
+    ],
+    "readings_on": [
+      "せい",
+      "しょう"
+    ],
+    "readings_kun": [
+      "かえり.みる",
+      "はぶ.く"
+    ],
+    "wk_level": 21,
+    "wk_meanings": [
+      "Conserve"
+    ],
+    "wk_readings_on": [
+      "しょう",
+      "^せい"
+    ],
+    "wk_readings_kun": [
+      "!はぶ"
+    ],
+    "wk_radicals": [
+      "Few",
+      "Eye"
+    ]
+  },
+  "税": {
+    "strokes": 12,
+    "grade": 5,
+    "freq": 289,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Tax",
+      "Duty"
+    ],
+    "readings_on": [
+      "ぜい"
+    ],
+    "readings_kun": [],
+    "wk_level": 21,
+    "wk_meanings": [
+      "Tax"
+    ],
+    "wk_readings_on": [
+      "ぜい"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Grain",
+      "Guard"
+    ]
+  },
+  "各": {
+    "strokes": 6,
+    "grade": 4,
+    "freq": 243,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Each",
+      "Every",
+      "Either"
+    ],
+    "readings_on": [
+      "かく"
+    ],
+    "readings_kun": [
+      "おのおの"
+    ],
+    "wk_level": 22,
+    "wk_meanings": [
+      "Each"
+    ],
+    "wk_readings_on": [
+      "かく"
+    ],
+    "wk_readings_kun": [
+      "!おの"
+    ],
+    "wk_radicals": [
+      "Kiss"
+    ]
+  },
+  "勢": {
+    "strokes": 13,
+    "grade": 5,
+    "freq": 260,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Forces",
+      "Energy",
+      "Military Strength"
+    ],
+    "readings_on": [
+      "せい",
+      "ぜい"
+    ],
+    "readings_kun": [
+      "いきお.い",
+      "はずみ"
+    ],
+    "wk_level": 22,
+    "wk_meanings": [
+      "Force"
+    ],
+    "wk_readings_on": [
+      "せい",
+      "せ"
+    ],
+    "wk_readings_kun": [
+      "!いきお"
+    ],
+    "wk_radicals": [
+      "Womb",
+      "Circle",
+      "Power"
+    ]
+  },
+  "営": {
+    "strokes": 12,
+    "grade": 5,
+    "freq": 303,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Occupation",
+      "Camp",
+      "Perform",
+      "Build",
+      "Conduct (business)"
+    ],
+    "readings_on": [
+      "えい"
+    ],
+    "readings_kun": [
+      "いとな.む",
+      "いとな.み"
+    ],
+    "wk_level": 22,
+    "wk_meanings": [
+      "Manage"
+    ],
+    "wk_readings_on": [
+      "えい"
+    ],
+    "wk_readings_kun": [
+      "!いとな"
+    ],
+    "wk_radicals": [
+      "Viking",
+      "Bathtub"
+    ]
+  },
+  "領": {
+    "strokes": 14,
+    "grade": 5,
+    "freq": 138,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Jurisdiction",
+      "Dominion",
+      "Territory",
+      "Fief",
+      "Reign"
+    ],
+    "readings_on": [
+      "りょう"
+    ],
+    "readings_kun": [
+      "えり"
+    ],
+    "wk_level": 22,
+    "wk_meanings": [
+      "Territory"
+    ],
+    "wk_readings_on": [
+      "りょう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Orders",
+      "Geoduck"
+    ]
+  },
+  "副": {
+    "strokes": 11,
+    "grade": 4,
+    "freq": 360,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Vice-",
+      "Assistant",
+      "Aide",
+      "Duplicate",
+      "Copy"
+    ],
+    "readings_on": [
+      "ふく"
+    ],
+    "readings_kun": [],
+    "wk_level": 22,
+    "wk_meanings": [
+      "Vice",
+      "^Side"
+    ],
+    "wk_readings_on": [
+      "ふく"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Scarecrow",
+      "Knife"
+    ]
+  },
+  "域": {
+    "strokes": 11,
+    "grade": 6,
+    "freq": 396,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Range",
+      "Region",
+      "Limits",
+      "Stage",
+      "Level"
+    ],
+    "readings_on": [
+      "いき"
+    ],
+    "readings_kun": [],
+    "wk_level": 22,
+    "wk_meanings": [
+      "Region",
+      "^Boundary"
+    ],
+    "wk_readings_on": [
+      "いき"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Dirt",
+      "Drunkard",
+      "Mouth",
+      "Ground"
+    ]
+  },
+  "停": {
+    "strokes": 11,
+    "grade": 4,
+    "freq": 733,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Halt",
+      "Stopping"
+    ],
+    "readings_on": [
+      "てい"
+    ],
+    "readings_kun": [
+      "と.める",
+      "と.まる"
+    ],
+    "wk_level": 23,
+    "wk_meanings": [
+      "Halt"
+    ],
+    "wk_readings_on": [
+      "てい"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Leader",
+      "Restaurant"
+    ]
+  },
+  "革": {
+    "strokes": 9,
+    "grade": 6,
+    "freq": 249,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Leather",
+      "Skin",
+      "Reform",
+      "Become Serious"
+    ],
+    "readings_on": [
+      "かく"
+    ],
+    "readings_kun": [
+      "かわ"
+    ],
+    "wk_level": 23,
+    "wk_meanings": [
+      "Leather"
+    ],
+    "wk_readings_on": [
+      "かく"
+    ],
+    "wk_readings_kun": [
+      "!かわ"
+    ],
+    "wk_radicals": [
+      "Leather"
+    ]
+  },
+  "律": {
+    "strokes": 9,
+    "grade": 6,
+    "freq": 992,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Rhythm",
+      "Law",
+      "Regulation",
+      "Gauge",
+      "Control"
+    ],
+    "readings_on": [
+      "りつ",
+      "りち",
+      "れつ"
+    ],
+    "readings_kun": [],
+    "wk_level": 23,
+    "wk_meanings": [
+      "Law"
+    ],
+    "wk_readings_on": [
+      "りつ"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Loiter",
+      "Brush"
+    ]
+  },
+  "準": {
+    "strokes": 13,
+    "grade": 5,
+    "freq": 425,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Semi-",
+      "Correspond To",
+      "Proportionate To",
+      "Conform",
+      "Imitate"
+    ],
+    "readings_on": [
+      "じゅん"
+    ],
+    "readings_kun": [
+      "じゅん.じる",
+      "じゅん.ずる",
+      "なぞら.える",
+      "のり",
+      "ひと.しい",
+      "みずもり"
+    ],
+    "wk_level": 23,
+    "wk_meanings": [
+      "Standard"
+    ],
+    "wk_readings_on": [
+      "じゅん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Tsunami",
+      "Turkey",
+      "Cross"
+    ]
+  },
+  "則": {
+    "strokes": 9,
+    "grade": 5,
+    "freq": 753,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Rule",
+      "Follow",
+      "Based On",
+      "Model After"
+    ],
+    "readings_on": [
+      "そく"
+    ],
+    "readings_kun": [
+      "のっと.る"
+    ],
+    "wk_level": 23,
+    "wk_meanings": [
+      "Rule"
+    ],
+    "wk_readings_on": [
+      "そく"
+    ],
+    "wk_readings_kun": [
+      "!のっと"
+    ],
+    "wk_radicals": [
+      "Shellfish",
+      "Knife"
+    ]
+  },
+  "導": {
+    "strokes": 15,
+    "grade": 5,
+    "freq": 354,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Guidance",
+      "Leading",
+      "Conduct",
+      "Usher"
+    ],
+    "readings_on": [
+      "どう"
+    ],
+    "readings_kun": [
+      "みちび.く"
+    ],
+    "wk_level": 23,
+    "wk_meanings": [
+      "Lead"
+    ],
+    "wk_readings_on": [
+      "どう"
+    ],
+    "wk_readings_kun": [
+      "!みちび"
+    ],
+    "wk_radicals": [
+      "Road",
+      "Measurement"
+    ]
+  },
+  "乳": {
+    "strokes": 8,
+    "grade": 6,
+    "freq": 1289,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Milk",
+      "Breasts"
+    ],
+    "readings_on": [
+      "にゅう"
+    ],
+    "readings_kun": [
+      "ちち",
+      "ち"
+    ],
+    "wk_level": 23,
+    "wk_meanings": [
+      "Milk"
+    ],
+    "wk_readings_on": [
+      "にゅう"
+    ],
+    "wk_readings_kun": [
+      "!ちち"
+    ],
+    "wk_radicals": [
+      "Cleat",
+      "Child",
+      "Umbrella"
+    ]
+  },
+  "城": {
+    "strokes": 9,
+    "grade": 6,
+    "freq": 795,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Castle"
+    ],
+    "readings_on": [
+      "じょう",
+      "せい"
+    ],
+    "readings_kun": [
+      "しろ"
+    ],
+    "wk_level": 23,
+    "wk_meanings": [
+      "Castle"
+    ],
+    "wk_readings_on": [
+      "!じょう"
+    ],
+    "wk_readings_kun": [
+      "しろ"
+    ],
+    "wk_radicals": [
+      "Dirt",
+      "Become"
+    ]
+  },
+  "担": {
+    "strokes": 8,
+    "grade": 6,
+    "freq": 422,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Shouldering",
+      "Carry",
+      "Raise",
+      "Bear"
+    ],
+    "readings_on": [
+      "たん"
+    ],
+    "readings_kun": [
+      "かつ.ぐ",
+      "にな.う"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Carry",
+      "^Bear"
+    ],
+    "wk_readings_on": [
+      "たん"
+    ],
+    "wk_readings_kun": [
+      "!にな",
+      "!かつ"
+    ],
+    "wk_radicals": [
+      "Fingers",
+      "Dawn"
+    ]
+  },
+  "額": {
+    "strokes": 18,
+    "grade": 5,
+    "freq": 407,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Forehead",
+      "Tablet",
+      "Plaque",
+      "Framed Picture",
+      "Sum",
+      "Amount",
+      "Volume"
+    ],
+    "readings_on": [
+      "がく"
+    ],
+    "readings_kun": [
+      "ひたい"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Amount",
+      "^Framed Picture",
+      "^Forehead"
+    ],
+    "wk_readings_on": [
+      "がく"
+    ],
+    "wk_readings_kun": [
+      "!ひたい"
+    ],
+    "wk_radicals": [
+      "Guest",
+      "Geoduck"
+    ]
+  },
+  "輸": {
+    "strokes": 16,
+    "grade": 5,
+    "freq": 371,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Transport",
+      "Send",
+      "Be Inferior"
+    ],
+    "readings_on": [
+      "ゆ",
+      "しゅ"
+    ],
+    "readings_kun": [],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Transport"
+    ],
+    "wk_readings_on": [
+      "ゆ"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Car",
+      "Death Star"
+    ]
+  },
+  "燃": {
+    "strokes": 16,
+    "grade": 5,
+    "freq": 948,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Burn",
+      "Blaze",
+      "Glow"
+    ],
+    "readings_on": [
+      "ねん"
+    ],
+    "readings_kun": [
+      "も.える",
+      "も.やす",
+      "も.す"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Burn"
+    ],
+    "wk_readings_on": [
+      "ねん"
+    ],
+    "wk_readings_kun": [
+      "!も"
+    ],
+    "wk_radicals": [
+      "Fire",
+      "Nature"
+    ]
+  },
+  "祝": {
+    "strokes": 9,
+    "grade": 4,
+    "freq": 1184,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Celebrate",
+      "Congratulate"
+    ],
+    "readings_on": [
+      "しゅく",
+      "しゅう"
+    ],
+    "readings_kun": [
+      "いわ.う"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Celebrate"
+    ],
+    "wk_readings_on": [
+      "しゅく",
+      "^しゅう"
+    ],
+    "wk_readings_kun": [
+      "!いわ"
+    ],
+    "wk_radicals": [
+      "Spirit",
+      "Older Brother"
+    ]
+  },
+  "届": {
+    "strokes": 8,
+    "grade": 6,
+    "freq": 939,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Deliver",
+      "Reach",
+      "Arrive",
+      "Report",
+      "Notify",
+      "Forward"
+    ],
+    "readings_on": [
+      "かい"
+    ],
+    "readings_kun": [
+      "とど.ける",
+      "-とど.け",
+      "とど.く"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Deliver"
+    ],
+    "wk_readings_on": [],
+    "wk_readings_kun": [
+      "とど"
+    ],
+    "wk_radicals": [
+      "Flag",
+      "Reason"
+    ]
+  },
+  "肩": {
+    "strokes": 8,
+    "grade": 8,
+    "freq": 1215,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Shoulder"
+    ],
+    "readings_on": [
+      "けん"
+    ],
+    "readings_kun": [
+      "かた"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Shoulder"
+    ],
+    "wk_readings_on": [
+      "!けん"
+    ],
+    "wk_readings_kun": [
+      "かた"
+    ],
+    "wk_radicals": [
+      "Door",
+      "Moon"
+    ]
+  },
+  "腕": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1163,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Arm",
+      "Ability",
+      "Talent"
+    ],
+    "readings_on": [
+      "わん"
+    ],
+    "readings_kun": [
+      "うで"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Arm"
+    ],
+    "wk_readings_on": [
+      "!わん"
+    ],
+    "wk_readings_kun": [
+      "うで"
+    ],
+    "wk_radicals": [
+      "Moon",
+      "Roof",
+      "Evening",
+      "Snake"
+    ]
+  },
+  "腰": {
+    "strokes": 13,
+    "grade": 8,
+    "freq": 1306,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Loins",
+      "Hips",
+      "Waist",
+      "Low Wainscoting"
+    ],
+    "readings_on": [
+      "よう"
+    ],
+    "readings_kun": [
+      "こし"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Waist"
+    ],
+    "wk_readings_on": [
+      "!よう"
+    ],
+    "wk_readings_kun": [
+      "こし"
+    ],
+    "wk_radicals": [
+      "Moon",
+      "Helicopter",
+      "Woman"
+    ]
+  },
+  "触": {
+    "strokes": 13,
+    "grade": 8,
+    "freq": 904,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Contact",
+      "Touch",
+      "Feel",
+      "Hit",
+      "Proclaim",
+      "Announce",
+      "Conflict"
+    ],
+    "readings_on": [
+      "しょく"
+    ],
+    "readings_kun": [
+      "ふ.れる",
+      "さわ.る",
+      "さわ"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Touch"
+    ],
+    "wk_readings_on": [
+      "しょく"
+    ],
+    "wk_readings_kun": [
+      "!さわ",
+      "!ふ"
+    ],
+    "wk_radicals": [
+      "Angle",
+      "Insect"
+    ]
+  },
+  "層": {
+    "strokes": 14,
+    "grade": 6,
+    "freq": 801,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Stratum",
+      "Social Class",
+      "Layer",
+      "Story",
+      "Floor"
+    ],
+    "readings_on": [
+      "そう"
+    ],
+    "readings_kun": [],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Layer"
+    ],
+    "wk_readings_on": [
+      "そう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Flag",
+      "Mask"
+    ]
+  },
+  "型": {
+    "strokes": 9,
+    "grade": 4,
+    "freq": 482,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Mould",
+      "Type",
+      "Model"
+    ],
+    "readings_on": [
+      "けい"
+    ],
+    "readings_kun": [
+      "かた",
+      "-がた"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Model",
+      "^Type"
+    ],
+    "wk_readings_on": [
+      "けい"
+    ],
+    "wk_readings_kun": [
+      "!かた"
+    ],
+    "wk_radicals": [
+      "Lantern",
+      "Knife",
+      "Dirt"
+    ]
+  },
+  "庁": {
+    "strokes": 5,
+    "grade": 6,
+    "freq": 793,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Government Office"
+    ],
+    "readings_on": [
+      "ちょう",
+      "てい"
+    ],
+    "readings_kun": [
+      "やくしょ"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Agency",
+      "^Government Office"
+    ],
+    "wk_readings_on": [
+      "ちょう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Canopy",
+      "Street"
+    ]
+  },
+  "管": {
+    "strokes": 14,
+    "grade": 4,
+    "freq": 517,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Pipe",
+      "Tube",
+      "Wind Instrument",
+      "Drunken Talk",
+      "Control",
+      "Jurisdiction"
+    ],
+    "readings_on": [
+      "かん"
+    ],
+    "readings_kun": [
+      "くだ"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Pipe"
+    ],
+    "wk_readings_on": [
+      "かん"
+    ],
+    "wk_readings_kun": [
+      "!くだ"
+    ],
+    "wk_radicals": [
+      "Bamboo",
+      "Roof",
+      "Bear"
+    ]
+  },
+  "象": {
+    "strokes": 12,
+    "grade": 4,
+    "freq": 394,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Elephant",
+      "Pattern After",
+      "Imitate",
+      "Image",
+      "Shape",
+      "Sign (of The Times)"
+    ],
+    "readings_on": [
+      "しょう",
+      "ぞう"
+    ],
+    "readings_kun": [
+      "かたど.る"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Elephant",
+      "^Phenomenon"
+    ],
+    "wk_readings_on": [
+      "しょう",
+      "ぞう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Elephant"
+    ]
+  },
+  "量": {
+    "strokes": 12,
+    "grade": 4,
+    "freq": 469,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Quantity",
+      "Measure",
+      "Weight",
+      "Amount",
+      "Consider",
+      "Estimate",
+      "Surmise"
+    ],
+    "readings_on": [
+      "りょう"
+    ],
+    "readings_kun": [
+      "はか.る"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Quantity",
+      "^Amount"
+    ],
+    "wk_readings_on": [
+      "りょう"
+    ],
+    "wk_readings_kun": [
+      "!はか"
+    ],
+    "wk_radicals": [
+      "Dawn",
+      "Village"
+    ]
+  },
+  "境": {
+    "strokes": 14,
+    "grade": 5,
+    "freq": 346,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Boundary",
+      "Border",
+      "Region"
+    ],
+    "readings_on": [
+      "きょう",
+      "けい"
+    ],
+    "readings_kun": [
+      "さかい"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Boundary"
+    ],
+    "wk_readings_on": [
+      "きょう"
+    ],
+    "wk_readings_kun": [
+      "!さかい"
+    ],
+    "wk_radicals": [
+      "Dirt",
+      "Stand",
+      "See"
+    ]
+  },
+  "武": {
+    "strokes": 8,
+    "grade": 5,
+    "freq": 387,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Warrior",
+      "Military",
+      "Chivalry",
+      "Arms"
+    ],
+    "readings_on": [
+      "ぶ",
+      "む"
+    ],
+    "readings_kun": [
+      "たけ",
+      "たけ.し"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Military"
+    ],
+    "wk_readings_on": [
+      "ぶ",
+      "^む"
+    ],
+    "wk_readings_kun": [
+      "!たけ"
+    ],
+    "wk_radicals": [
+      "Ground",
+      "Ceremony",
+      "Stop"
+    ]
+  },
+  "述": {
+    "strokes": 8,
+    "grade": 5,
+    "freq": 379,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Mention",
+      "State",
+      "Speak",
+      "Relate"
+    ],
+    "readings_on": [
+      "じゅつ"
+    ],
+    "readings_kun": [
+      "の.べる"
+    ],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Mention"
+    ],
+    "wk_readings_on": [
+      "じゅつ"
+    ],
+    "wk_readings_kun": [
+      "!の"
+    ],
+    "wk_radicals": [
+      "Scooter",
+      "Angel",
+      "Drop"
+    ]
+  },
+  "販": {
+    "strokes": 11,
+    "grade": 8,
+    "freq": 627,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Marketing",
+      "Sell",
+      "Trade"
+    ],
+    "readings_on": [
+      "はん"
+    ],
+    "readings_kun": [],
+    "wk_level": 24,
+    "wk_meanings": [
+      "Sell"
+    ],
+    "wk_readings_on": [
+      "はん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Shellfish",
+      "Anti"
+    ]
+  },
+  "含": {
+    "strokes": 7,
+    "grade": 8,
+    "freq": 466,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Contain",
+      "Include",
+      "Hold In The Mouth",
+      "Bear In Mind",
+      "Understand",
+      "Cherish"
+    ],
+    "readings_on": [
+      "がん"
+    ],
+    "readings_kun": [
+      "ふく.む",
+      "ふく.める"
+    ],
+    "wk_level": 25,
+    "wk_meanings": [
+      "Include"
+    ],
+    "wk_readings_on": [
+      "がん"
+    ],
+    "wk_readings_kun": [
+      "!ふく"
+    ],
+    "wk_radicals": [
+      "Now",
+      "Mouth"
+    ]
+  },
+  "況": {
+    "strokes": 8,
+    "grade": 8,
+    "freq": 490,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Condition",
+      "Situation"
+    ],
+    "readings_on": [
+      "きょう"
+    ],
+    "readings_kun": [
+      "まし.て",
+      "いわ.んや",
+      "おもむき"
+    ],
+    "wk_level": 25,
+    "wk_meanings": [
+      "Condition"
+    ],
+    "wk_readings_on": [
+      "きょう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Tsunami",
+      "Older Brother"
+    ]
+  },
+  "補": {
+    "strokes": 12,
+    "grade": 6,
+    "freq": 332,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Supplement",
+      "Supply",
+      "Make Good",
+      "Offset",
+      "Compensate",
+      "Assistant",
+      "Learner"
+    ],
+    "readings_on": [
+      "ほ"
+    ],
+    "readings_kun": [
+      "おぎな.う"
+    ],
+    "wk_level": 25,
+    "wk_meanings": [
+      "Supplement"
+    ],
+    "wk_readings_on": [
+      "ほ"
+    ],
+    "wk_readings_kun": [
+      "!おぎな"
+    ],
+    "wk_radicals": [
+      "Spirit",
+      "Wedding"
+    ]
+  },
+  "効": {
+    "strokes": 8,
+    "grade": 5,
+    "freq": 538,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Merit",
+      "Efficacy",
+      "Efficiency",
+      "Benefit"
+    ],
+    "readings_on": [
+      "こう"
+    ],
+    "readings_kun": [
+      "き.く",
+      "ききめ",
+      "なら.う"
+    ],
+    "wk_level": 25,
+    "wk_meanings": [
+      "Effective"
+    ],
+    "wk_readings_on": [
+      "こう"
+    ],
+    "wk_readings_kun": [
+      "!き"
+    ],
+    "wk_radicals": [
+      "Mix",
+      "Power"
+    ]
+  },
+  "豊": {
+    "strokes": 13,
+    "grade": 5,
+    "freq": 762,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Bountiful",
+      "Excellent",
+      "Rich"
+    ],
+    "readings_on": [
+      "ほう",
+      "ぶ"
+    ],
+    "readings_kun": [
+      "ゆた.か",
+      "とよ"
+    ],
+    "wk_level": 25,
+    "wk_meanings": [
+      "Plentiful"
+    ],
+    "wk_readings_on": [
+      "ほう"
+    ],
+    "wk_readings_kun": [
+      "!ゆた"
+    ],
+    "wk_radicals": [
+      "Music",
+      "Beans"
+    ]
+  },
+  "巻": {
+    "strokes": 9,
+    "grade": 6,
+    "freq": 944,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Scroll",
+      "Volume",
+      "Book",
+      "Part",
+      "Roll Up",
+      "Wind Up",
+      "Tie",
+      "Coil",
+      "Counter For Texts (or Book Scrolls)"
+    ],
+    "readings_on": [
+      "かん",
+      "けん"
+    ],
+    "readings_kun": [
+      "ま.く",
+      "まき",
+      "ま.き"
+    ],
+    "wk_level": 25,
+    "wk_meanings": [
+      "Scroll"
+    ],
+    "wk_readings_on": [
+      "かん"
+    ],
+    "wk_readings_kun": [
+      "!ま"
+    ],
+    "wk_radicals": [
+      "Gladiator",
+      "Oneself"
+    ]
+  },
+  "捜": {
+    "strokes": 10,
+    "grade": 8,
+    "freq": 592,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Search",
+      "Look For",
+      "Locate"
+    ],
+    "readings_on": [
+      "そう",
+      "しゅ",
+      "しゅう"
+    ],
+    "readings_kun": [
+      "さが.す"
+    ],
+    "wk_level": 25,
+    "wk_meanings": [
+      "Search"
+    ],
+    "wk_readings_on": [
+      "そう"
+    ],
+    "wk_readings_kun": [
+      "!さが"
+    ],
+    "wk_radicals": [
+      "Fingers",
+      "Humble",
+      "Stool"
+    ]
+  },
+  "替": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 979,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Exchange",
+      "Spare",
+      "Substitute",
+      "Per-"
+    ],
+    "readings_on": [
+      "たい"
+    ],
+    "readings_kun": [
+      "か.える",
+      "か.え-",
+      "か.わる"
+    ],
+    "wk_level": 25,
+    "wk_meanings": [
+      "Replace",
+      "^Exchange"
+    ],
+    "wk_readings_on": [
+      "!たい"
+    ],
+    "wk_readings_kun": [
+      "か"
+    ],
+    "wk_radicals": [
+      "Husband",
+      "Sun"
+    ]
+  },
+  "造": {
+    "strokes": 10,
+    "grade": 5,
+    "freq": 429,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Create",
+      "Make",
+      "Structure",
+      "Physique"
+    ],
+    "readings_on": [
+      "ぞう"
+    ],
+    "readings_kun": [
+      "つく.る",
+      "つく.り",
+      "-づく.り"
+    ],
+    "wk_level": 26,
+    "wk_meanings": [
+      "Create"
+    ],
+    "wk_readings_on": [
+      "ぞう"
+    ],
+    "wk_readings_kun": [
+      "!つく"
+    ],
+    "wk_radicals": [
+      "Scooter",
+      "Announce"
+    ]
+  },
+  "印": {
+    "strokes": 6,
+    "grade": 4,
+    "freq": 682,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Stamp",
+      "Seal",
+      "Mark",
+      "Imprint",
+      "Symbol",
+      "Emblem",
+      "Trademark",
+      "Evidence",
+      "Souvenir",
+      "India"
+    ],
+    "readings_on": [
+      "いん"
+    ],
+    "readings_kun": [
+      "しるし",
+      "-じるし",
+      "しる.す"
+    ],
+    "wk_level": 26,
+    "wk_meanings": [
+      "Seal",
+      "^Mark"
+    ],
+    "wk_readings_on": [
+      "いん"
+    ],
+    "wk_readings_kun": [
+      "!しるし"
+    ],
+    "wk_radicals": [
+      "Comb",
+      "Stamp"
+    ]
+  },
+  "復": {
+    "strokes": 12,
+    "grade": 5,
+    "freq": 438,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Restore",
+      "Return To",
+      "Revert",
+      "Resume"
+    ],
+    "readings_on": [
+      "ふく"
+    ],
+    "readings_kun": [
+      "また"
+    ],
+    "wk_level": 26,
+    "wk_meanings": [
+      "Restore"
+    ],
+    "wk_readings_on": [
+      "ふく"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Loiter",
+      "Black Hole"
+    ]
+  },
+  "筆": {
+    "strokes": 12,
+    "grade": 3,
+    "freq": 1132,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Writing Brush",
+      "Writing",
+      "Painting Brush",
+      "Handwriting"
+    ],
+    "readings_on": [
+      "ひつ"
+    ],
+    "readings_kun": [
+      "ふで"
+    ],
+    "wk_level": 26,
+    "wk_meanings": [
+      "Writing Brush"
+    ],
+    "wk_readings_on": [
+      "ひつ"
+    ],
+    "wk_readings_kun": [
+      "!ふで"
+    ],
+    "wk_radicals": [
+      "Bamboo",
+      "Brush"
+    ]
+  },
+  "貯": {
+    "strokes": 12,
+    "grade": 4,
+    "freq": 1100,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Savings",
+      "Store",
+      "Lay In",
+      "Keep",
+      "Wear Mustache"
+    ],
+    "readings_on": [
+      "ちょ"
+    ],
+    "readings_kun": [
+      "た.める",
+      "たくわ.える"
+    ],
+    "wk_level": 26,
+    "wk_meanings": [
+      "Savings"
+    ],
+    "wk_readings_on": [
+      "ちょ"
+    ],
+    "wk_readings_kun": [
+      "!たくわ"
+    ],
+    "wk_radicals": [
+      "Shellfish",
+      "Roof",
+      "Street"
+    ]
+  },
+  "刺": {
+    "strokes": 8,
+    "grade": 8,
+    "freq": 1031,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Thorn",
+      "Pierce",
+      "Stab",
+      "Prick",
+      "Sting",
+      "Calling Card"
+    ],
+    "readings_on": [
+      "し"
+    ],
+    "readings_kun": [
+      "さ.す",
+      "さ.さる",
+      "さ.し",
+      "さし",
+      "とげ"
+    ],
+    "wk_level": 26,
+    "wk_meanings": [
+      "Stab"
+    ],
+    "wk_readings_on": [
+      "し"
+    ],
+    "wk_readings_kun": [
+      "!さ"
+    ],
+    "wk_radicals": [
+      "Tree",
+      "Head",
+      "Knife"
+    ]
+  },
+  "郵": {
+    "strokes": 11,
+    "grade": 6,
+    "freq": 917,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Mail",
+      "Stagecoach Stop"
+    ],
+    "readings_on": [
+      "ゆう"
+    ],
+    "readings_kun": [],
+    "wk_level": 26,
+    "wk_meanings": [
+      "Mail"
+    ],
+    "wk_readings_on": [
+      "ゆう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Car",
+      "Building"
+    ]
+  },
+  "針": {
+    "strokes": 10,
+    "grade": 6,
+    "freq": 505,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Needle",
+      "Pin",
+      "Staple",
+      "Stinger"
+    ],
+    "readings_on": [
+      "しん"
+    ],
+    "readings_kun": [
+      "はり"
+    ],
+    "wk_level": 26,
+    "wk_meanings": [
+      "Needle"
+    ],
+    "wk_readings_on": [
+      "しん"
+    ],
+    "wk_readings_kun": [
+      "!はり"
+    ],
+    "wk_radicals": [
+      "Gold",
+      "Cross"
+    ]
+  },
+  "菓": {
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1719,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Candy",
+      "Cakes",
+      "Fruit"
+    ],
+    "readings_on": [
+      "か"
+    ],
+    "readings_kun": [],
+    "wk_level": 26,
+    "wk_meanings": [
+      "Cake"
+    ],
+    "wk_readings_on": [
+      "か"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Flowers",
+      "Fruit"
+    ]
+  },
+  "河": {
+    "strokes": 8,
+    "grade": 5,
+    "freq": 663,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "River"
+    ],
+    "readings_on": [
+      "か"
+    ],
+    "readings_kun": [
+      "かわ"
+    ],
+    "wk_level": 26,
+    "wk_meanings": [
+      "River"
+    ],
+    "wk_readings_on": [
+      "か"
+    ],
+    "wk_readings_kun": [
+      "!かわ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Lip Ring"
+    ]
+  },
+  "汗": {
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1502,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Sweat",
+      "Perspire"
+    ],
+    "readings_on": [
+      "かん"
+    ],
+    "readings_kun": [
+      "あせ"
+    ],
+    "wk_level": 26,
+    "wk_meanings": [
+      "Sweat"
+    ],
+    "wk_readings_on": [
+      "!かん"
+    ],
+    "wk_readings_kun": [
+      "あせ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Dry"
+    ]
+  },
+  "再": {
+    "strokes": 6,
+    "grade": 5,
+    "freq": 275,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Again",
+      "Twice",
+      "Second Time"
+    ],
+    "readings_on": [
+      "さい",
+      "さ"
+    ],
+    "readings_kun": [
+      "ふたた.び"
+    ],
+    "wk_level": 26,
+    "wk_meanings": [
+      "Again"
+    ],
+    "wk_readings_on": [
+      "さ",
+      "さい"
+    ],
+    "wk_readings_kun": [
+      "!ふたた"
+    ],
+    "wk_radicals": [
+      "Leaf",
+      "Task"
+    ]
+  },
+  "接": {
+    "strokes": 11,
+    "grade": 5,
+    "freq": 523,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Touch",
+      "Contact",
+      "Adjoin",
+      "Piece Together"
+    ],
+    "readings_on": [
+      "せつ",
+      "しょう"
+    ],
+    "readings_kun": [
+      "つ.ぐ"
+    ],
+    "wk_level": 26,
+    "wk_meanings": [
+      "Adjoin"
+    ],
+    "wk_readings_on": [
+      "せつ"
+    ],
+    "wk_readings_kun": [
+      "!つ"
+    ],
+    "wk_radicals": [
+      "Fingers",
+      "Stand",
+      "Woman"
+    ]
+  },
+  "占": {
+    "strokes": 5,
+    "grade": 8,
+    "freq": 694,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Fortune-telling",
+      "Divining",
+      "Forecasting",
+      "Occupy",
+      "Hold",
+      "Have",
+      "Get",
+      "Take"
+    ],
+    "readings_on": [
+      "せん"
+    ],
+    "readings_kun": [
+      "し.める",
+      "うらな.う"
+    ],
+    "wk_level": 26,
+    "wk_meanings": [
+      "Fortune",
+      "^Occupy"
+    ],
+    "wk_readings_on": [
+      "せん"
+    ],
+    "wk_readings_kun": [
+      "!うらな",
+      "!し"
+    ],
+    "wk_radicals": [
+      "Fortune"
+    ]
+  },
+  "胃": {
+    "strokes": 9,
+    "grade": 4,
+    "freq": 1647,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Stomach",
+      "Paunch",
+      "Crop",
+      "Craw"
+    ],
+    "readings_on": [
+      "い"
+    ],
+    "readings_kun": [],
+    "wk_level": 27,
+    "wk_meanings": [
+      "Stomach"
+    ],
+    "wk_readings_on": [
+      "い"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Rice Paddy",
+      "Moon"
+    ]
+  },
+  "悩": {
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1084,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Trouble",
+      "Worry",
+      "In Pain",
+      "Distress",
+      "Illness"
+    ],
+    "readings_on": [
+      "のう"
+    ],
+    "readings_kun": [
+      "なや.む",
+      "なや.ます",
+      "なや.ましい",
+      "なやみ"
+    ],
+    "wk_level": 27,
+    "wk_meanings": [
+      "Worry"
+    ],
+    "wk_readings_on": [
+      "!のう"
+    ],
+    "wk_readings_kun": [
+      "なや"
+    ],
+    "wk_radicals": [
+      "Soul",
+      "Grass",
+      "Treasure Chest"
+    ]
+  },
+  "昇": {
+    "strokes": 8,
+    "grade": 8,
+    "freq": 826,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Rise Up"
+    ],
+    "readings_on": [
+      "しょう"
+    ],
+    "readings_kun": [
+      "のぼ.る"
+    ],
+    "wk_level": 27,
+    "wk_meanings": [
+      "Ascend"
+    ],
+    "wk_readings_on": [
+      "しょう"
+    ],
+    "wk_readings_kun": [
+      "!のぼ"
+    ],
+    "wk_radicals": [
+      "Sun",
+      "Slide",
+      "Twenty"
+    ]
+  },
+  "濃": {
+    "strokes": 16,
+    "grade": 8,
+    "freq": 1200,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Concentrated",
+      "Thick",
+      "Dark",
+      "Undiluted"
+    ],
+    "readings_on": [
+      "のう"
+    ],
+    "readings_kun": [
+      "こ.い"
+    ],
+    "wk_level": 27,
+    "wk_meanings": [
+      "Thick"
+    ],
+    "wk_readings_on": [
+      "のう"
+    ],
+    "wk_readings_kun": [
+      "!こ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Farming"
+    ]
+  },
+  "極": {
+    "strokes": 12,
+    "grade": 4,
+    "freq": 460,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Poles",
+      "Settlement",
+      "Conclusion",
+      "End",
+      "Highest Rank",
+      "Electric Poles",
+      "Very",
+      "Extremely",
+      "Most",
+      "Highly",
+      "10**48"
+    ],
+    "readings_on": [
+      "きょく",
+      "ごく"
+    ],
+    "readings_kun": [
+      "きわ.める",
+      "きわ.まる",
+      "きわ.まり",
+      "きわ.み",
+      "き.める",
+      "-ぎ.め",
+      "き.まる"
+    ],
+    "wk_level": 27,
+    "wk_meanings": [
+      "Extreme"
+    ],
+    "wk_readings_on": [
+      "きょく",
+      "ごく"
+    ],
+    "wk_readings_kun": [
+      "!きわ"
+    ],
+    "wk_radicals": [
+      "Tree",
+      "Beggar",
+      "Mouth",
+      "Stool",
+      "Ground"
+    ]
+  },
+  "逆": {
+    "strokes": 9,
+    "grade": 5,
+    "freq": 683,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Inverted",
+      "Reverse",
+      "Opposite",
+      "Wicked"
+    ],
+    "readings_on": [
+      "ぎゃく",
+      "げき"
+    ],
+    "readings_kun": [
+      "さか",
+      "さか.さ",
+      "さか.らう"
+    ],
+    "wk_level": 28,
+    "wk_meanings": [
+      "Reverse"
+    ],
+    "wk_readings_on": [
+      "ぎゃく"
+    ],
+    "wk_readings_kun": [
+      "!さか"
+    ],
+    "wk_radicals": [
+      "Scooter",
+      "Barracks",
+      "Drop"
+    ]
+  },
+  "巨": {
+    "strokes": 5,
+    "grade": 8,
+    "freq": 892,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Gigantic",
+      "Big",
+      "Large",
+      "Great"
+    ],
+    "readings_on": [
+      "きょ"
+    ],
+    "readings_kun": [],
+    "wk_level": 28,
+    "wk_meanings": [
+      "Giant"
+    ],
+    "wk_readings_on": [
+      "きょ"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Giant"
+    ]
+  },
+  "庫": {
+    "strokes": 10,
+    "grade": 3,
+    "freq": 852,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Warehouse",
+      "Storehouse"
+    ],
+    "readings_on": [
+      "こ",
+      "く"
+    ],
+    "readings_kun": [
+      "くら"
+    ],
+    "wk_level": 28,
+    "wk_meanings": [
+      "Storage",
+      "^Warehouse"
+    ],
+    "wk_readings_on": [
+      "こ"
+    ],
+    "wk_readings_kun": [
+      "!くら"
+    ],
+    "wk_radicals": [
+      "Canopy",
+      "Car"
+    ]
+  },
+  "児": {
+    "strokes": 7,
+    "grade": 4,
+    "freq": 679,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Newborn Babe",
+      "Child",
+      "Young Of Animals"
+    ],
+    "readings_on": [
+      "じ",
+      "に",
+      "げい"
+    ],
+    "readings_kun": [
+      "こ",
+      "-こ",
+      "-っこ"
+    ],
+    "wk_level": 28,
+    "wk_meanings": [
+      "Child"
+    ],
+    "wk_readings_on": [
+      "じ"
+    ],
+    "wk_readings_kun": [
+      "!こ"
+    ],
+    "wk_radicals": [
+      "Stick",
+      "Sun",
+      "Legs"
+    ]
+  },
+  "凍": {
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1284,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Frozen",
+      "Congeal",
+      "Refrigerate"
+    ],
+    "readings_on": [
+      "とう"
+    ],
+    "readings_kun": [
+      "こお.る",
+      "こご.える",
+      "こご.る",
+      "い.てる",
+      "し.みる"
+    ],
+    "wk_level": 28,
+    "wk_meanings": [
+      "Frozen"
+    ],
+    "wk_readings_on": [
+      "とう"
+    ],
+    "wk_readings_kun": [
+      "!こお",
+      "!こご"
+    ],
+    "wk_radicals": [
+      "Ice",
+      "East"
+    ]
+  },
+  "幼": {
+    "strokes": 5,
+    "grade": 6,
+    "freq": 1227,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Infancy",
+      "Childhood"
+    ],
+    "readings_on": [
+      "よう"
+    ],
+    "readings_kun": [
+      "おさな.い"
+    ],
+    "wk_level": 28,
+    "wk_meanings": [
+      "Infancy",
+      "^Child"
+    ],
+    "wk_readings_on": [
+      "よう"
+    ],
+    "wk_readings_kun": [
+      "!おさな"
+    ],
+    "wk_radicals": [
+      "Poop",
+      "Power"
+    ]
+  },
+  "清": {
+    "strokes": 11,
+    "grade": 4,
+    "freq": 705,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Pure",
+      "Purify",
+      "Cleanse",
+      "Exorcise",
+      "Manchu Dynasty"
+    ],
+    "readings_on": [
+      "せい",
+      "しょう",
+      "しん"
+    ],
+    "readings_kun": [
+      "きよ.い",
+      "きよ.まる",
+      "きよ.める"
+    ],
+    "wk_level": 28,
+    "wk_meanings": [
+      "Pure"
+    ],
+    "wk_readings_on": [
+      "せい",
+      "しょう",
+      "しん"
+    ],
+    "wk_readings_kun": [
+      "!きよ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Blue"
+    ]
+  },
+  "録": {
+    "strokes": 16,
+    "grade": 4,
+    "freq": 546,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Record"
+    ],
+    "readings_on": [
+      "ろく"
+    ],
+    "readings_kun": [
+      "しる.す",
+      "と.る"
+    ],
+    "wk_level": 28,
+    "wk_meanings": [
+      "Record"
+    ],
+    "wk_readings_on": [
+      "ろく"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Gold",
+      "Wolverine",
+      "Water"
+    ]
+  },
+  "券": {
+    "strokes": 8,
+    "grade": 5,
+    "freq": 583,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Ticket"
+    ],
+    "readings_on": [
+      "けん"
+    ],
+    "readings_kun": [],
+    "wk_level": 28,
+    "wk_meanings": [
+      "Ticket"
+    ],
+    "wk_readings_on": [
+      "けん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Gladiator",
+      "Sword"
+    ]
+  },
+  "移": {
+    "strokes": 11,
+    "grade": 5,
+    "freq": 448,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Shift",
+      "Move",
+      "Change",
+      "Drift",
+      "Catch (cold, Fire)",
+      "Pass Into"
+    ],
+    "readings_on": [
+      "い"
+    ],
+    "readings_kun": [
+      "うつ.る",
+      "うつ.す"
+    ],
+    "wk_level": 28,
+    "wk_meanings": [
+      "Shift"
+    ],
+    "wk_readings_on": [
+      "い"
+    ],
+    "wk_readings_kun": [
+      "!うつ"
+    ],
+    "wk_radicals": [
+      "Grain",
+      "Evening"
+    ]
+  },
+  "並": {
+    "strokes": 8,
+    "grade": 6,
+    "freq": 599,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Row",
+      "And",
+      "Besides",
+      "As Well As",
+      "Line Up",
+      "Rank With",
+      "Rival",
+      "Equal"
+    ],
+    "readings_on": [
+      "へい",
+      "ほう"
+    ],
+    "readings_kun": [
+      "な.み",
+      "なみ",
+      "なら.べる",
+      "なら.ぶ",
+      "なら.びに"
+    ],
+    "wk_level": 28,
+    "wk_meanings": [
+      "Line Up"
+    ],
+    "wk_readings_on": [
+      "へい"
+    ],
+    "wk_readings_kun": [
+      "!なら",
+      "!なみ"
+    ],
+    "wk_radicals": [
+      "Horns",
+      "Ground",
+      "Spikes"
+    ]
+  },
+  "乾": {
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1453,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Drought",
+      "Dry",
+      "Dessicate",
+      "Drink Up",
+      "Heaven",
+      "Emperor"
+    ],
+    "readings_on": [
+      "かん",
+      "けん"
+    ],
+    "readings_kun": [
+      "かわ.く",
+      "かわ.かす",
+      "ほ.す",
+      "ひ.る",
+      "いぬい"
+    ],
+    "wk_level": 29,
+    "wk_meanings": [
+      "Dry"
+    ],
+    "wk_readings_on": [
+      "かん"
+    ],
+    "wk_readings_kun": [
+      "!かわ",
+      "!ほ"
+    ],
+    "wk_radicals": [
+      "Morning",
+      "Gun",
+      "Nose"
+    ]
+  },
+  "欧": {
+    "strokes": 8,
+    "grade": 8,
+    "freq": 421,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Europe"
+    ],
+    "readings_on": [
+      "おう"
+    ],
+    "readings_kun": [
+      "うた.う",
+      "は.く"
+    ],
+    "wk_level": 29,
+    "wk_meanings": [
+      "Europe"
+    ],
+    "wk_readings_on": [
+      "おう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "District",
+      "Lack"
+    ]
+  },
+  "臣": {
+    "strokes": 7,
+    "grade": 4,
+    "freq": 1249,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Retainer",
+      "Subject"
+    ],
+    "readings_on": [
+      "しん",
+      "じん"
+    ],
+    "readings_kun": [],
+    "wk_level": 29,
+    "wk_meanings": [
+      "Servant",
+      "^Retainer"
+    ],
+    "wk_readings_on": [
+      "しん",
+      "じん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Servant"
+    ]
+  },
+  "略": {
+    "strokes": 11,
+    "grade": 5,
+    "freq": 774,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Abbreviation",
+      "Omission",
+      "Outline",
+      "Shorten",
+      "Capture",
+      "Plunder"
+    ],
+    "readings_on": [
+      "りゃく"
+    ],
+    "readings_kun": [
+      "ほぼ",
+      "はぶ.く",
+      "おか.す",
+      "おさ.める",
+      "はかりごと",
+      "はか.る"
+    ],
+    "wk_level": 29,
+    "wk_meanings": [
+      "Abbreviation",
+      "^Abbreviate"
+    ],
+    "wk_readings_on": [
+      "りゃく"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Rice Paddy",
+      "Kiss"
+    ]
+  },
+  "航": {
+    "strokes": 10,
+    "grade": 4,
+    "freq": 665,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Navigate",
+      "Sail",
+      "Cruise",
+      "Fly"
+    ],
+    "readings_on": [
+      "こう"
+    ],
+    "readings_kun": [],
+    "wk_level": 29,
+    "wk_meanings": [
+      "Navigation"
+    ],
+    "wk_readings_on": [
+      "こう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Boat",
+      "Lid",
+      "Table"
+    ]
+  },
+  "板": {
+    "strokes": 8,
+    "grade": 3,
+    "freq": 926,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Plank",
+      "Board",
+      "Plate",
+      "Stage"
+    ],
+    "readings_on": [
+      "はん",
+      "ばん"
+    ],
+    "readings_kun": [
+      "いた"
+    ],
+    "wk_level": 29,
+    "wk_meanings": [
+      "Board"
+    ],
+    "wk_readings_on": [
+      "はん"
+    ],
+    "wk_readings_kun": [
+      "!いた"
+    ],
+    "wk_radicals": [
+      "Tree",
+      "Anti"
+    ]
+  },
+  "詰": {
+    "strokes": 13,
+    "grade": 8,
+    "freq": 1020,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Packed",
+      "Close",
+      "Pressed",
+      "Reprove",
+      "Rebuke",
+      "Blame"
+    ],
+    "readings_on": [
+      "きつ",
+      "きち"
+    ],
+    "readings_kun": [
+      "つ.める",
+      "つ.め",
+      "-づ.め",
+      "つ.まる",
+      "つ.む"
+    ],
+    "wk_level": 29,
+    "wk_meanings": [
+      "Stuffed"
+    ],
+    "wk_readings_on": [
+      "!きつ",
+      "!きち"
+    ],
+    "wk_readings_kun": [
+      "つ",
+      "^づ"
+    ],
+    "wk_radicals": [
+      "Say",
+      "Good Luck"
+    ]
+  },
+  "照": {
+    "strokes": 13,
+    "grade": 4,
+    "freq": 1004,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Illuminate",
+      "Shine",
+      "Compare",
+      "Bashful"
+    ],
+    "readings_on": [
+      "しょう"
+    ],
+    "readings_kun": [
+      "て.る",
+      "て.らす",
+      "て.れる"
+    ],
+    "wk_level": 30,
+    "wk_meanings": [
+      "Illuminate"
+    ],
+    "wk_readings_on": [
+      "しょう"
+    ],
+    "wk_readings_kun": [
+      "!て"
+    ],
+    "wk_radicals": [
+      "Sun",
+      "Call",
+      "Boil"
+    ]
+  },
+  "快": {
+    "strokes": 7,
+    "grade": 5,
+    "freq": 1074,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Cheerful",
+      "Pleasant",
+      "Agreeable",
+      "Comfortable"
+    ],
+    "readings_on": [
+      "かい"
+    ],
+    "readings_kun": [
+      "こころよ.い"
+    ],
+    "wk_level": 30,
+    "wk_meanings": [
+      "Pleasant"
+    ],
+    "wk_readings_on": [
+      "かい"
+    ],
+    "wk_readings_kun": [
+      "!こころよ"
+    ],
+    "wk_radicals": [
+      "Soul",
+      "Person",
+      "Hook"
+    ]
+  },
+  "版": {
+    "strokes": 8,
+    "grade": 5,
+    "freq": 802,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Printing Block",
+      "Printing Plate",
+      "Edition",
+      "Impression",
+      "Label"
+    ],
+    "readings_on": [
+      "はん"
+    ],
+    "readings_kun": [],
+    "wk_level": 30,
+    "wk_meanings": [
+      "Edition"
+    ],
+    "wk_readings_on": [
+      "はん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "One Sided",
+      "Anti"
+    ]
+  },
+  "預": {
+    "strokes": 13,
+    "grade": 5,
+    "freq": 981,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Deposit",
+      "Custody",
+      "Leave With",
+      "Entrust To"
+    ],
+    "readings_on": [
+      "よ"
+    ],
+    "readings_kun": [
+      "あず.ける",
+      "あず.かる"
+    ],
+    "wk_level": 30,
+    "wk_meanings": [
+      "Deposit"
+    ],
+    "wk_readings_on": [
+      "よ"
+    ],
+    "wk_readings_kun": [
+      "!あず"
+    ],
+    "wk_radicals": [
+      "Beforehand",
+      "Geoduck"
+    ]
+  },
+  "延": {
+    "strokes": 8,
+    "grade": 6,
+    "freq": 747,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Prolong",
+      "Stretching"
+    ],
+    "readings_on": [
+      "えん"
+    ],
+    "readings_kun": [
+      "の.びる",
+      "の.べる",
+      "の.べ",
+      "の.ばす"
+    ],
+    "wk_level": 30,
+    "wk_meanings": [
+      "Prolong"
+    ],
+    "wk_readings_on": [
+      "えん"
+    ],
+    "wk_readings_kun": [
+      "!のば",
+      "!の"
+    ],
+    "wk_radicals": [
+      "Yoga",
+      "Correct"
+    ]
+  },
+  "翌": {
+    "strokes": 11,
+    "grade": 6,
+    "freq": 1070,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "The Following",
+      "Next"
+    ],
+    "readings_on": [
+      "よく"
+    ],
+    "readings_kun": [],
+    "wk_level": 30,
+    "wk_meanings": [
+      "The Following",
+      "^Following",
+      "^Next"
+    ],
+    "wk_readings_on": [
+      "よく"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Feathers",
+      "Stand"
+    ]
+  },
+  "符": {
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1798,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Token",
+      "Sign",
+      "Mark",
+      "Tally",
+      "Charm"
+    ],
+    "readings_on": [
+      "ふ"
+    ],
+    "readings_kun": [],
+    "wk_level": 30,
+    "wk_meanings": [
+      "Token"
+    ],
+    "wk_readings_on": [
+      "ふ"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Bamboo",
+      "Attach"
+    ]
+  },
+  "編": {
+    "strokes": 15,
+    "grade": 5,
+    "freq": 591,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Compilation",
+      "Knit",
+      "Plait",
+      "Braid",
+      "Twist",
+      "Editing",
+      "Completed Poem",
+      "Part Of A Book"
+    ],
+    "readings_on": [
+      "へん"
+    ],
+    "readings_kun": [
+      "あ.む",
+      "-あ.み"
+    ],
+    "wk_level": 31,
+    "wk_meanings": [
+      "Knit"
+    ],
+    "wk_readings_on": [
+      "へん"
+    ],
+    "wk_readings_kun": [
+      "!あ"
+    ],
+    "wk_radicals": [
+      "Thread",
+      "Library"
+    ]
+  },
+  "普": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 757,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Universal",
+      "Wide(ly)",
+      "Generally",
+      "Prussia"
+    ],
+    "readings_on": [
+      "ふ"
+    ],
+    "readings_kun": [
+      "あまね.く",
+      "あまねし"
+    ],
+    "wk_level": 31,
+    "wk_meanings": [
+      "Normal"
+    ],
+    "wk_readings_on": [
+      "ふ"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Line Up",
+      "Sun"
+    ]
+  },
+  "掃": {
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1255,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Sweep",
+      "Brush"
+    ],
+    "readings_on": [
+      "そう",
+      "しゅ"
+    ],
+    "readings_kun": [
+      "は.く"
+    ],
+    "wk_level": 31,
+    "wk_meanings": [
+      "Sweep"
+    ],
+    "wk_readings_on": [
+      "そう"
+    ],
+    "wk_readings_kun": [
+      "!は"
+    ],
+    "wk_radicals": [
+      "Fingers",
+      "Wolverine",
+      "Forehead",
+      "Towel"
+    ]
+  },
+  "泥": {
+    "strokes": 8,
+    "grade": 8,
+    "freq": 1589,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Mud",
+      "Mire",
+      "Adhere To",
+      "Be Attached To"
+    ],
+    "readings_on": [
+      "でい",
+      "ない",
+      "で",
+      "に"
+    ],
+    "readings_kun": [
+      "どろ",
+      "なず.む"
+    ],
+    "wk_level": 31,
+    "wk_meanings": [
+      "Mud"
+    ],
+    "wk_readings_on": [
+      "でい"
+    ],
+    "wk_readings_kun": [
+      "!どろ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Flag",
+      "Spoon"
+    ]
+  },
+  "棒": {
+    "strokes": 12,
+    "grade": 6,
+    "freq": 1455,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Rod",
+      "Stick",
+      "Cane",
+      "Pole",
+      "Club",
+      "Line"
+    ],
+    "readings_on": [
+      "ぼう"
+    ],
+    "readings_kun": [],
+    "wk_level": 31,
+    "wk_meanings": [
+      "Pole",
+      "^Rod",
+      "^Wooden Pole"
+    ],
+    "wk_readings_on": [
+      "ぼう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Tree",
+      "Spring",
+      "Dry"
+    ]
+  },
+  "孫": {
+    "strokes": 10,
+    "grade": 4,
+    "freq": 1388,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Grandchild",
+      "Descendants"
+    ],
+    "readings_on": [
+      "そん"
+    ],
+    "readings_kun": [
+      "まご"
+    ],
+    "wk_level": 31,
+    "wk_meanings": [
+      "Grandchild"
+    ],
+    "wk_readings_on": [
+      "そん"
+    ],
+    "wk_readings_kun": [
+      "!まご"
+    ],
+    "wk_radicals": [
+      "Child",
+      "Lineage"
+    ]
+  },
+  "帯": {
+    "strokes": 10,
+    "grade": 4,
+    "freq": 746,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Sash",
+      "Belt",
+      "Obi",
+      "Zone",
+      "Region"
+    ],
+    "readings_on": [
+      "たい"
+    ],
+    "readings_kun": [
+      "お.びる",
+      "おび"
+    ],
+    "wk_level": 31,
+    "wk_meanings": [
+      "Belt"
+    ],
+    "wk_readings_on": [
+      "たい"
+    ],
+    "wk_readings_kun": [
+      "!おび"
+    ],
+    "wk_radicals": [
+      "Mountain",
+      "Ground",
+      "Forehead",
+      "Towel"
+    ]
+  },
+  "粉": {
+    "strokes": 10,
+    "grade": 4,
+    "freq": 1484,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Flour",
+      "Powder",
+      "Dust"
+    ],
+    "readings_on": [
+      "ふん"
+    ],
+    "readings_kun": [
+      "デシメートル",
+      "こ",
+      "こな"
+    ],
+    "wk_level": 31,
+    "wk_meanings": [
+      "Powder"
+    ],
+    "wk_readings_on": [
+      "ふん"
+    ],
+    "wk_readings_kun": [
+      "!こな",
+      "!こ"
+    ],
+    "wk_radicals": [
+      "Rice",
+      "Part"
+    ]
+  },
+  "菜": {
+    "strokes": 11,
+    "grade": 4,
+    "freq": 1327,
+    "jlpt_old": 3,
+    "jlpt_new": 2,
+    "meanings": [
+      "Vegetable",
+      "Side Dish",
+      "Greens"
+    ],
+    "readings_on": [
+      "さい"
+    ],
+    "readings_kun": [
+      "な"
+    ],
+    "wk_level": 31,
+    "wk_meanings": [
+      "Vegetable"
+    ],
+    "wk_readings_on": [
+      "さい"
+    ],
+    "wk_readings_kun": [
+      "!な"
+    ],
+    "wk_radicals": [
+      "Flowers",
+      "Cleat",
+      "Tree"
+    ]
+  },
+  "貨": {
+    "strokes": 11,
+    "grade": 4,
+    "freq": 822,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Freight",
+      "Goods",
+      "Property"
+    ],
+    "readings_on": [
+      "か"
+    ],
+    "readings_kun": [
+      "たから"
+    ],
+    "wk_level": 31,
+    "wk_meanings": [
+      "Freight"
+    ],
+    "wk_readings_on": [
+      "か"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Change",
+      "Shellfish"
+    ]
+  },
+  "陸": {
+    "strokes": 11,
+    "grade": 4,
+    "freq": 736,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Land",
+      "Six"
+    ],
+    "readings_on": [
+      "りく",
+      "ろく"
+    ],
+    "readings_kun": [
+      "おか"
+    ],
+    "wk_level": 31,
+    "wk_meanings": [
+      "Land"
+    ],
+    "wk_readings_on": [
+      "りく"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Building",
+      "Womb"
+    ]
+  },
+  "均": {
+    "strokes": 7,
+    "grade": 5,
+    "freq": 715,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Level",
+      "Average"
+    ],
+    "readings_on": [
+      "きん"
+    ],
+    "readings_kun": [
+      "なら.す"
+    ],
+    "wk_level": 31,
+    "wk_meanings": [
+      "Equal"
+    ],
+    "wk_readings_on": [
+      "きん"
+    ],
+    "wk_readings_kun": [
+      "!ひと"
+    ],
+    "wk_radicals": [
+      "Dirt",
+      "Pool",
+      "Drop"
+    ]
+  },
+  "採": {
+    "strokes": 11,
+    "grade": 5,
+    "freq": 607,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Pick",
+      "Take",
+      "Fetch",
+      "Take Up"
+    ],
+    "readings_on": [
+      "さい"
+    ],
+    "readings_kun": [
+      "と.る"
+    ],
+    "wk_level": 32,
+    "wk_meanings": [
+      "Gather"
+    ],
+    "wk_readings_on": [
+      "さい"
+    ],
+    "wk_readings_kun": [
+      "!と"
+    ],
+    "wk_radicals": [
+      "Fingers",
+      "Cleat",
+      "Tree"
+    ]
+  },
+  "永": {
+    "strokes": 5,
+    "grade": 5,
+    "freq": 846,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Eternity",
+      "Long",
+      "Lengthy"
+    ],
+    "readings_on": [
+      "えい"
+    ],
+    "readings_kun": [
+      "なが.い"
+    ],
+    "wk_level": 32,
+    "wk_meanings": [
+      "Eternity"
+    ],
+    "wk_readings_on": [
+      "えい"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Eternity"
+    ]
+  },
+  "液": {
+    "strokes": 11,
+    "grade": 5,
+    "freq": 1210,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Fluid",
+      "Liquid",
+      "Juice",
+      "Sap",
+      "Secretion"
+    ],
+    "readings_on": [
+      "えき"
+    ],
+    "readings_kun": [],
+    "wk_level": 32,
+    "wk_meanings": [
+      "Fluid",
+      "^Liquid"
+    ],
+    "wk_readings_on": [
+      "えき"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Tsunami",
+      "Night"
+    ]
+  },
+  "績": {
+    "strokes": 17,
+    "grade": 5,
+    "freq": 820,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Exploits",
+      "Achievements",
+      "Unreeling Cocoons"
+    ],
+    "readings_on": [
+      "せき"
+    ],
+    "readings_kun": [],
+    "wk_level": 32,
+    "wk_meanings": [
+      "Exploits"
+    ],
+    "wk_readings_on": [
+      "せき"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Thread",
+      "Blame"
+    ]
+  },
+  "複": {
+    "strokes": 14,
+    "grade": 5,
+    "freq": 915,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Duplicate",
+      "Double",
+      "Compound",
+      "Multiple"
+    ],
+    "readings_on": [
+      "ふく"
+    ],
+    "readings_kun": [],
+    "wk_level": 32,
+    "wk_meanings": [
+      "Duplicate"
+    ],
+    "wk_readings_on": [
+      "ふく"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Spirit",
+      "Black Hole"
+    ]
+  },
+  "党": {
+    "strokes": 10,
+    "grade": 6,
+    "freq": 39,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Party",
+      "Faction",
+      "Clique"
+    ],
+    "readings_on": [
+      "とう"
+    ],
+    "readings_kun": [
+      "なかま",
+      "むら"
+    ],
+    "wk_level": 32,
+    "wk_meanings": [
+      "Group"
+    ],
+    "wk_readings_on": [
+      "とう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Viking",
+      "Older Brother"
+    ]
+  },
+  "卵": {
+    "strokes": 7,
+    "grade": 6,
+    "freq": 1342,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Egg",
+      "Ovum",
+      "Spawn",
+      "Roe"
+    ],
+    "readings_on": [
+      "らん"
+    ],
+    "readings_kun": [
+      "たまご"
+    ],
+    "wk_level": 32,
+    "wk_meanings": [
+      "Egg"
+    ],
+    "wk_readings_on": [
+      "!らん"
+    ],
+    "wk_readings_kun": [
+      "たまご"
+    ],
+    "wk_radicals": [
+      "Pool"
+    ]
+  },
+  "捨": {
+    "strokes": 11,
+    "grade": 6,
+    "freq": 1266,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Discard",
+      "Throw Away",
+      "Abandon",
+      "Resign",
+      "Reject",
+      "Sacrifice"
+    ],
+    "readings_on": [
+      "しゃ"
+    ],
+    "readings_kun": [
+      "す.てる"
+    ],
+    "wk_level": 32,
+    "wk_meanings": [
+      "Throw Away"
+    ],
+    "wk_readings_on": [
+      "!しゃ"
+    ],
+    "wk_readings_kun": [
+      "す"
+    ],
+    "wk_radicals": [
+      "Fingers",
+      "Cottage"
+    ]
+  },
+  "汚": {
+    "strokes": 6,
+    "grade": 8,
+    "freq": 908,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Dirty",
+      "Pollute",
+      "Disgrace",
+      "Rape",
+      "Defile"
+    ],
+    "readings_on": [
+      "お"
+    ],
+    "readings_kun": [
+      "けが.す",
+      "けが.れる",
+      "けが.らわしい",
+      "よご.す",
+      "よご.れる",
+      "きたな.い"
+    ],
+    "wk_level": 32,
+    "wk_meanings": [
+      "Dirty"
+    ],
+    "wk_readings_on": [
+      "お"
+    ],
+    "wk_readings_kun": [
+      "!よご",
+      "!きたな",
+      "!けが"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Ground",
+      "Beggar"
+    ]
+  },
+  "机": {
+    "strokes": 6,
+    "grade": 6,
+    "freq": 1671,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Desk",
+      "Table"
+    ],
+    "readings_on": [
+      "き"
+    ],
+    "readings_kun": [
+      "つくえ"
+    ],
+    "wk_level": 32,
+    "wk_meanings": [
+      "Desk"
+    ],
+    "wk_readings_on": [
+      "!き"
+    ],
+    "wk_readings_kun": [
+      "つくえ"
+    ],
+    "wk_radicals": [
+      "Tree",
+      "Table"
+    ]
+  },
+  "簡": {
+    "strokes": 18,
+    "grade": 6,
+    "freq": 983,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Simplicity",
+      "Brevity"
+    ],
+    "readings_on": [
+      "かん",
+      "けん"
+    ],
+    "readings_kun": [
+      "えら.ぶ",
+      "ふだ"
+    ],
+    "wk_level": 33,
+    "wk_meanings": [
+      "Simplicity"
+    ],
+    "wk_readings_on": [
+      "かん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Bamboo",
+      "Interval"
+    ]
+  },
+  "誌": {
+    "strokes": 14,
+    "grade": 6,
+    "freq": 851,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Document",
+      "Records"
+    ],
+    "readings_on": [
+      "し"
+    ],
+    "readings_kun": [],
+    "wk_level": 33,
+    "wk_meanings": [
+      "Magazine"
+    ],
+    "wk_readings_on": [
+      "し"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Say",
+      "Samurai",
+      "Heart"
+    ]
+  },
+  "宝": {
+    "strokes": 8,
+    "grade": 6,
+    "freq": 1139,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Treasure",
+      "Wealth",
+      "Valuables"
+    ],
+    "readings_on": [
+      "ほう"
+    ],
+    "readings_kun": [
+      "たから"
+    ],
+    "wk_level": 4,
+    "wk_meanings": [
+      "Treasure"
+    ],
+    "wk_readings_on": [
+      "ほう"
+    ],
+    "wk_readings_kun": [
+      "!たから"
+    ],
+    "wk_radicals": [
+      "Roof",
+      "King",
+      "Drop"
+    ]
+  },
+  "尊": {
+    "strokes": 12,
+    "grade": 6,
+    "freq": 1181,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Revered",
+      "Valuable",
+      "Precious",
+      "Noble",
+      "Exalted"
+    ],
+    "readings_on": [
+      "そん"
+    ],
+    "readings_kun": [
+      "たっと.い",
+      "とうと.い",
+      "たっと.ぶ",
+      "とうと.ぶ"
+    ],
+    "wk_level": 33,
+    "wk_meanings": [
+      "Revered"
+    ],
+    "wk_readings_on": [
+      "そん"
+    ],
+    "wk_readings_kun": [
+      "!とうと",
+      "!たっと"
+    ],
+    "wk_radicals": [
+      "Horns",
+      "Alcohol",
+      "Measurement"
+    ]
+  },
+  "敬": {
+    "strokes": 12,
+    "grade": 6,
+    "freq": 1078,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Awe",
+      "Respect",
+      "Honor",
+      "Revere"
+    ],
+    "readings_on": [
+      "けい",
+      "きょう"
+    ],
+    "readings_kun": [
+      "うやま.う"
+    ],
+    "wk_level": 33,
+    "wk_meanings": [
+      "Respect"
+    ],
+    "wk_readings_on": [
+      "けい"
+    ],
+    "wk_readings_kun": [
+      "!うやま"
+    ],
+    "wk_radicals": [
+      "Poem",
+      "Winter"
+    ]
+  },
+  "灰": {
+    "strokes": 6,
+    "grade": 6,
+    "freq": 1717,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Ashes",
+      "Puckery Juice",
+      "Cremate"
+    ],
+    "readings_on": [
+      "かい"
+    ],
+    "readings_kun": [
+      "はい"
+    ],
+    "wk_level": 33,
+    "wk_meanings": [
+      "Ashes"
+    ],
+    "wk_readings_on": [
+      "!かい"
+    ],
+    "wk_readings_kun": [
+      "はい"
+    ],
+    "wk_radicals": [
+      "Cliff",
+      "Fire"
+    ]
+  },
+  "砂": {
+    "strokes": 9,
+    "grade": 6,
+    "freq": 1146,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Sand"
+    ],
+    "readings_on": [
+      "さ",
+      "しゃ"
+    ],
+    "readings_kun": [
+      "すな"
+    ],
+    "wk_level": 33,
+    "wk_meanings": [
+      "Sand"
+    ],
+    "wk_readings_on": [
+      "さ"
+    ],
+    "wk_readings_kun": [
+      "!すな"
+    ],
+    "wk_radicals": [
+      "Stone",
+      "Few"
+    ]
+  },
+  "著": {
+    "strokes": 11,
+    "grade": 6,
+    "freq": 849,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Renowned",
+      "Publish",
+      "Write",
+      "Remarkable",
+      "Phenomenal",
+      "Put On",
+      "Don",
+      "Wear",
+      "Arrival",
+      "Finish (race)",
+      "Counter For Suits Of Clothing",
+      "Literary Work"
+    ],
+    "readings_on": [
+      "ちょ",
+      "ちゃく"
+    ],
+    "readings_kun": [
+      "あらわ.す",
+      "いちじる.しい"
+    ],
+    "wk_level": 33,
+    "wk_meanings": [
+      "Author"
+    ],
+    "wk_readings_on": [
+      "ちょ"
+    ],
+    "wk_readings_kun": [
+      "!いちじる",
+      "!あらわ"
+    ],
+    "wk_radicals": [
+      "Flowers",
+      "Someone"
+    ]
+  },
+  "蒸": {
+    "strokes": 13,
+    "grade": 6,
+    "freq": 1552,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Steam",
+      "Heat",
+      "Sultry",
+      "Foment",
+      "Get Musty"
+    ],
+    "readings_on": [
+      "じょう",
+      "せい"
+    ],
+    "readings_kun": [
+      "む.す",
+      "む.れる",
+      "む.らす"
+    ],
+    "wk_level": 33,
+    "wk_meanings": [
+      "Steam"
+    ],
+    "wk_readings_on": [
+      "じょう"
+    ],
+    "wk_readings_kun": [
+      "!む"
+    ],
+    "wk_radicals": [
+      "Flowers",
+      "Coral",
+      "Boil"
+    ]
+  },
+  "蔵": {
+    "strokes": 15,
+    "grade": 6,
+    "freq": 468,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Storehouse",
+      "Hide",
+      "Own",
+      "Have",
+      "Possess"
+    ],
+    "readings_on": [
+      "ぞう",
+      "そう"
+    ],
+    "readings_kun": [
+      "くら",
+      "おさ.める",
+      "かく.れる"
+    ],
+    "wk_level": 33,
+    "wk_meanings": [
+      "Storehouse"
+    ],
+    "wk_readings_on": [
+      "ぞう"
+    ],
+    "wk_readings_kun": [
+      "!くら"
+    ],
+    "wk_radicals": [
+      "Storehouse"
+    ]
+  },
+  "装": {
+    "strokes": 12,
+    "grade": 6,
+    "freq": 657,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Attire",
+      "Dress",
+      "Pretend",
+      "Disguise",
+      "Profess"
+    ],
+    "readings_on": [
+      "そう",
+      "しょう"
+    ],
+    "readings_kun": [
+      "よそお.う",
+      "よそお.い"
+    ],
+    "wk_level": 33,
+    "wk_meanings": [
+      "Attire"
+    ],
+    "wk_readings_on": [
+      "そう",
+      "^しょう"
+    ],
+    "wk_readings_kun": [
+      "!よそお"
+    ],
+    "wk_radicals": [
+      "Icicle",
+      "Samurai",
+      "Clothes"
+    ]
+  },
+  "裏": {
+    "strokes": 13,
+    "grade": 6,
+    "freq": 812,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Back",
+      "Amidst",
+      "In",
+      "Reverse",
+      "Inside",
+      "Palm",
+      "Sole",
+      "Rear",
+      "Lining",
+      "Wrong Side"
+    ],
+    "readings_on": [
+      "り"
+    ],
+    "readings_kun": [
+      "うら"
+    ],
+    "wk_level": 33,
+    "wk_meanings": [
+      "Backside",
+      "^Underside",
+      "^Reverse"
+    ],
+    "wk_readings_on": [
+      "!り"
+    ],
+    "wk_readings_kun": [
+      "うら"
+    ],
+    "wk_radicals": [
+      "Lid",
+      "Village",
+      "Kick"
+    ]
+  },
+  "諸": {
+    "strokes": 15,
+    "grade": 6,
+    "freq": 658,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Various",
+      "Many",
+      "Several",
+      "Together"
+    ],
+    "readings_on": [
+      "しょ"
+    ],
+    "readings_kun": [
+      "もろ"
+    ],
+    "wk_level": 33,
+    "wk_meanings": [
+      "Various"
+    ],
+    "wk_readings_on": [
+      "しょ"
+    ],
+    "wk_readings_kun": [
+      "!もろ"
+    ],
+    "wk_radicals": [
+      "Say",
+      "Someone"
+    ]
+  },
+  "臓": {
+    "strokes": 19,
+    "grade": 6,
+    "freq": 991,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Entrails",
+      "Viscera",
+      "Bowels"
+    ],
+    "readings_on": [
+      "ぞう"
+    ],
+    "readings_kun": [
+      "はらわた"
+    ],
+    "wk_level": 34,
+    "wk_meanings": [
+      "Internal Organs"
+    ],
+    "wk_readings_on": [
+      "ぞう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Moon",
+      "Storehouse"
+    ]
+  },
+  "純": {
+    "strokes": 10,
+    "grade": 6,
+    "freq": 1044,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Genuine",
+      "Purity",
+      "Innocence",
+      "Net (profit)"
+    ],
+    "readings_on": [
+      "じゅん"
+    ],
+    "readings_kun": [],
+    "wk_level": 34,
+    "wk_meanings": [
+      "Pure"
+    ],
+    "wk_readings_on": [
+      "じゅん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Thread",
+      "Barracks"
+    ]
+  },
+  "紅": {
+    "strokes": 9,
+    "grade": 6,
+    "freq": 1299,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Crimson",
+      "Deep Red"
+    ],
+    "readings_on": [
+      "こう",
+      "く"
+    ],
+    "readings_kun": [
+      "べに",
+      "くれない",
+      "あか.い"
+    ],
+    "wk_level": 34,
+    "wk_meanings": [
+      "Deep Red",
+      "^Crimson"
+    ],
+    "wk_readings_on": [
+      "こう"
+    ],
+    "wk_readings_kun": [
+      "!べに",
+      "!くれない"
+    ],
+    "wk_radicals": [
+      "Construction",
+      "Thread"
+    ]
+  },
+  "拝": {
+    "strokes": 8,
+    "grade": 6,
+    "freq": 1443,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Worship",
+      "Adore",
+      "Pray To"
+    ],
+    "readings_on": [
+      "はい"
+    ],
+    "readings_kun": [
+      "おが.む",
+      "おろが.む"
+    ],
+    "wk_level": 34,
+    "wk_meanings": [
+      "Worship"
+    ],
+    "wk_readings_on": [
+      "はい"
+    ],
+    "wk_readings_kun": [
+      "!おが"
+    ],
+    "wk_radicals": [
+      "Fingers",
+      "Dry"
+    ]
+  },
+  "劇": {
+    "strokes": 15,
+    "grade": 6,
+    "freq": 662,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Drama",
+      "Play"
+    ],
+    "readings_on": [
+      "げき"
+    ],
+    "readings_kun": [],
+    "wk_level": 17,
+    "wk_meanings": [
+      "Drama"
+    ],
+    "wk_readings_on": [
+      "げき"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Tiger",
+      "Pig",
+      "Knife"
+    ]
+  },
+  "承": {
+    "strokes": 8,
+    "grade": 5,
+    "freq": 775,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Acquiesce",
+      "Hear",
+      "Listen To",
+      "Be Informed",
+      "Receive"
+    ],
+    "readings_on": [
+      "しょう",
+      "じょう"
+    ],
+    "readings_kun": [
+      "うけたまわ.る",
+      "う.ける"
+    ],
+    "wk_level": 34,
+    "wk_meanings": [
+      "Consent"
+    ],
+    "wk_readings_on": [
+      "しょう"
+    ],
+    "wk_readings_kun": [
+      "!うけたまわ"
+    ],
+    "wk_radicals": [
+      "Child",
+      "Two",
+      "Water"
+    ]
+  },
+  "損": {
+    "strokes": 13,
+    "grade": 5,
+    "freq": 807,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Damage",
+      "Loss",
+      "Disadvantage",
+      "Hurt",
+      "Injure"
+    ],
+    "readings_on": [
+      "そん"
+    ],
+    "readings_kun": [
+      "そこ.なう",
+      "そこな.う",
+      "-そこ.なう",
+      "そこ.ねる",
+      "-そこ.ねる"
+    ],
+    "wk_level": 34,
+    "wk_meanings": [
+      "Loss"
+    ],
+    "wk_readings_on": [
+      "そん"
+    ],
+    "wk_readings_kun": [
+      "!そこ"
+    ],
+    "wk_radicals": [
+      "Fingers",
+      "Member"
+    ]
+  },
+  "枝": {
+    "strokes": 8,
+    "grade": 5,
+    "freq": 1401,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Bough",
+      "Branch",
+      "Twig",
+      "Limb",
+      "Counter For Branches"
+    ],
+    "readings_on": [
+      "し"
+    ],
+    "readings_kun": [
+      "えだ"
+    ],
+    "wk_level": 34,
+    "wk_meanings": [
+      "Branch"
+    ],
+    "wk_readings_on": [
+      "し"
+    ],
+    "wk_readings_kun": [
+      "!えだ"
+    ],
+    "wk_radicals": [
+      "Tree",
+      "Branch"
+    ]
+  },
+  "測": {
+    "strokes": 12,
+    "grade": 5,
+    "freq": 761,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Fathom",
+      "Plan",
+      "Scheme",
+      "Measure"
+    ],
+    "readings_on": [
+      "そく"
+    ],
+    "readings_kun": [
+      "はか.る"
+    ],
+    "wk_level": 35,
+    "wk_meanings": [
+      "Measure"
+    ],
+    "wk_readings_on": [
+      "そく"
+    ],
+    "wk_readings_kun": [
+      "!はか"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Shellfish",
+      "Knife"
+    ]
+  },
+  "講": {
+    "strokes": 17,
+    "grade": 5,
+    "freq": 653,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Lecture",
+      "Club",
+      "Association"
+    ],
+    "readings_on": [
+      "こう"
+    ],
+    "readings_kun": [],
+    "wk_level": 35,
+    "wk_meanings": [
+      "Lecture"
+    ],
+    "wk_readings_on": [
+      "こう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Say",
+      "Lifeguard"
+    ]
+  },
+  "紹": {
+    "strokes": 11,
+    "grade": 8,
+    "freq": 963,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Introduce",
+      "Inherit",
+      "Help"
+    ],
+    "readings_on": [
+      "しょう"
+    ],
+    "readings_kun": [],
+    "wk_level": 35,
+    "wk_meanings": [
+      "Introduce"
+    ],
+    "wk_readings_on": [
+      "しょう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Thread",
+      "Call"
+    ]
+  },
+  "介": {
+    "strokes": 4,
+    "grade": 8,
+    "freq": 617,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Jammed In",
+      "Shellfish",
+      "Mediate",
+      "Concern Oneself With"
+    ],
+    "readings_on": [
+      "かい"
+    ],
+    "readings_kun": [],
+    "wk_level": 35,
+    "wk_meanings": [
+      "Jammed In"
+    ],
+    "wk_readings_on": [
+      "かい"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Jammed In"
+    ]
+  },
+  "湖": {
+    "strokes": 12,
+    "grade": 3,
+    "freq": 1344,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Lake"
+    ],
+    "readings_on": [
+      "こ"
+    ],
+    "readings_kun": [
+      "みずうみ"
+    ],
+    "wk_level": 35,
+    "wk_meanings": [
+      "Lake"
+    ],
+    "wk_readings_on": [
+      "こ"
+    ],
+    "wk_readings_kun": [
+      "!みずうみ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Old",
+      "Moon"
+    ]
+  },
+  "銅": {
+    "strokes": 14,
+    "grade": 5,
+    "freq": 1505,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Copper"
+    ],
+    "readings_on": [
+      "どう"
+    ],
+    "readings_kun": [
+      "あかがね"
+    ],
+    "wk_level": 35,
+    "wk_meanings": [
+      "Copper"
+    ],
+    "wk_readings_on": [
+      "どう"
+    ],
+    "wk_readings_kun": [
+      "!あかがね"
+    ],
+    "wk_radicals": [
+      "Gold",
+      "Same"
+    ]
+  },
+  "油": {
+    "strokes": 8,
+    "grade": 3,
+    "freq": 690,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Oil",
+      "Fat"
+    ],
+    "readings_on": [
+      "ゆ",
+      "ゆう"
+    ],
+    "readings_kun": [
+      "あぶら"
+    ],
+    "wk_level": 35,
+    "wk_meanings": [
+      "Oil"
+    ],
+    "wk_readings_on": [
+      "ゆ"
+    ],
+    "wk_readings_kun": [
+      "!あぶら"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Reason"
+    ]
+  },
+  "旧": {
+    "strokes": 5,
+    "grade": 5,
+    "freq": 549,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Old Times",
+      "Old Things",
+      "Old Friend",
+      "Former",
+      "Ex-"
+    ],
+    "readings_on": [
+      "きゅう"
+    ],
+    "readings_kun": [
+      "ふる.い",
+      "もと"
+    ],
+    "wk_level": 36,
+    "wk_meanings": [
+      "Former"
+    ],
+    "wk_readings_on": [
+      "きゅう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Stick",
+      "Sun"
+    ]
+  },
+  "姓": {
+    "strokes": 8,
+    "grade": 8,
+    "freq": 1628,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Surname"
+    ],
+    "readings_on": [
+      "せい",
+      "しょう"
+    ],
+    "readings_kun": [],
+    "wk_level": 36,
+    "wk_meanings": [
+      "Surname",
+      "^Family Name"
+    ],
+    "wk_readings_on": [
+      "せい",
+      "しょう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Woman",
+      "Life"
+    ]
+  },
+  "貿": {
+    "strokes": 12,
+    "grade": 5,
+    "freq": 652,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Trade",
+      "Exchange"
+    ],
+    "readings_on": [
+      "ぼう"
+    ],
+    "readings_kun": [],
+    "wk_level": 36,
+    "wk_meanings": [
+      "Trade"
+    ],
+    "wk_readings_on": [
+      "ぼう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Private",
+      "Sword",
+      "Shellfish"
+    ]
+  },
+  "将": {
+    "strokes": 10,
+    "grade": 6,
+    "freq": 634,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Leader",
+      "Commander",
+      "General",
+      "Admiral",
+      "Or",
+      "And Again",
+      "Soon",
+      "From Now On",
+      "Just About"
+    ],
+    "readings_on": [
+      "しょう",
+      "そう"
+    ],
+    "readings_kun": [
+      "まさ.に",
+      "はた",
+      "まさ",
+      "ひきい.る",
+      "もって"
+    ],
+    "wk_level": 36,
+    "wk_meanings": [
+      "Commander"
+    ],
+    "wk_readings_on": [
+      "しょう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Commander"
+    ]
+  },
+  "伸": {
+    "strokes": 7,
+    "grade": 8,
+    "freq": 730,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Expand",
+      "Stretch",
+      "Extend",
+      "Lengthen",
+      "Increase"
+    ],
+    "readings_on": [
+      "しん"
+    ],
+    "readings_kun": [
+      "の.びる",
+      "の.ばす",
+      "の.べる",
+      "の.す"
+    ],
+    "wk_level": 36,
+    "wk_meanings": [
+      "Stretch"
+    ],
+    "wk_readings_on": [
+      "!しん"
+    ],
+    "wk_readings_kun": [
+      "の"
+    ],
+    "wk_radicals": [
+      "Leader",
+      "Humble"
+    ]
+  },
+  "幅": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 641,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Hanging Scroll",
+      "Width"
+    ],
+    "readings_on": [
+      "ふく"
+    ],
+    "readings_kun": [
+      "はば"
+    ],
+    "wk_level": 36,
+    "wk_meanings": [
+      "Width"
+    ],
+    "wk_readings_on": [
+      "!ふく"
+    ],
+    "wk_readings_kun": [
+      "はば"
+    ],
+    "wk_radicals": [
+      "Towel",
+      "Scarecrow"
+    ]
+  },
+  "甘": {
+    "strokes": 5,
+    "grade": 8,
+    "freq": 1248,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Sweet",
+      "Coax",
+      "Pamper",
+      "Be Content",
+      "Sugary"
+    ],
+    "readings_on": [
+      "かん"
+    ],
+    "readings_kun": [
+      "あま.い",
+      "あま.える",
+      "あま.やかす",
+      "うま.い"
+    ],
+    "wk_level": 36,
+    "wk_meanings": [
+      "Sweet"
+    ],
+    "wk_readings_on": [
+      "!かん"
+    ],
+    "wk_readings_kun": [
+      "あま"
+    ],
+    "wk_radicals": [
+      "Sweet"
+    ]
+  },
+  "換": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 687,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Interchange",
+      "Period",
+      "Change",
+      "Convert",
+      "Replace",
+      "Renew"
+    ],
+    "readings_on": [
+      "かん"
+    ],
+    "readings_kun": [
+      "か.える",
+      "-か.える",
+      "か.わる"
+    ],
+    "wk_level": 36,
+    "wk_meanings": [
+      "Exchange"
+    ],
+    "wk_readings_on": [
+      "かん"
+    ],
+    "wk_readings_kun": [
+      "!か"
+    ],
+    "wk_radicals": [
+      "Fingers",
+      "Prison",
+      "Mouth",
+      "Legs",
+      "Big"
+    ]
+  },
+  "療": {
+    "strokes": 17,
+    "grade": 8,
+    "freq": 600,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Heal",
+      "Cure"
+    ],
+    "readings_on": [
+      "りょう"
+    ],
+    "readings_kun": [],
+    "wk_level": 36,
+    "wk_meanings": [
+      "Heal"
+    ],
+    "wk_readings_on": [
+      "りょう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Sick",
+      "Charcoal"
+    ]
+  },
+  "般": {
+    "strokes": 10,
+    "grade": 8,
+    "freq": 649,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Carrier",
+      "Carry",
+      "All",
+      "General",
+      "Sort",
+      "Kind"
+    ],
+    "readings_on": [
+      "はん"
+    ],
+    "readings_kun": [],
+    "wk_level": 36,
+    "wk_meanings": [
+      "Generally",
+      "^General"
+    ],
+    "wk_readings_on": [
+      "はん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Boat",
+      "Weapon"
+    ]
+  },
+  "依": {
+    "strokes": 8,
+    "grade": 8,
+    "freq": 906,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Reliant",
+      "Depend On",
+      "Consequently",
+      "Therefore",
+      "Due To"
+    ],
+    "readings_on": [
+      "い",
+      "え"
+    ],
+    "readings_kun": [
+      "よ.る"
+    ],
+    "wk_level": 36,
+    "wk_meanings": [
+      "Reliant",
+      "^Dependent"
+    ],
+    "wk_readings_on": [
+      "い"
+    ],
+    "wk_readings_kun": [
+      "!よ"
+    ],
+    "wk_radicals": [
+      "Leader",
+      "Clothes"
+    ]
+  },
+  "漁": {
+    "strokes": 14,
+    "grade": 4,
+    "freq": 1094,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Fishing",
+      "Fishery"
+    ],
+    "readings_on": [
+      "ぎょ",
+      "りょう"
+    ],
+    "readings_kun": [
+      "あさ.る"
+    ],
+    "wk_level": 37,
+    "wk_meanings": [
+      "Fishing"
+    ],
+    "wk_readings_on": [
+      "ぎょ",
+      "りょう"
+    ],
+    "wk_readings_kun": [
+      "!あさ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Fish"
+    ]
+  },
+  "募": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 809,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Recruit",
+      "Campaign",
+      "Gather (contributions)",
+      "Enlist",
+      "Grow Violent"
+    ],
+    "readings_on": [
+      "ぼ"
+    ],
+    "readings_kun": [
+      "つの.る"
+    ],
+    "wk_level": 37,
+    "wk_meanings": [
+      "Recruit"
+    ],
+    "wk_readings_on": [
+      "ぼ"
+    ],
+    "wk_readings_kun": [
+      "!つの"
+    ],
+    "wk_radicals": [
+      "Greenhouse",
+      "Power"
+    ]
+  },
+  "患": {
+    "strokes": 11,
+    "grade": 8,
+    "freq": 796,
+    "jlpt_old": 1,
+    "jlpt_new": 2,
+    "meanings": [
+      "Afflicted",
+      "Disease",
+      "Suffer From",
+      "Be Ill"
+    ],
+    "readings_on": [
+      "かん"
+    ],
+    "readings_kun": [
+      "わずら.う"
+    ],
+    "wk_level": 37,
+    "wk_meanings": [
+      "Afflicted"
+    ],
+    "wk_readings_on": [
+      "かん"
+    ],
+    "wk_readings_kun": [
+      "!わずら"
+    ],
+    "wk_radicals": [
+      "Skewer",
+      "Heart"
+    ]
+  },
+  "湾": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 545,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Gulf",
+      "Bay",
+      "Inlet"
+    ],
+    "readings_on": [
+      "わん"
+    ],
+    "readings_kun": [
+      "いりえ"
+    ],
+    "wk_level": 37,
+    "wk_meanings": [
+      "Gulf"
+    ],
+    "wk_readings_on": [
+      "わん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Tsunami",
+      "Red",
+      "Bow"
+    ]
+  },
+  "爆": {
+    "strokes": 19,
+    "grade": 8,
+    "freq": 735,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Bomb",
+      "Burst Open",
+      "Pop",
+      "Split"
+    ],
+    "readings_on": [
+      "ばく"
+    ],
+    "readings_kun": [
+      "は.ぜる"
+    ],
+    "wk_level": 37,
+    "wk_meanings": [
+      "Explode"
+    ],
+    "wk_readings_on": [
+      "ばく"
+    ],
+    "wk_readings_kun": [
+      "!は"
+    ],
+    "wk_radicals": [
+      "Fire",
+      "Violence"
+    ]
+  },
+  "跡": {
+    "strokes": 13,
+    "grade": 8,
+    "freq": 953,
+    "jlpt_old": 1,
+    "jlpt_new": 2,
+    "meanings": [
+      "Tracks",
+      "Mark",
+      "Print",
+      "Impression"
+    ],
+    "readings_on": [
+      "せき"
+    ],
+    "readings_kun": [
+      "あと"
+    ],
+    "wk_level": 37,
+    "wk_meanings": [
+      "Traces"
+    ],
+    "wk_readings_on": [
+      "せき"
+    ],
+    "wk_readings_kun": [
+      "!あと"
+    ],
+    "wk_radicals": [
+      "Foot",
+      "Red"
+    ]
+  },
+  "香": {
+    "strokes": 9,
+    "grade": 8,
+    "freq": 859,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Incense",
+      "Smell",
+      "Perfume"
+    ],
+    "readings_on": [
+      "こう",
+      "きょう"
+    ],
+    "readings_kun": [
+      "か",
+      "かお.り",
+      "かお.る"
+    ],
+    "wk_level": 37,
+    "wk_meanings": [
+      "Fragrance"
+    ],
+    "wk_readings_on": [
+      "こう",
+      "^きょう"
+    ],
+    "wk_readings_kun": [
+      "!かお",
+      "!か"
+    ],
+    "wk_radicals": [
+      "Grain",
+      "Sun"
+    ]
+  },
+  "兆": {
+    "strokes": 6,
+    "grade": 4,
+    "freq": 1174,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Portent",
+      "10**12",
+      "Trillion",
+      "Sign",
+      "Omen",
+      "Symptoms"
+    ],
+    "readings_on": [
+      "ちょう"
+    ],
+    "readings_kun": [
+      "きざ.す",
+      "きざ.し"
+    ],
+    "wk_level": 37,
+    "wk_meanings": [
+      "Omen"
+    ],
+    "wk_readings_on": [
+      "ちょう"
+    ],
+    "wk_readings_kun": [
+      "!きざ"
+    ],
+    "wk_radicals": [
+      "Omen"
+    ]
+  },
+  "齢": {
+    "strokes": 17,
+    "grade": 8,
+    "freq": 770,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Age"
+    ],
+    "readings_on": [
+      "れい"
+    ],
+    "readings_kun": [
+      "よわい",
+      "とし"
+    ],
+    "wk_level": 38,
+    "wk_meanings": [
+      "Age"
+    ],
+    "wk_readings_on": [
+      "れい"
+    ],
+    "wk_readings_kun": [
+      "!よわい"
+    ],
+    "wk_radicals": [
+      "Tooth",
+      "Orders"
+    ]
+  },
+  "刊": {
+    "strokes": 5,
+    "grade": 5,
+    "freq": 855,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Publish",
+      "Carve",
+      "Engrave"
+    ],
+    "readings_on": [
+      "かん"
+    ],
+    "readings_kun": [],
+    "wk_level": 38,
+    "wk_meanings": [
+      "Edition"
+    ],
+    "wk_readings_on": [
+      "かん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Dry",
+      "Knife"
+    ]
+  },
+  "傾": {
+    "strokes": 13,
+    "grade": 8,
+    "freq": 938,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Lean",
+      "Incline",
+      "Tilt",
+      "Trend",
+      "Wane",
+      "Sink",
+      "Ruin",
+      "Bias"
+    ],
+    "readings_on": [
+      "けい"
+    ],
+    "readings_kun": [
+      "かたむ.く",
+      "かたむ.ける",
+      "かたぶ.く",
+      "かた.げる",
+      "かし.げる"
+    ],
+    "wk_level": 38,
+    "wk_meanings": [
+      "Lean"
+    ],
+    "wk_readings_on": [
+      "けい"
+    ],
+    "wk_readings_kun": [
+      "!かたむ"
+    ],
+    "wk_radicals": [
+      "Change",
+      "Geoduck"
+    ]
+  },
+  "奥": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1018,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Heart",
+      "Interior"
+    ],
+    "readings_on": [
+      "おう"
+    ],
+    "readings_kun": [
+      "おく",
+      "おく.まる",
+      "くま"
+    ],
+    "wk_level": 38,
+    "wk_meanings": [
+      "Interior"
+    ],
+    "wk_readings_on": [
+      "!おう"
+    ],
+    "wk_readings_kun": [
+      "おく"
+    ],
+    "wk_radicals": [
+      "Drop",
+      "Head",
+      "Rice",
+      "Big"
+    ]
+  },
+  "贈": {
+    "strokes": 18,
+    "grade": 8,
+    "freq": 1001,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Presents",
+      "Send",
+      "Give To",
+      "Award To",
+      "Confer On",
+      "Presenting Something"
+    ],
+    "readings_on": [
+      "ぞう",
+      "そう"
+    ],
+    "readings_kun": [
+      "おく.る"
+    ],
+    "wk_level": 38,
+    "wk_meanings": [
+      "Presents"
+    ],
+    "wk_readings_on": [
+      "ぞう"
+    ],
+    "wk_readings_kun": [
+      "!おく"
+    ],
+    "wk_radicals": [
+      "Shellfish",
+      "Mask"
+    ]
+  },
+  "超": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 597,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Transcend",
+      "Super-",
+      "Ultra-"
+    ],
+    "readings_on": [
+      "ちょう"
+    ],
+    "readings_kun": [
+      "こ.える",
+      "こ.す"
+    ],
+    "wk_level": 36,
+    "wk_meanings": [
+      "Ultra",
+      "^Super"
+    ],
+    "wk_readings_on": [
+      "ちょう"
+    ],
+    "wk_readings_kun": [
+      "!こ"
+    ],
+    "wk_radicals": [
+      "Run",
+      "Call"
+    ]
+  },
+  "雇": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 975,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Employ",
+      "Hire"
+    ],
+    "readings_on": [
+      "こ"
+    ],
+    "readings_kun": [
+      "やと.う"
+    ],
+    "wk_level": 39,
+    "wk_meanings": [
+      "Employ"
+    ],
+    "wk_readings_on": [
+      "こ"
+    ],
+    "wk_readings_kun": [
+      "!やと"
+    ],
+    "wk_radicals": [
+      "Turkey",
+      "Door"
+    ]
+  },
+  "片": {
+    "strokes": 4,
+    "grade": 6,
+    "freq": 1076,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "One-sided",
+      "Leaf",
+      "Sheet",
+      "Right-side Kata Radical (no. 91)"
+    ],
+    "readings_on": [
+      "へん"
+    ],
+    "readings_kun": [
+      "かた-",
+      "かた"
+    ],
+    "wk_level": 39,
+    "wk_meanings": [
+      "One Sided"
+    ],
+    "wk_readings_on": [
+      "!へん"
+    ],
+    "wk_readings_kun": [
+      "かた"
+    ],
+    "wk_radicals": [
+      "One Sided"
+    ]
+  },
+  "群": {
+    "strokes": 13,
+    "grade": 5,
+    "freq": 1012,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Flock",
+      "Group",
+      "Crowd",
+      "Herd",
+      "Swarm",
+      "Cluster"
+    ],
+    "readings_on": [
+      "ぐん"
+    ],
+    "readings_kun": [
+      "む.れる",
+      "む.れ",
+      "むら",
+      "むら.がる"
+    ],
+    "wk_level": 39,
+    "wk_meanings": [
+      "Flock"
+    ],
+    "wk_readings_on": [
+      "ぐん"
+    ],
+    "wk_readings_kun": [
+      "!む",
+      "!むら"
+    ],
+    "wk_radicals": [
+      "Buddy",
+      "Sheep"
+    ]
+  },
+  "埋": {
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1110,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Bury",
+      "Be Filled Up",
+      "Embedded"
+    ],
+    "readings_on": [
+      "まい"
+    ],
+    "readings_kun": [
+      "う.める",
+      "う.まる",
+      "う.もれる",
+      "うず.める",
+      "うず.まる",
+      "い.ける"
+    ],
+    "wk_level": 39,
+    "wk_meanings": [
+      "Bury"
+    ],
+    "wk_readings_on": [
+      "!まい"
+    ],
+    "wk_readings_kun": [
+      "う"
+    ],
+    "wk_radicals": [
+      "Dirt",
+      "Village"
+    ]
+  },
+  "駐": {
+    "strokes": 15,
+    "grade": 8,
+    "freq": 955,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Stop-over",
+      "Reside In",
+      "Resident"
+    ],
+    "readings_on": [
+      "ちゅう"
+    ],
+    "readings_kun": [],
+    "wk_level": 40,
+    "wk_meanings": [
+      "Resident"
+    ],
+    "wk_readings_on": [
+      "ちゅう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Horse",
+      "Master"
+    ]
+  },
+  "柱": {
+    "strokes": 9,
+    "grade": 3,
+    "freq": 1119,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Pillar",
+      "Post",
+      "Cylinder",
+      "Support"
+    ],
+    "readings_on": [
+      "ちゅう"
+    ],
+    "readings_kun": [
+      "はしら"
+    ],
+    "wk_level": 40,
+    "wk_meanings": [
+      "Pillar"
+    ],
+    "wk_readings_on": [
+      "ちゅう"
+    ],
+    "wk_readings_kun": [
+      "!はしら"
+    ],
+    "wk_radicals": [
+      "Tree",
+      "Master"
+    ]
+  },
+  "鋭": {
+    "strokes": 15,
+    "grade": 8,
+    "freq": 1395,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Pointed",
+      "Sharpness",
+      "Edge",
+      "Weapon",
+      "Sharp",
+      "Violent"
+    ],
+    "readings_on": [
+      "えい"
+    ],
+    "readings_kun": [
+      "するど.い"
+    ],
+    "wk_level": 40,
+    "wk_meanings": [
+      "Sharp"
+    ],
+    "wk_readings_on": [
+      "えい"
+    ],
+    "wk_readings_kun": [
+      "!するど"
+    ],
+    "wk_radicals": [
+      "Gold",
+      "Guard"
+    ]
+  },
+  "殿": {
+    "strokes": 13,
+    "grade": 8,
+    "freq": 1199,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Mr.",
+      "Hall",
+      "Mansion",
+      "Palace",
+      "Temple",
+      "Lord"
+    ],
+    "readings_on": [
+      "でん",
+      "てん"
+    ],
+    "readings_kun": [
+      "との",
+      "-どの"
+    ],
+    "wk_level": 40,
+    "wk_meanings": [
+      "Milord"
+    ],
+    "wk_readings_on": [
+      "でん"
+    ],
+    "wk_readings_kun": [
+      "!との",
+      "!どの"
+    ],
+    "wk_radicals": [
+      "Flag",
+      "Together",
+      "Weapon"
+    ]
+  },
+  "薄": {
+    "strokes": 16,
+    "grade": 8,
+    "freq": 1009,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Dilute",
+      "Thin",
+      "Weak (tea)",
+      "Pampas Grass"
+    ],
+    "readings_on": [
+      "はく"
+    ],
+    "readings_kun": [
+      "うす.い",
+      "うす-",
+      "-うす",
+      "うす.める",
+      "うす.まる",
+      "うす.らぐ",
+      "うす.ら-",
+      "うす.れる",
+      "すすき"
+    ],
+    "wk_level": 40,
+    "wk_meanings": [
+      "Dilute"
+    ],
+    "wk_readings_on": [
+      "はく"
+    ],
+    "wk_readings_kun": [
+      "!うす"
+    ],
+    "wk_radicals": [
+      "Flowers",
+      "Tsunami",
+      "Specialty"
+    ]
+  },
+  "伺": {
+    "strokes": 7,
+    "grade": 8,
+    "freq": 2209,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Pay Respects",
+      "Visit",
+      "Ask",
+      "Inquire",
+      "Question",
+      "Implore"
+    ],
+    "readings_on": [
+      "し"
+    ],
+    "readings_kun": [
+      "うかが.う"
+    ],
+    "wk_level": 41,
+    "wk_meanings": [
+      "Pay Respects"
+    ],
+    "wk_readings_on": [
+      "!し"
+    ],
+    "wk_readings_kun": [
+      "うかが"
+    ],
+    "wk_radicals": [
+      "Leader",
+      "Director"
+    ]
+  },
+  "炭": {
+    "strokes": 9,
+    "grade": 3,
+    "freq": 1307,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Charcoal",
+      "Coal"
+    ],
+    "readings_on": [
+      "たん"
+    ],
+    "readings_kun": [
+      "すみ"
+    ],
+    "wk_level": 41,
+    "wk_meanings": [
+      "Charcoal"
+    ],
+    "wk_readings_on": [
+      "たん"
+    ],
+    "wk_readings_kun": [
+      "!すみ"
+    ],
+    "wk_radicals": [
+      "Mountain",
+      "Cliff",
+      "Fire"
+    ]
+  },
+  "包": {
+    "strokes": 5,
+    "grade": 4,
+    "freq": 954,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Wrap",
+      "Pack Up",
+      "Cover",
+      "Conceal"
+    ],
+    "readings_on": [
+      "ほう"
+    ],
+    "readings_kun": [
+      "つつ.む",
+      "くる.む"
+    ],
+    "wk_level": 41,
+    "wk_meanings": [
+      "Wrap"
+    ],
+    "wk_readings_on": [
+      "ほう"
+    ],
+    "wk_readings_kun": [
+      "!つつ",
+      "!くる"
+    ],
+    "wk_radicals": [
+      "Wrap"
+    ]
+  },
+  "衣": {
+    "strokes": 6,
+    "grade": 4,
+    "freq": 1214,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Garment",
+      "Clothes",
+      "Dressing"
+    ],
+    "readings_on": [
+      "い",
+      "え"
+    ],
+    "readings_kun": [
+      "ころも",
+      "きぬ",
+      "-ぎ"
+    ],
+    "wk_level": 41,
+    "wk_meanings": [
+      "Clothes"
+    ],
+    "wk_readings_on": [
+      "い",
+      "え"
+    ],
+    "wk_readings_kun": [
+      "!ころも"
+    ],
+    "wk_radicals": [
+      "Clothes"
+    ]
+  },
+  "鉱": {
+    "strokes": 13,
+    "grade": 5,
+    "freq": 1376,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Mineral",
+      "Ore"
+    ],
+    "readings_on": [
+      "こう"
+    ],
+    "readings_kun": [
+      "あらがね"
+    ],
+    "wk_level": 41,
+    "wk_meanings": [
+      "Mineral"
+    ],
+    "wk_readings_on": [
+      "こう"
+    ],
+    "wk_readings_kun": [
+      "!あらがね"
+    ],
+    "wk_radicals": [
+      "Gold",
+      "Wide"
+    ]
+  },
+  "双": {
+    "strokes": 4,
+    "grade": 8,
+    "freq": 1029,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Pair",
+      "Set",
+      "Comparison",
+      "Counter For Pairs"
+    ],
+    "readings_on": [
+      "そう"
+    ],
+    "readings_kun": [
+      "ふた",
+      "たぐい",
+      "ならぶ",
+      "ふたつ"
+    ],
+    "wk_level": 42,
+    "wk_meanings": [
+      "Pair"
+    ],
+    "wk_readings_on": [
+      "そう"
+    ],
+    "wk_readings_kun": [
+      "!ふた"
+    ],
+    "wk_radicals": [
+      "Stool"
+    ]
+  },
+  "床": {
+    "strokes": 7,
+    "grade": 8,
+    "freq": 1175,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Bed",
+      "Counter For Beds",
+      "Floor",
+      "Padding",
+      "Tatami"
+    ],
+    "readings_on": [
+      "しょう"
+    ],
+    "readings_kun": [
+      "とこ",
+      "ゆか"
+    ],
+    "wk_level": 42,
+    "wk_meanings": [
+      "Floor"
+    ],
+    "wk_readings_on": [
+      "しょう"
+    ],
+    "wk_readings_kun": [
+      "!ゆか",
+      "!とこ"
+    ],
+    "wk_radicals": [
+      "Canopy",
+      "Tree"
+    ]
+  },
+  "掘": {
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1257,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Dig",
+      "Delve",
+      "Excavate"
+    ],
+    "readings_on": [
+      "くつ"
+    ],
+    "readings_kun": [
+      "ほ.る"
+    ],
+    "wk_level": 42,
+    "wk_meanings": [
+      "Dig"
+    ],
+    "wk_readings_on": [
+      "くつ"
+    ],
+    "wk_readings_kun": [
+      "!ほ"
+    ],
+    "wk_radicals": [
+      "Fingers",
+      "Flag",
+      "Exit"
+    ]
+  },
+  "泊": {
+    "strokes": 8,
+    "grade": 8,
+    "freq": 1233,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Overnight Stay",
+      "Put Up At",
+      "Ride At Anchor"
+    ],
+    "readings_on": [
+      "はく"
+    ],
+    "readings_kun": [
+      "と.まる",
+      "と.める"
+    ],
+    "wk_level": 42,
+    "wk_meanings": [
+      "Overnight"
+    ],
+    "wk_readings_on": [
+      "はく"
+    ],
+    "wk_readings_kun": [
+      "!と"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "White"
+    ]
+  },
+  "荒": {
+    "strokes": 9,
+    "grade": 8,
+    "freq": 1099,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Laid Waste",
+      "Rough",
+      "Rude",
+      "Wild"
+    ],
+    "readings_on": [
+      "こう"
+    ],
+    "readings_kun": [
+      "あら.い",
+      "あら-",
+      "あ.れる",
+      "あ.らす",
+      "-あ.らし",
+      "すさ.む"
+    ],
+    "wk_level": 42,
+    "wk_meanings": [
+      "Wild"
+    ],
+    "wk_readings_on": [
+      "!こう"
+    ],
+    "wk_readings_kun": [
+      "あ",
+      "あら"
+    ],
+    "wk_radicals": [
+      "Flowers",
+      "Death",
+      "River"
+    ]
+  },
+  "袋": {
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1125,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Sack",
+      "Bag",
+      "Pouch"
+    ],
+    "readings_on": [
+      "たい",
+      "だい"
+    ],
+    "readings_kun": [
+      "ふくろ"
+    ],
+    "wk_level": 42,
+    "wk_meanings": [
+      "Sack"
+    ],
+    "wk_readings_on": [
+      "!たい"
+    ],
+    "wk_readings_kun": [
+      "ふくろ"
+    ],
+    "wk_radicals": [
+      "Substitute",
+      "Clothes"
+    ]
+  },
+  "珍": {
+    "strokes": 9,
+    "grade": 8,
+    "freq": 1330,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Rare",
+      "Curious",
+      "Strange"
+    ],
+    "readings_on": [
+      "ちん"
+    ],
+    "readings_kun": [
+      "めずら.しい",
+      "たから"
+    ],
+    "wk_level": 43,
+    "wk_meanings": [
+      "Rare"
+    ],
+    "wk_readings_on": [
+      "ちん"
+    ],
+    "wk_readings_kun": [
+      "!めずら"
+    ],
+    "wk_radicals": [
+      "King",
+      "Hat",
+      "Hair"
+    ]
+  },
+  "籍": {
+    "strokes": 20,
+    "grade": 8,
+    "freq": 907,
+    "jlpt_old": 1,
+    "jlpt_new": 2,
+    "meanings": [
+      "Enroll",
+      "Domiciliary Register",
+      "Membership"
+    ],
+    "readings_on": [
+      "せき"
+    ],
+    "readings_kun": [],
+    "wk_level": 43,
+    "wk_meanings": [
+      "Enroll"
+    ],
+    "wk_readings_on": [
+      "せき"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Bamboo",
+      "Plow",
+      "Long Ago"
+    ]
+  },
+  "刷": {
+    "strokes": 8,
+    "grade": 4,
+    "freq": 1352,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Printing",
+      "Print",
+      "Brush"
+    ],
+    "readings_on": [
+      "さつ"
+    ],
+    "readings_kun": [
+      "す.る",
+      "-ず.り",
+      "-ずり",
+      "は.く"
+    ],
+    "wk_level": 43,
+    "wk_meanings": [
+      "Printing"
+    ],
+    "wk_readings_on": [
+      "さつ"
+    ],
+    "wk_readings_kun": [
+      "!す"
+    ],
+    "wk_radicals": [
+      "Flag",
+      "Towel",
+      "Knife"
+    ]
+  },
+  "封": {
+    "strokes": 9,
+    "grade": 8,
+    "freq": 1143,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Seal",
+      "Closing"
+    ],
+    "readings_on": [
+      "ふう",
+      "ほう"
+    ],
+    "readings_kun": [],
+    "wk_level": 43,
+    "wk_meanings": [
+      "Seal",
+      "^Seal In",
+      "^Closing"
+    ],
+    "wk_readings_on": [
+      "ふう",
+      "ほう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Dirt",
+      "Measurement"
+    ]
+  },
+  "筒": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1631,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Cylinder",
+      "Pipe",
+      "Tube",
+      "Gun Barrel",
+      "Sleeve"
+    ],
+    "readings_on": [
+      "とう"
+    ],
+    "readings_kun": [
+      "つつ"
+    ],
+    "wk_level": 43,
+    "wk_meanings": [
+      "Cylinder"
+    ],
+    "wk_readings_on": [
+      "とう"
+    ],
+    "wk_readings_kun": [
+      "!つつ"
+    ],
+    "wk_radicals": [
+      "Bamboo",
+      "Same"
+    ]
+  },
+  "柔": {
+    "strokes": 9,
+    "grade": 8,
+    "freq": 1187,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Tender",
+      "Weakness",
+      "Gentleness",
+      "Softness"
+    ],
+    "readings_on": [
+      "じゅう",
+      "にゅう"
+    ],
+    "readings_kun": [
+      "やわ.らか",
+      "やわ.らかい",
+      "やわ",
+      "やわ.ら"
+    ],
+    "wk_level": 43,
+    "wk_meanings": [
+      "Gentle"
+    ],
+    "wk_readings_on": [
+      "じゅう",
+      "^にゅう"
+    ],
+    "wk_readings_kun": [
+      "!やわ"
+    ],
+    "wk_radicals": [
+      "Spear",
+      "Tree"
+    ]
+  },
+  "沈": {
+    "strokes": 7,
+    "grade": 8,
+    "freq": 1271,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Sink",
+      "Be Submerged",
+      "Subside",
+      "Be Depressed",
+      "Aloes"
+    ],
+    "readings_on": [
+      "ちん",
+      "じん"
+    ],
+    "readings_kun": [
+      "しず.む",
+      "しず.める"
+    ],
+    "wk_level": 43,
+    "wk_meanings": [
+      "Sink"
+    ],
+    "wk_readings_on": [
+      "ちん"
+    ],
+    "wk_readings_kun": [
+      "!しず"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Pirate"
+    ]
+  },
+  "辛": {
+    "strokes": 7,
+    "grade": 8,
+    "freq": 1607,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Spicy",
+      "Bitter",
+      "Hot",
+      "Acrid"
+    ],
+    "readings_on": [
+      "しん"
+    ],
+    "readings_kun": [
+      "から.い",
+      "つら.い",
+      "-づら.い",
+      "かのと"
+    ],
+    "wk_level": 44,
+    "wk_meanings": [
+      "Spicy"
+    ],
+    "wk_readings_on": [
+      "しん"
+    ],
+    "wk_readings_kun": [
+      "!から",
+      "!つら"
+    ],
+    "wk_radicals": [
+      "Spicy"
+    ]
+  },
+  "匹": {
+    "strokes": 4,
+    "grade": 8,
+    "freq": 1384,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Equal",
+      "Head",
+      "Counter For Small Animals",
+      "Roll Of Cloth"
+    ],
+    "readings_on": [
+      "ひつ"
+    ],
+    "readings_kun": [
+      "ひき"
+    ],
+    "wk_level": 44,
+    "wk_meanings": [
+      "Small Animal",
+      "^Small Animal Counter"
+    ],
+    "wk_readings_on": [],
+    "wk_readings_kun": [
+      "ひき"
+    ],
+    "wk_radicals": [
+      "Cage",
+      "Legs"
+    ]
+  },
+  "叫": {
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1426,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Shout",
+      "Exclaim",
+      "Yell"
+    ],
+    "readings_on": [
+      "きょう"
+    ],
+    "readings_kun": [
+      "さけ.ぶ"
+    ],
+    "wk_level": 44,
+    "wk_meanings": [
+      "Shout"
+    ],
+    "wk_readings_on": [
+      "きょう"
+    ],
+    "wk_readings_kun": [
+      "!さけ"
+    ],
+    "wk_radicals": [
+      "Mouth",
+      "Vines"
+    ]
+  },
+  "涙": {
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1381,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Tears",
+      "Sympathy"
+    ],
+    "readings_on": [
+      "るい",
+      "れい"
+    ],
+    "readings_kun": [
+      "なみだ"
+    ],
+    "wk_level": 44,
+    "wk_meanings": [
+      "Teardrop"
+    ],
+    "wk_readings_on": [
+      "るい"
+    ],
+    "wk_readings_kun": [
+      "!なみだ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Door",
+      "Big"
+    ]
+  },
+  "缶": {
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1543,
+    "jlpt_old": 1,
+    "jlpt_new": 2,
+    "meanings": [
+      "Tin Can",
+      "Container",
+      "Jar Radical (no. 121)"
+    ],
+    "readings_on": [
+      "かん"
+    ],
+    "readings_kun": [
+      "かま"
+    ],
+    "wk_level": 44,
+    "wk_meanings": [
+      "Can",
+      "^Tin Can"
+    ],
+    "wk_readings_on": [
+      "かん"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Can"
+    ]
+  },
+  "粒": {
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1635,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Grains",
+      "Drop",
+      "Counter For Tiny Particles"
+    ],
+    "readings_on": [
+      "りゅう"
+    ],
+    "readings_kun": [
+      "つぶ"
+    ],
+    "wk_level": 44,
+    "wk_meanings": [
+      "Grains"
+    ],
+    "wk_readings_on": [
+      "りゅう"
+    ],
+    "wk_readings_kun": [
+      "!つぶ"
+    ],
+    "wk_radicals": [
+      "Rice",
+      "Stand"
+    ]
+  },
+  "塔": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1708,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Pagoda",
+      "Tower",
+      "Steeple"
+    ],
+    "readings_on": [
+      "とう"
+    ],
+    "readings_kun": [],
+    "wk_level": 44,
+    "wk_meanings": [
+      "Tower"
+    ],
+    "wk_readings_on": [
+      "とう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Dirt",
+      "Flowers",
+      "Suit"
+    ]
+  },
+  "肌": {
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1559,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Texture",
+      "Skin",
+      "Body",
+      "Grain"
+    ],
+    "readings_on": [
+      "き"
+    ],
+    "readings_kun": [
+      "はだ"
+    ],
+    "wk_level": 45,
+    "wk_meanings": [
+      "Skin"
+    ],
+    "wk_readings_on": [
+      "!き"
+    ],
+    "wk_readings_kun": [
+      "はだ"
+    ],
+    "wk_radicals": [
+      "Moon",
+      "Table"
+    ]
+  },
+  "舟": {
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1786,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Boat",
+      "Ship"
+    ],
+    "readings_on": [
+      "しゅう"
+    ],
+    "readings_kun": [
+      "ふね",
+      "ふな-",
+      "-ぶね"
+    ],
+    "wk_level": 45,
+    "wk_meanings": [
+      "Boat"
+    ],
+    "wk_readings_on": [
+      "!しゅう"
+    ],
+    "wk_readings_kun": [
+      "ふね",
+      "ふな"
+    ],
+    "wk_radicals": [
+      "Boat"
+    ]
+  },
+  "曇": {
+    "strokes": 16,
+    "grade": 8,
+    "freq": 1899,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Cloudy Weather",
+      "Cloud Up"
+    ],
+    "readings_on": [
+      "どん"
+    ],
+    "readings_kun": [
+      "くも.る"
+    ],
+    "wk_level": 45,
+    "wk_meanings": [
+      "Cloudy"
+    ],
+    "wk_readings_on": [],
+    "wk_readings_kun": [
+      "くも"
+    ],
+    "wk_radicals": [
+      "Sun",
+      "Rain",
+      "Cloud"
+    ]
+  },
+  "磨": {
+    "strokes": 16,
+    "grade": 8,
+    "freq": 1608,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Grind",
+      "Polish",
+      "Scour",
+      "Improve",
+      "Brush (teeth)"
+    ],
+    "readings_on": [
+      "ま"
+    ],
+    "readings_kun": [
+      "みが.く",
+      "す.る"
+    ],
+    "wk_level": 45,
+    "wk_meanings": [
+      "Polish"
+    ],
+    "wk_readings_on": [
+      "!ま"
+    ],
+    "wk_readings_kun": [
+      "みが"
+    ],
+    "wk_radicals": [
+      "Canopy",
+      "Tree",
+      "Stone"
+    ]
+  },
+  "湿": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1517,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Damp",
+      "Wet",
+      "Moist"
+    ],
+    "readings_on": [
+      "しつ",
+      "しゅう"
+    ],
+    "readings_kun": [
+      "しめ.る",
+      "しめ.す",
+      "うるお.う",
+      "うるお.す"
+    ],
+    "wk_level": 45,
+    "wk_meanings": [
+      "Damp"
+    ],
+    "wk_readings_on": [
+      "しつ"
+    ],
+    "wk_readings_kun": [
+      "!しめ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Sun",
+      "Spikes"
+    ]
+  },
+  "硬": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1101,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Stiff",
+      "Hard"
+    ],
+    "readings_on": [
+      "こう"
+    ],
+    "readings_kun": [
+      "かた.い"
+    ],
+    "wk_level": 45,
+    "wk_meanings": [
+      "Stiff"
+    ],
+    "wk_readings_on": [
+      "こう"
+    ],
+    "wk_readings_kun": [
+      "!かた"
+    ],
+    "wk_radicals": [
+      "Stone",
+      "Again"
+    ]
+  },
+  "鈍": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1574,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Dull",
+      "Slow",
+      "Foolish",
+      "Blunt"
+    ],
+    "readings_on": [
+      "どん"
+    ],
+    "readings_kun": [
+      "にぶ.い",
+      "にぶ.る",
+      "にぶ-",
+      "なま.る",
+      "なまく.ら"
+    ],
+    "wk_level": 46,
+    "wk_meanings": [
+      "Dull"
+    ],
+    "wk_readings_on": [
+      "どん"
+    ],
+    "wk_readings_kun": [
+      "!にぶ",
+      "!のろ"
+    ],
+    "wk_radicals": [
+      "Gold",
+      "Barracks"
+    ]
+  },
+  "涼": {
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1783,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Refreshing",
+      "Nice And Cool"
+    ],
+    "readings_on": [
+      "りょう"
+    ],
+    "readings_kun": [
+      "すず.しい",
+      "すず.む",
+      "すず.やか",
+      "うす.い",
+      "ひや.す",
+      "まことに"
+    ],
+    "wk_level": 46,
+    "wk_meanings": [
+      "Cool"
+    ],
+    "wk_readings_on": [
+      "りょう"
+    ],
+    "wk_readings_kun": [
+      "!すず"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Capital"
+    ]
+  },
+  "零": {
+    "strokes": 13,
+    "grade": 8,
+    "freq": 1217,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Zero",
+      "Spill",
+      "Overflow",
+      "Nothing",
+      "Cipher"
+    ],
+    "readings_on": [
+      "れい"
+    ],
+    "readings_kun": [
+      "ぜろ",
+      "こぼ.す",
+      "こぼ.れる"
+    ],
+    "wk_level": 46,
+    "wk_meanings": [
+      "Zero",
+      "^Spill"
+    ],
+    "wk_readings_on": [
+      "れい"
+    ],
+    "wk_readings_kun": [
+      "!こぼ"
+    ],
+    "wk_radicals": [
+      "Rain",
+      "Orders"
+    ]
+  },
+  "綿": {
+    "strokes": 14,
+    "grade": 5,
+    "freq": 1495,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Cotton"
+    ],
+    "readings_on": [
+      "めん"
+    ],
+    "readings_kun": [
+      "わた"
+    ],
+    "wk_level": 46,
+    "wk_meanings": [
+      "Cotton"
+    ],
+    "wk_readings_on": [
+      "めん"
+    ],
+    "wk_readings_kun": [
+      "!わた"
+    ],
+    "wk_radicals": [
+      "Thread",
+      "White",
+      "Towel"
+    ]
+  },
+  "帽": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1742,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Cap",
+      "Headgear"
+    ],
+    "readings_on": [
+      "ぼう",
+      "もう"
+    ],
+    "readings_kun": [
+      "ずきん",
+      "おお.う"
+    ],
+    "wk_level": 47,
+    "wk_meanings": [
+      "Hat"
+    ],
+    "wk_readings_on": [
+      "ぼう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Towel",
+      "Sun",
+      "Eye"
+    ]
+  },
+  "憎": {
+    "strokes": 14,
+    "grade": 8,
+    "freq": 1808,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Hate",
+      "Detest"
+    ],
+    "readings_on": [
+      "ぞう"
+    ],
+    "readings_kun": [
+      "にく.む",
+      "にく.い",
+      "にく.らしい",
+      "にく.しみ"
+    ],
+    "wk_level": 47,
+    "wk_meanings": [
+      "Hate"
+    ],
+    "wk_readings_on": [
+      "ぞう"
+    ],
+    "wk_readings_kun": [
+      "!にく"
+    ],
+    "wk_radicals": [
+      "Soul",
+      "Mask"
+    ]
+  },
+  "滴": {
+    "strokes": 14,
+    "grade": 8,
+    "freq": 2019,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Drip",
+      "Drop"
+    ],
+    "readings_on": [
+      "てき"
+    ],
+    "readings_kun": [
+      "しずく",
+      "したた.る"
+    ],
+    "wk_level": 47,
+    "wk_meanings": [
+      "Drip"
+    ],
+    "wk_readings_on": [
+      "てき"
+    ],
+    "wk_readings_kun": [
+      "!したた",
+      "!しずく"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Mohawk"
+    ]
+  },
+  "畳": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1665,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Tatami Mat",
+      "Counter For Tatami Mats",
+      "Fold",
+      "Shut Up",
+      "Do Away With"
+    ],
+    "readings_on": [
+      "じょう",
+      "ちょう"
+    ],
+    "readings_kun": [
+      "たた.む",
+      "たたみ",
+      "かさ.なる"
+    ],
+    "wk_level": 47,
+    "wk_meanings": [
+      "Tatami Mat"
+    ],
+    "wk_readings_on": [
+      "じょう"
+    ],
+    "wk_readings_kun": [
+      "!たたみ"
+    ],
+    "wk_radicals": [
+      "Rice Paddy",
+      "Forehead",
+      "Top Hat"
+    ]
+  },
+  "畜": {
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1824,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Livestock",
+      "Domestic Fowl And Animals"
+    ],
+    "readings_on": [
+      "ちく"
+    ],
+    "readings_kun": [],
+    "wk_level": 48,
+    "wk_meanings": [
+      "Livestock"
+    ],
+    "wk_readings_on": [
+      "ちく"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Mysterious",
+      "Rice Paddy"
+    ]
+  },
+  "溶": {
+    "strokes": 13,
+    "grade": 8,
+    "freq": 1364,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Melt",
+      "Dissolve",
+      "Thaw"
+    ],
+    "readings_on": [
+      "よう"
+    ],
+    "readings_kun": [
+      "と.ける",
+      "と.かす",
+      "と.く"
+    ],
+    "wk_level": 48,
+    "wk_meanings": [
+      "Melt"
+    ],
+    "wk_readings_on": [
+      "よう"
+    ],
+    "wk_readings_kun": [
+      "!と"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Form"
+    ]
+  },
+  "踊": {
+    "strokes": 14,
+    "grade": 8,
+    "freq": 1308,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Jump",
+      "Dance",
+      "Leap",
+      "Skip"
+    ],
+    "readings_on": [
+      "よう"
+    ],
+    "readings_kun": [
+      "おど.る"
+    ],
+    "wk_level": 48,
+    "wk_meanings": [
+      "Dance"
+    ],
+    "wk_readings_on": [
+      "!よう"
+    ],
+    "wk_readings_kun": [
+      "おど"
+    ],
+    "wk_radicals": [
+      "Foot",
+      "Mama",
+      "Task"
+    ]
+  },
+  "賢": {
+    "strokes": 16,
+    "grade": 8,
+    "freq": 1159,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Intelligent",
+      "Wise",
+      "Wisdom",
+      "Cleverness"
+    ],
+    "readings_on": [
+      "けん"
+    ],
+    "readings_kun": [
+      "かしこ.い"
+    ],
+    "wk_level": 48,
+    "wk_meanings": [
+      "Clever"
+    ],
+    "wk_readings_on": [
+      "けん"
+    ],
+    "wk_readings_kun": [
+      "!かしこ"
+    ],
+    "wk_radicals": [
+      "Servant",
+      "Stool",
+      "Shellfish"
+    ]
+  },
+  "灯": {
+    "strokes": 6,
+    "grade": 4,
+    "freq": 1605,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Lamp",
+      "A Light",
+      "Light",
+      "Counter For Lights"
+    ],
+    "readings_on": [
+      "とう"
+    ],
+    "readings_kun": [
+      "ひ",
+      "ほ-",
+      "ともしび",
+      "とも.す",
+      "あかり"
+    ],
+    "wk_level": 48,
+    "wk_meanings": [
+      "Lamp"
+    ],
+    "wk_readings_on": [
+      "とう"
+    ],
+    "wk_readings_kun": [
+      "!あかり",
+      "!とも"
+    ],
+    "wk_radicals": [
+      "Fire",
+      "Street"
+    ]
+  },
+  "咲": {
+    "strokes": 9,
+    "grade": 8,
+    "freq": 1534,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Blossom",
+      "Bloom"
+    ],
+    "readings_on": [
+      "しょう"
+    ],
+    "readings_kun": [
+      "さ.く",
+      "-ざき"
+    ],
+    "wk_level": 48,
+    "wk_meanings": [
+      "Blossom"
+    ],
+    "wk_readings_on": [
+      "!しょう"
+    ],
+    "wk_readings_kun": [
+      "さ"
+    ],
+    "wk_radicals": [
+      "Mouth",
+      "Horns",
+      "Heaven"
+    ]
+  },
+  "塗": {
+    "strokes": 13,
+    "grade": 8,
+    "freq": 1414,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Paint",
+      "Plaster",
+      "Daub",
+      "Smear",
+      "Coating"
+    ],
+    "readings_on": [
+      "と"
+    ],
+    "readings_kun": [
+      "ぬ.る",
+      "ぬ.り",
+      "まみ.れる"
+    ],
+    "wk_level": 48,
+    "wk_meanings": [
+      "Paint"
+    ],
+    "wk_readings_on": [
+      "と"
+    ],
+    "wk_readings_kun": [
+      "!ぬ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Surplus",
+      "Dirt"
+    ]
+  },
+  "召": {
+    "strokes": 5,
+    "grade": 8,
+    "freq": 1540,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Seduce",
+      "Call",
+      "Send For",
+      "Wear",
+      "Put On",
+      "Ride In",
+      "Buy",
+      "Eat",
+      "Drink",
+      "Catch (cold)"
+    ],
+    "readings_on": [
+      "しょう"
+    ],
+    "readings_kun": [
+      "め.す"
+    ],
+    "wk_level": 51,
+    "wk_meanings": [
+      "Call",
+      "^Eat"
+    ],
+    "wk_readings_on": [
+      "しょう"
+    ],
+    "wk_readings_kun": [
+      "!め"
+    ],
+    "wk_radicals": [
+      "Call"
+    ]
+  },
+  "挟": {
+    "strokes": 9,
+    "grade": 8,
+    "freq": 1870,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Pinch",
+      "Between"
+    ],
+    "readings_on": [
+      "きょう",
+      "しょう"
+    ],
+    "readings_kun": [
+      "はさ.む",
+      "はさ.まる",
+      "わきばさ.む",
+      "さしはさ.む"
+    ],
+    "wk_level": 51,
+    "wk_meanings": [
+      "Between"
+    ],
+    "wk_readings_on": [
+      "!きょう",
+      "!しょう"
+    ],
+    "wk_readings_kun": [
+      "はさ"
+    ],
+    "wk_radicals": [
+      "Fingers",
+      "Husband",
+      "Horns"
+    ]
+  },
+  "枯": {
+    "strokes": 9,
+    "grade": 8,
+    "freq": 1749,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Wither",
+      "Die",
+      "Dry Up",
+      "Be Seasoned"
+    ],
+    "readings_on": [
+      "こ"
+    ],
+    "readings_kun": [
+      "か.れる",
+      "か.らす"
+    ],
+    "wk_level": 51,
+    "wk_meanings": [
+      "Wither"
+    ],
+    "wk_readings_on": [
+      "こ"
+    ],
+    "wk_readings_kun": [
+      "!か"
+    ],
+    "wk_radicals": [
+      "Tree",
+      "Old"
+    ]
+  },
+  "沸": {
+    "strokes": 8,
+    "grade": 8,
+    "freq": 1709,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Seethe",
+      "Boil",
+      "Ferment",
+      "Uproar",
+      "Breed"
+    ],
+    "readings_on": [
+      "ふつ"
+    ],
+    "readings_kun": [
+      "わ.く",
+      "わ.かす"
+    ],
+    "wk_level": 51,
+    "wk_meanings": [
+      "Boil"
+    ],
+    "wk_readings_on": [
+      "ふつ"
+    ],
+    "wk_readings_kun": [
+      "!わ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Dollar"
+    ]
+  },
+  "濯": {
+    "strokes": 17,
+    "grade": 8,
+    "freq": 1698,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Laundry",
+      "Wash",
+      "Pour On",
+      "Rinse"
+    ],
+    "readings_on": [
+      "たく"
+    ],
+    "readings_kun": [
+      "すす.ぐ",
+      "ゆす.ぐ"
+    ],
+    "wk_level": 51,
+    "wk_meanings": [
+      "Wash"
+    ],
+    "wk_readings_on": [
+      "たく"
+    ],
+    "wk_readings_kun": [
+      "!すす",
+      "!ゆす",
+      "!そそぐ"
+    ],
+    "wk_radicals": [
+      "Tsunami",
+      "Wolverine",
+      "Turkey"
+    ]
+  },
+  "燥": {
+    "strokes": 17,
+    "grade": 8,
+    "freq": 1819,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Parch",
+      "Dry Up"
+    ],
+    "readings_on": [
+      "そう"
+    ],
+    "readings_kun": [
+      "はしゃ.ぐ"
+    ],
+    "wk_level": 51,
+    "wk_meanings": [
+      "Dry Up"
+    ],
+    "wk_readings_on": [
+      "そう"
+    ],
+    "wk_readings_kun": [
+      "!はしゃ"
+    ],
+    "wk_radicals": [
+      "Fire",
+      "Syrup"
+    ]
+  },
+  "瓶": {
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1528,
+    "jlpt_old": 1,
+    "jlpt_new": 2,
+    "meanings": [
+      "Bottle",
+      "Vial",
+      "Jar",
+      "Jug",
+      "Vat",
+      "Urn"
+    ],
+    "readings_on": [
+      "びん"
+    ],
+    "readings_kun": [
+      "かめ"
+    ],
+    "wk_level": 51,
+    "wk_meanings": [
+      "Bottle"
+    ],
+    "wk_readings_on": [
+      "びん"
+    ],
+    "wk_readings_kun": [
+      "!かめ"
+    ],
+    "wk_radicals": [
+      "Horns",
+      "Lantern",
+      "Ten Thousand",
+      "Drop",
+      "Ground"
+    ]
+  },
+  "耕": {
+    "strokes": 10,
+    "grade": 5,
+    "freq": 1568,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Till",
+      "Plow",
+      "Cultivate"
+    ],
+    "readings_on": [
+      "こう"
+    ],
+    "readings_kun": [
+      "たがや.す"
+    ],
+    "wk_level": 51,
+    "wk_meanings": [
+      "Plow"
+    ],
+    "wk_readings_on": [
+      "こう"
+    ],
+    "wk_readings_kun": [
+      "!たがや"
+    ],
+    "wk_radicals": [
+      "Plow",
+      "Well"
+    ]
+  },
+  "肯": {
+    "strokes": 8,
+    "grade": 8,
+    "freq": 1813,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Agreement",
+      "Consent",
+      "Comply With"
+    ],
+    "readings_on": [
+      "こう"
+    ],
+    "readings_kun": [
+      "がえんじ.る"
+    ],
+    "wk_level": 51,
+    "wk_meanings": [
+      "Agreement",
+      "^Consent"
+    ],
+    "wk_readings_on": [
+      "こう"
+    ],
+    "wk_readings_kun": [
+      "!がえんじ"
+    ],
+    "wk_radicals": [
+      "Stop",
+      "Moon"
+    ]
+  },
+  "脂": {
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1548,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Fat",
+      "Grease",
+      "Tallow",
+      "Lard",
+      "Rosin",
+      "Gum",
+      "Tar"
+    ],
+    "readings_on": [
+      "し"
+    ],
+    "readings_kun": [
+      "あぶら"
+    ],
+    "wk_level": 51,
+    "wk_meanings": [
+      "Fat"
+    ],
+    "wk_readings_on": [
+      "し"
+    ],
+    "wk_readings_kun": [
+      "!あぶら"
+    ],
+    "wk_radicals": [
+      "Moon",
+      "Spoon",
+      "Sun"
+    ]
+  },
+  "膚": {
+    "strokes": 15,
+    "grade": 8,
+    "freq": 1679,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Skin",
+      "Body",
+      "Grain",
+      "Texture",
+      "Disposition"
+    ],
+    "readings_on": [
+      "ふ"
+    ],
+    "readings_kun": [
+      "はだ"
+    ],
+    "wk_level": 51,
+    "wk_meanings": [
+      "Skin"
+    ],
+    "wk_readings_on": [
+      "ふ"
+    ],
+    "wk_readings_kun": [
+      "!はだ"
+    ],
+    "wk_radicals": [
+      "Tiger",
+      "Stomach"
+    ]
+  },
+  "軒": {
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1416,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Flats",
+      "Counter For Houses",
+      "Eaves"
+    ],
+    "readings_on": [
+      "けん"
+    ],
+    "readings_kun": [
+      "のき"
+    ],
+    "wk_level": 51,
+    "wk_meanings": [
+      "House Counter",
+      "^Eaves"
+    ],
+    "wk_readings_on": [
+      "けん"
+    ],
+    "wk_readings_kun": [
+      "!のき"
+    ],
+    "wk_radicals": [
+      "Car",
+      "Dry"
+    ]
+  },
+  "軟": {
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1269,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Soft"
+    ],
+    "readings_on": [
+      "なん"
+    ],
+    "readings_kun": [
+      "やわ.らか",
+      "やわ.らかい"
+    ],
+    "wk_level": 51,
+    "wk_meanings": [
+      "Soft"
+    ],
+    "wk_readings_on": [
+      "なん"
+    ],
+    "wk_readings_kun": [
+      "!やわ"
+    ],
+    "wk_radicals": [
+      "Car",
+      "Lack"
+    ]
+  },
+  "郊": {
+    "strokes": 9,
+    "grade": 8,
+    "freq": 1304,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Outskirts",
+      "Suburbs",
+      "Rural Area"
+    ],
+    "readings_on": [
+      "こう"
+    ],
+    "readings_kun": [],
+    "wk_level": 51,
+    "wk_meanings": [
+      "Suburbs"
+    ],
+    "wk_readings_on": [
+      "こう"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Mix",
+      "Building"
+    ]
+  },
+  "隅": {
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1601,
+    "jlpt_old": 2,
+    "jlpt_new": 2,
+    "meanings": [
+      "Corner",
+      "Nook"
+    ],
+    "readings_on": [
+      "ぐう"
+    ],
+    "readings_kun": [
+      "すみ"
+    ],
+    "wk_level": 51,
+    "wk_meanings": [
+      "Corner"
+    ],
+    "wk_readings_on": [
+      "!ぐう"
+    ],
+    "wk_readings_kun": [
+      "すみ"
+    ],
+    "wk_radicals": [
+      "Building",
+      "Splinter"
+    ]
+  },
+  "隻": {
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1546,
+    "jlpt_old": 1,
+    "jlpt_new": 2,
+    "meanings": [
+      "Vessels",
+      "Counter For Ships",
+      "Fish",
+      "Birds",
+      "Arrows",
+      "One Of A Pair"
+    ],
+    "readings_on": [
+      "せき"
+    ],
+    "readings_kun": [],
+    "wk_level": 51,
+    "wk_meanings": [
+      "Ship Counter"
+    ],
+    "wk_readings_on": [
+      "せき"
+    ],
+    "wk_readings_kun": [],
+    "wk_radicals": [
+      "Turkey",
+      "Stool"
+    ]
+  }
+}
