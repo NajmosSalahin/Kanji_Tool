@@ -3,342 +3,482 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Kanji Vault - Complete</title>
-    <!-- Tailwind CSS for modern and responsive styling -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Custom Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+    <title>Kanji Vault - Fast with Search and Romaji</title>
     <style>
-        /* Custom styles to complement Tailwind and apply specific fonts */
-        body { 
-            font-family: 'Inter', sans-serif; 
-            background-color: #f1f5f9;
+        body { font-family: 'Helvetica Neue', Arial, sans-serif; background: #f0f2f5; margin: 0; padding: 0; color: #333; }
+        header { background: #2c3e50; color: white; padding: 15px 20px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        header h1 { margin: 0; font-size: 1.8em; }
+        .info-box { padding: 10px; margin: 10px 20px; background-color: #fff3cd; border: 1px solid #ffeeba; color: #856404; border-radius: 5px; text-align: center; font-size: 0.9em;}
+        .filters { padding: 15px; text-align: center; background-color: #fff; border-bottom: 1px solid #ddd; flex-wrap: wrap; display: flex; justify-content: center;}
+        .filters button { margin: 5px; padding: 10px 15px; border: none; border-radius: 5px; background: #3498db; color: white; cursor: pointer; font-size: 0.9em; transition: background-color 0.2s ease; }
+        .filters button:hover { background: #2980b9; }
+        .filters button.active { background: #e74c3c; }
+        .filters button:disabled { background-color: #aaa; cursor: not-allowed; opacity: 0.7;}
+        .status-bar { display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 10px 20px; background: #ecf0f1; font-size: 0.9em; text-align: center;}
+        @media (min-width: 768px) { .status-bar { flex-direction: row; justify-content: space-between; } }
+        .counter-bar { font-weight: bold; }
+        #search-input {
+            padding: 8px 12px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 0.9em;
+            width: 250px;
         }
-        .japanese { 
-            font-family: 'Noto Sans JP', sans-serif; 
+        .kanji-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px; padding: 20px; min-height: 200px; /* Ensure it's visible even when empty */ }
+        .kanji-card { background: white; border-radius: 8px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); display: flex; flex-direction: column; transition: transform 0.2s ease, box-shadow 0.2s ease; }
+        .kanji-card:hover { transform: translateY(-3px); box-shadow: 0 6px 12px rgba(0,0,0,0.08); }
+        .kanji-char { font-size: 3.5em; color: #2c3e50; text-align: center; margin-bottom: 10px; position: relative; }
+        .kanji-details div { margin-bottom: 6px; font-size: 0.85em; word-wrap: break-word; }
+        .kanji-details .field-label { font-weight: bold; color: #555; }
+        .kanji-details .romaji { font-size: 0.75em; color: #777; margin-left: 5px; } /* Style for Romaji */
+        .learned-btn { margin-top: auto; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; background: #f9f9f9; color: #333; cursor: pointer; text-align: center; font-size: 0.85em; transition: background-color 0.2s ease, color 0.2s ease; }
+        .learned-btn.is-learned { background: #2ecc71; color: white; border-color: #27ae60;}
+        .learned-btn:hover:not(:disabled) { background: #e9e9e9; }
+        .learned-btn.is-learned:hover:not(:disabled) { background: #27ae60; }
+        #pagination-controls { text-align: center; padding: 20px; }
+        #pagination-controls button { margin: 0 5px; padding: 8px 15px; background-color: #3498db; color:white; border: none; border-radius: 4px; cursor: pointer; }
+        #pagination-controls button:disabled { background-color: #bdc3c7; cursor: not-allowed; }
+        .loader { text-align: center; padding: 30px; font-size: 1.2em; color: #555;}
+        .error-message { color: red; font-weight: bold; }
+        .speech-button {
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            background: none;
+            border: none;
+            font-size: 1.5em;
+            cursor: pointer;
+            color: #3498db;
+            padding: 0;
+            line-height: 1;
+            transition: color 0.2s ease;
         }
-        ::-webkit-scrollbar { width: 8px; }
-        ::-webkit-scrollbar-track { background: #f1f5f9; }
-        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
-        ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
-        
-        body, .kanji-card, header, #search-input, .filters button, .info-box {
-            transition: background-color 0.3s, color 0.3s, border-color 0.3s, box-shadow 0.3s, transform 0.2s ease-in-out;
-        }
-        
-        /* Styles for learned cards */
-        .kanji-card.learned {
-            opacity: 0.6;
-            border-left-width: 4px;
-            border-left-color: #34d399; /* A nice green color */
-        }
-        .kanji-card.learned:hover {
-            opacity: 1;
-        }
-
-        /* Dark mode styles */
-        .dark body { background-color: #0f172a; color: #e2e8f0; }
-        .dark .kanji-card { background-color: #1e293b; border-color: #334155; }
-        .dark .kanji-card.learned { border-left-color: #10b981; }
-        .dark header { background-color: #1e293b; }
-        .dark #search-input { background-color: #334155; color: #f8fafc; border-color: #475569; }
-        .dark #search-input::placeholder { color: #94a3b8; }
-        .dark .filters { background-color: #1e293bDD; border-color: #334155; }
-        .dark .filters button { background-color: #334155; color: #e2e8f0; }
-        .dark .filters button:hover { background-color: #475569; }
-        .dark .filters button.active { background-color: #4f46e5; color: white; }
-        .dark .info-box { background-color: #1e293b; border-color: #334155; color: #94a3b8; }
-        .dark .loader-text { color: #e2e8f0; }
-        .dark ::-webkit-scrollbar-track { background: #0f172a; }
-        .dark ::-webkit-scrollbar-thumb { background: #334155; }
-        .dark ::-webkit-scrollbar-thumb:hover { background: #475569; }
+        .speech-button:hover { color: #2980b9; }
+        .speech-button:disabled { color: #aaa; cursor: not-allowed; }
     </style>
 </head>
-<body class="antialiased">
-    <header class="bg-white/80 dark:bg-slate-900/80 backdrop-blur-sm shadow-md sticky top-0 z-20 py-4 px-4 sm:px-6">
-        <div class="max-w-7xl mx-auto flex justify-between items-center">
-            <h1 class="text-2xl sm:text-3xl font-bold text-slate-800 dark:text-white japanese">漢字金庫</h1>
-            <div class="flex items-center space-x-2">
-                <input type="text" id="search-input" placeholder="Search anything..." class="w-40 sm:w-64 px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500 transition duration-200 bg-slate-50 dark:bg-slate-800">
-                <button id="theme-toggle" class="p-2 rounded-lg text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-slate-50 dark:focus:ring-offset-slate-900 focus:ring-slate-500">
-                    <svg id="theme-toggle-dark-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20"><path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path></svg>
-                    <svg id="theme-toggle-light-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20"><path d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z" fill-rule="evenodd" clip-rule="evenodd"></path></svg>
-                </button>
-            </div>
-        </div>
-    </header>
-
-    <div class="filters sticky top-[88px] z-10 bg-white/80 dark:bg-slate-900/80 backdrop-blur-sm py-3 px-4 border-b border-slate-200 dark:border-slate-700">
-        <div class="max-w-7xl mx-auto flex flex-wrap justify-center items-center gap-2">
-            <button data-level="all" class="px-3 py-1.5 text-sm font-medium rounded-lg shadow-sm transition-all duration-200">All</button>
-            <button data-level="n5" class="px-3 py-1.5 text-sm font-medium rounded-lg shadow-sm transition-all duration-200">N5</button>
-            <button data-level="n4" class="px-3 py-1.5 text-sm font-medium rounded-lg shadow-sm transition-all duration-200">N4</button>
-            <button data-level="n3" class="px-3 py-1.5 text-sm font-medium rounded-lg shadow-sm transition-all duration-200">N3</button>
-            <button data-level="n2" class="px-3 py-1.5 text-sm font-medium rounded-lg shadow-sm transition-all duration-200">N2</button>
-            <button data-level="n1" class="px-3 py-1.5 text-sm font-medium rounded-lg shadow-sm transition-all duration-200">N1</button>
-            <button data-level="other" class="px-3 py-1.5 text-sm font-medium rounded-lg shadow-sm transition-all duration-200">Other</button>
-        </div>
+<body>
+    <header><h1>Kanji Vault</h1></header>
+    <div id="info-box-area"></div>
+    <div class="filters">
+        <button data-level="all">All Kanji</button>
+        <button data-level="jlpt_n5">JLPT N5</button>
+        <button data-level="jlpt_n4">JLPT N4</button>
+        <button data-level="jlpt_n3">JLPT N3</button>
+        <button data-level="jlpt_n2">JLPT N2</button>
+        <button data-level="jlpt_n1">JLPT N1</button>
+        <button data-level="jlpt_other">Other Kanji</button>
+        <button data-level="learned">Learned</button>
     </div>
-    
-    <main class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
-      <div id="kanji-list-container" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 p-4">
-        <div id="loader" class="col-span-full flex justify-center items-center py-20">
-          <div class="text-center">
-            <svg class="animate-spin -ml-1 mr-3 h-10 w-10 text-indigo-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg>
-            <p class="mt-2 text-lg font-medium loader-text">Initializing Kanji Vault...</p>
-          </div>
-        </div>
-      </div>
-      <div id="no-results" class="hidden col-span-full text-center py-20">
-        <p class="text-xl font-medium text-slate-500 dark:text-slate-400">No Kanji found for your search.</p>
-      </div>
-    </main>
+    <div class="status-bar">
+        <div id="jlpt-counts" class="counter-bar">Loading counts...</div>
+        <!-- Search Input Added Here -->
+        <input type="text" id="search-input" placeholder="Search current view...">
+        <div id="current-view-count">Displaying: 0 Kanji</div>
+    </div>
+    <div id="kanji-list" class="kanji-grid">
+        <div class="loader">Initializing and attempting to load core data... Please ensure 'data/all_kanji.json' exists.</div>
+    </div>
+    <div id="pagination-controls"></div>
 
-    <script type="module">
-    // --- Application State and Data Store ---
+    <script>
+    // --- Start of Script ---
     let allKanjiData = {};
-    let kanjiByLevel = {};
-    let learnedKanji = new Set();
-    let currentFilter = 'all';
+    let currentKanjiData = {};
+    let learnedKanji = JSON.parse(localStorage.getItem("learnedKanji")) || [];
+    let currentFilter = "all";
+    let currentPage = 1;
+    const itemsPerPage = 50;
 
-    // DOM Elements
-    const kanjiListContainer = document.getElementById('kanji-list-container');
-    const searchInput = document.getElementById('search-input');
+    const kanjiListContainer = document.getElementById("kanji-list");
+    const jlptCountsEl = document.getElementById("jlpt-counts");
+    const currentViewCountEl = document.getElementById("current-view-count");
+    const paginationControlsEl = document.getElementById("pagination-controls");
     const filterButtons = document.querySelectorAll('.filters button');
-    const noResultsDiv = document.getElementById('no-results');
-    const loader = document.getElementById('loader');
+    const infoBoxArea = document.getElementById("info-box-area");
+    const searchInput = document.getElementById("search-input"); // Search input element
 
-    // --- Learned Kanji Management ---
-    function loadLearnedKanji() {
-        const saved = localStorage.getItem('learnedKanji');
-        if (saved) {
-            learnedKanji = new Set(JSON.parse(saved));
+    // Speech Synthesis variables
+    let synthesizer = null;
+    let japaneseVoice = null;
+
+    // --- NEW: Romaji Conversion Function ---
+    // This is a simplified conversion and might not cover all nuances of Romaji.
+    // For a more robust solution, a dedicated library would be ideal.
+    function toRomaji(japaneseText) {
+        if (!japaneseText) return '';
+        let romaji = japaneseText;
+
+        // Common hiragana conversions
+        romaji = romaji.replace(/あ/g, 'a').replace(/い/g, 'i').replace(/う/g, 'u').replace(/え/g, 'e').replace(/お/g, 'o');
+        romaji = romaji.replace(/か/g, 'ka').replace(/き/g, 'ki').replace(/く/g, 'ku').replace(/け/g, 'ke').replace(/こ/g, 'ko');
+        romaji = romaji.replace(/さ/g, 'sa').replace(/し/g, 'shi').replace(/す/g, 'su').replace(/せ/g, 'se').replace(/そ/g, 'so');
+        romaji = romaji.replace(/た/g, 'ta').replace(/ち/g, 'chi').replace(/つ/g, 'tsu').replace(/て/g, 'te').replace(/と/g, 'to');
+        romaji = romaji.replace(/な/g, 'na').replace(/に/g, 'ni').replace(/ぬ/g, 'nu').replace(/ね/g, 'ne').replace(/の/g, 'no');
+        romaji = romaji.replace(/は/g, 'ha').replace(/ひ/g, 'hi').replace(/ふ/g, 'fu').replace(/へ/g, 'he').replace(/ほ/g, 'ho');
+        romaji = romaji.replace(/ま/g, 'ma').replace(/み/g, 'mi').replace(/む/g, 'mu').replace(/め/g, 'me').replace(/も/g, 'mo');
+        romaji = romaji.replace(/や/g, 'ya').replace(/ゆ/g, 'yu').replace(/よ/g, 'yo');
+        romaji = romaji.replace(/ら/g, 'ra').replace(/り/g, 'ri').replace(/る/g, 'ru').replace(/れ/g, 're').replace(/ろ/g, 'ro');
+        romaji = romaji.replace(/わ/g, 'wa').replace(/を/g, 'wo').replace(/ん/g, 'n');
+
+        // Dakuten/Handakuten
+        romaji = romaji.replace(/が/g, 'ga').replace(/ぎ/g, 'gi').replace(/ぐ/g, 'gu').replace(/げ/g, 'ge').replace(/ご/g, 'go');
+        romaji = romaji.replace(/ざ/g, 'za').replace(/じ/g, 'ji').replace(/ず/g, 'zu').replace(/ぜ/g, 'ze').replace(/ぞ/g, 'zo');
+        romaji = romaji.replace(/だ/g, 'da').replace(/ぢ/g, 'ji').replace(/づ/g, 'zu').replace(/で/g, 'de').replace(/ど/g, 'do');
+        romaji = romaji.replace(/ば/g, 'ba').replace(/び/g, 'bi').replace(/ぶ/g, 'bu').replace(/べ/g, 'be').replace(/ぼ/g, 'bo');
+        romaji = romaji.replace(/ぱ/g, 'pa').replace(/ぴ/g, 'pi').replace(/ぷ/g, 'pu').replace(/ぺ/g, 'pe').replace(/ぽ/g, 'po');
+
+        // Small kana
+        romaji = romaji.replace(/ゃ/g, 'ya').replace(/ゅ/g, 'yu').replace(/ょ/g, 'yo');
+        romaji = romaji.replace(/っか/g, 'kka').replace(/っき/g, 'kki').replace(/っく/g, 'kku').replace(/っけ/g, 'kke').replace(/っこ/g, 'kko');
+        romaji = romaji.replace(/っさ/g, 'ssa').replace(/っし/g, 'sshi').replace(/っす/g, 'ssu').replace(/っせ/g, 'sse').replace(/っそ/g, 'sso');
+        romaji = romaji.replace(/った/g, 'tta').replace(/っち/g, 'tchi').replace(/っつ/g, 'ttsu').replace(/って/g, 'tte').replace(/っと/g, 'tto');
+        // Add more small kana conversions as needed
+
+        // Katakana (simple conversion, assumes similar sounds)
+        romaji = romaji.replace(/ア/g, 'a').replace(/イ/g, 'i').replace(/ウ/g, 'u').replace(/エ/g, 'e').replace(/オ/g, 'o');
+        romaji = romaji.replace(/カ/g, 'ka').replace(/キ/g, 'ki').replace(/ク/g, 'ku').replace(/ケ/g, 'ke').replace(/コ/g, 'ko');
+        romaji = romaji.replace(/サ/g, 'sa').replace(/シ/g, 'shi').replace(/ス/g, 'su').replace(/セ/g, 'se').replace(/ソ/g, 'so');
+        romaji = romaji.replace(/タ/g, 'ta').replace(/チ/g, 'chi').replace(/ツ/g, 'tsu').replace(/テ/g, 'te').replace(/ト/g, 'to');
+        romaji = romaji.replace(/ナ/g, 'na').replace(/ニ/g, 'ni').replace(/ヌ/g, 'nu').replace(/ネ/g, 'ne').replace(/ノ/g, 'no');
+        romaji = romaji.replace(/ハ/g, 'ha').replace(/ヒ/g, 'hi').replace(/フ/g, 'fu').replace(/ヘ/g, 'he').replace(/ホ/g, 'ho');
+        romaji = romaji.replace(/マ/g, 'ma').replace(/ミ/g, 'mi').replace(/ム/g, 'mu').replace(/メ/g, 'me').replace(/モ/g, 'mo');
+        romaji = romaji.replace(/ヤ/g, 'ya').replace(/ユ/g, 'yu').replace(/ヨ/g, 'yo');
+        romaji = romaji.replace(/ラ/g, 'ra').replace(/リ/g, 'ri').replace(/ル/g, 'ru').replace(/レ/g, 're').replace(/ロ/g, 'ro');
+        romaji = romaji.replace(/ワ/g, 'wa').replace(/ヲ/g, 'wo').replace(/ン/g, 'n');
+
+        // Long vowels (e.g., おう -> ou or oo) - simplified to just doubling the vowel for now
+        romaji = romaji.replace(/aa/g, 'ā').replace(/ii/g, 'ī').replace(/uu/g, 'ū').replace(/ee/g, 'ē').replace(/oo/g, 'ō');
+        romaji = romaji.replace(/ou/g, 'ō'); // Common long 'o' sound
+
+        return romaji;
+    }
+
+    function checkVoiceSupport() {
+        if ('speechSynthesis' in window) {
+            synthesizer = window.speechSynthesis;
+            const setVoice = () => {
+                japaneseVoice = synthesizer.getVoices().find(voice => voice.lang === 'ja-JP');
+                const speechButtons = document.querySelectorAll('.speech-button');
+                if (japaneseVoice) {
+                    speechButtons.forEach(btn => btn.disabled = false);
+                } else {
+                    speechButtons.forEach(btn => btn.disabled = true);
+                }
+            };
+            if (synthesizer.getVoices().length) setVoice();
+            else synthesizer.onvoiceschanged = setVoice;
+        } else {
+            document.querySelectorAll('.speech-button').forEach(btn => btn.disabled = true);
         }
     }
 
-    function saveLearnedKanji() {
-        localStorage.setItem('learnedKanji', JSON.stringify([...learnedKanji]));
-    }
-
-    // --- Data Fetching Logic ---
-    async function fetchJson(url) {
-        try {
-            const response = await fetch(url);
-            if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-            return await response.json();
-        } catch (e) {
-            console.error(`Failed to fetch ${url}:`, e);
-            loader.innerHTML = `<p class="text-red-500 text-center col-span-full">Error loading data from <code>${url}</code>. Please check if the file exists and the path is correct.</p>`;
-            return null;
+    async function fetchJsonFile(filePath, isCritical = false) {
+      try {
+        const response = await fetch(filePath);
+        if (!response.ok) {
+          let errorDetail = `HTTP error! Status: ${response.status} for ${filePath}.`;
+          if (response.status === 0 || response.type === 'opaque' || response.type === 'error') {
+            errorDetail = `Failed to fetch '${filePath}'. This is a common issue due to local file access restrictions (CORS). Please use a local web server.`;
+          }
+          throw new Error(errorDetail);
         }
-    }
-    
-    async function loadAllData() {
-        loader.classList.remove('hidden');
-        kanjiListContainer.innerHTML = '';
-        
-        const dataFiles = {
-            all: 'data/all.json', n5: 'data/jlpt_n5.json', n4: 'data/jlpt_n4.json',
-            n3: 'data/jlpt_n3.json', n2: 'data/jlpt_n2.json', n1: 'data/jlpt_n1.json', other: 'data/jlpt_other.json'
-        };
-
-        const allKanjiPromise = fetchJson(dataFiles.all);
-        const levelPromises = Object.entries(dataFiles)
-            .filter(([level]) => level !== 'all')
-            .map(async ([level, path]) => {
-                const data = await fetchJson(path);
-                kanjiByLevel[level] = data ? Object.keys(data) : [];
-            });
-        
-        allKanjiData = await allKanjiPromise;
-        await Promise.all(levelPromises);
-        
-        if (!allKanjiData) return false; 
-        
-        kanjiByLevel.all = Object.keys(allKanjiData);
-
-        updateFilterCounts();
-        loader.classList.add('hidden');
-        return true;
-    }
-    
-    function updateFilterCounts() {
-        filterButtons.forEach(button => {
-            const level = button.dataset.level;
-            const count = kanjiByLevel[level] ? kanjiByLevel[level].length : 0;
-            button.innerHTML = `${level.toUpperCase()} (<span class="count">${count}</span>)`;
-        });
+        return await response.json();
+      } catch (error) {
+        console.error("Error fetching JSON:", error.message);
+        const displayErrorMessage = error.message;
+        if (isCritical) {
+            infoBoxArea.innerHTML = `<div class="info-box error-message"><b>Critical Setup Error:</b> ${displayErrorMessage}</div>`;
+            kanjiListContainer.innerHTML = `<div class="loader error-message">Cannot initialize. ${displayErrorMessage}</div>`;
+        } else if (filePath === `data/${currentFilter}.json`) {
+            kanjiListContainer.innerHTML = `<div class="loader error-message">Failed to load data for current filter: ${filePath}.<br>${displayErrorMessage}</div>`;
+        }
+        return {};
+      }
     }
 
-    // --- Romaji Conversion Utility ---
-    const kanaToRomaji = (() => {
-        const kanaMap = {'あ':'a','い':'i','う':'u','え':'e','お':'o','か':'ka','き':'ki','く':'ku','け':'ke','こ':'ko','さ':'sa','し':'shi','す':'su','せ':'se','そ':'so','た':'ta','ち':'chi','つ':'tsu','て':'te','と':'to','な':'na','に':'ni','ぬ':'nu','ね':'ne','の':'no','は':'ha','ひ':'hi','ふ':'fu','へ':'he','ほ':'ho','ま':'ma','み':'mi','む':'mu','め':'me','も':'mo','や':'ya','ゆ':'yu','よ':'yo','ら':'ra','り':'ri','る':'ru','れ':'re','ろ':'ro','わ':'wa','を':'o','ん':'n','が':'ga','ぎ':'gi','ぐ':'gu','げ':'ge','ご':'go','ざ':'za','じ':'ji','ず':'zu','ぜ':'ze','ぞ':'zo','だ':'da','ぢ':'ji','づ':'zu','で':'de','ど':'do','ば':'ba','び':'bi','ぶ':'bu','べ':'be','ぼ':'bo','ぱ':'pa','ぴ':'pi','ぷ':'pu','ぺ':'pe','ぽ':'po','きゃ':'kya','きゅ':'kyu','きょ':'kyo','しゃ':'sha','しゅ':'shu','しょ':'sho','ちゃ':'cha','ちゅ':'chu','ちょ':'cho','にゃ':'nya','にゅ':'nyu','にょ':'nyo','ひゃ':'hya','ひゅ':'hyu','ひょ':'hyo','みゃ':'mya','みゅ':'myu','みょ':'myo','りゃ':'rya','りゅ':'ryu','りょ':'ryo','ぎゃ':'gya','ぎゅ':'gyu','ぎょ':'gyo','じゃ':'ja','じゅ':'ju','じょ':'jo','びゃ':'bya','びゅ':'byu','びょ':'byo','ぴゃ':'pya','ぴゅ':'pyu','ぴょ':'pyo','ア':'a','イ':'i','ウ':'u','エ':'e','オ':'o','カ':'ka','キ':'ki','ク':'ku','ケ':'ke','コ':'ko','サ':'sa','シ':'shi','ス':'su','セ':'se','ソ':'so','タ':'ta','チ':'chi','ツ':'tsu','テ':'te','ト':'to','ナ':'na','ニ':'ni','ヌ':'nu','ネ':'ne','ノ':'no','ハ':'ha','ヒ':'hi','フ':'fu','ヘ':'he','ホ':'ho','マ':'ma','ミ':'mi','ム':'mu','メ':'me','モ':'mo','ヤ':'ya','ユ':'yu','ヨ':'yo','ラ':'ra','リ':'ri','ル':'ru','レ':'re','ロ':'ro','ワ':'wa','ヲ':'o','ン':'n','ガ':'ga','ギ':'gi','グ':'gu','ゲ':'ge','ゴ':'go','ザ':'za','ジ':'ji','ズ':'zu','ゼ':'ze','ゾ':'zo','ダ':'da','ヂ':'ji','ヅ':'zu','デ':'de','ド':'do','バ':'ba','ビ':'bi','ブ':'bu','ベ':'be','ボ':'bo','パ':'pa','ピ':'pi','プ':'pu','ペ':'pe','ポ':'po','キャ':'kya','キュ':'kyu','キョ':'kyo','シャ':'sha','シュ':'shu','ショ':'sho','チャ':'cha','チュ':'chu','チョ':'cho','ニャ':'nya','ニュ':'nyu','ニョ':'nyo','ヒャ':'hya','ヒュ':'hyu','ヒョ':'hyo','ミャ':'mya','ミュ':'myu','ミョ':'myo','リャ':'rya','リュ':'ryu','リョ':'ryo','ギャ':'gya','ギュ':'gyu','ギョ':'gyo','ジャ':'ja','ジュ':'ju','ジョ':'jo','ビャ':'bya','ビュ':'byu','ビョ':'byo','ピャ':'pya','ピュ':'pyu','ピョ':'pyo'};
-        return(kana)=>{if(!kana)return'';let[baseKana]=kana.split('.');let romaji='';let i=0;while(i<baseKana.length){let found=!1;if(i+1<baseKana.length){const twoChar=baseKana.substring(i,i+2);if(kanaMap[twoChar]){romaji+=kanaMap[twoChar];i+=2;found=!0;}}if(!found){const oneChar=baseKana.charAt(i);if(oneChar==='っ'||oneChar==='ッ'){if(i+1<baseKana.length){const nextChar=baseKana.charAt(i+1);const nextRomaji=kanaMap[nextChar];if(nextRomaji){romaji+=nextRomaji.charAt(0);}}}else{romaji+=kanaMap[oneChar]||oneChar;}i++;}}return romaji;};
-    })();
+    async function fetchKanjiDataForLevel(level) {
+      const fileName = `data/${level}.json`;
+      if (level === "learned") {
+        if (!allKanjiData || Object.keys(allKanjiData).length === 0) {
+          console.warn("'allKanjiData' is empty for 'learned' filter. 'data/all_kanji.json' likely failed to load.");
+        }
+        return allKanjiData; // Uses pre-loaded allKanjiData
+      }
+      return await fetchJsonFile(fileName);
+    }
 
-    // --- UI and Display Logic ---
-    function createKanjiCard(kanji, data) {
-        const card = document.createElement('div');
-        const isLearned = learnedKanji.has(kanji);
-        card.className = `kanji-card relative bg-white dark:bg-slate-800 rounded-lg shadow-md p-4 flex flex-col justify-between border border-slate-200 dark:border-slate-700 hover:shadow-xl hover:-translate-y-1 ${isLearned ? 'learned' : ''}`;
-        card.dataset.kanji = kanji;
-        
-        const onReadings = data.readings_on.join('、 ');
-        const kunReadings = data.readings_kun.join('、 ');
+    async function loadAndDisplayKanji(level) {
+      currentFilter = level;
+      currentPage = 1;
+      kanjiListContainer.innerHTML = `<div class="loader">Loading ${level.replace(/_/g, " ").toUpperCase()} Kanji...</div>`;
+      paginationControlsEl.innerHTML = '';
+
+      filterButtons.forEach(btn => btn.classList.toggle('active', btn.dataset.level === level));
+      
+      const learnedButton = document.querySelector('button[data-level="learned"]');
+      if (level === "learned" && (!allKanjiData || Object.keys(allKanjiData).length === 0)) {
+          kanjiListContainer.innerHTML = `<div class="loader error-message">'Learned' filter cannot function because 'data/all_kanji.json' (required for this filter) failed to load or is empty.</div>`;
+          currentViewCountEl.textContent = "Displaying: 0 Kanji";
+          if (learnedButton) learnedButton.disabled = true;
+          updateJLPTCounts();
+          return;
+      }
+      if (learnedButton && allKanjiData && Object.keys(allKanjiData).length > 0) {
+          learnedButton.disabled = false;
+      }
+
+      currentKanjiData = await fetchKanjiDataForLevel(level);
+      updateJLPTCounts();
+      renderKanji(); // Call renderKanji which will now respect the search query
+    }
+
+    function renderKanji() {
+      const fragment = document.createDocumentFragment();
+      let itemsToDisplay = [];
+      const sourceData = (currentFilter === "learned") ? allKanjiData : currentKanjiData;
+      const searchQuery = searchInput.value.toLowerCase().trim();
+
+      if (!sourceData || Object.keys(sourceData).length === 0) {
+        if (!kanjiListContainer.querySelector('.error-message')) {
+             kanjiListContainer.innerHTML = `<div class="loader">No Kanji data found for "${currentFilter}".</div>`;
+        }
+        currentViewCountEl.textContent = "Displaying: 0 Kanji";
+        paginationControlsEl.innerHTML = '';
+        return;
+      }
+
+      if (currentFilter === "learned") {
+        itemsToDisplay = Object.entries(sourceData).filter(([char]) => learnedKanji.includes(char));
+      } else {
+        itemsToDisplay = Object.entries(sourceData);
+      }
+
+      // --- NEW: Enhanced Search Filtering Logic including Romaji ---
+      if (searchQuery) {
+          itemsToDisplay = itemsToDisplay.filter(([char, info]) => {
+              const meanings = (info.meanings || []).join(' ').toLowerCase();
+              const readings_on = (info.readings_on || []).join(' ').toLowerCase();
+              const readings_kun = (info.readings_kun || []).join(' ').toLowerCase();
+              
+              // Convert readings to Romaji for search
+              const readings_on_romaji = toRomaji(readings_on);
+              const readings_kun_romaji = toRomaji(readings_kun);
+
+              return char.includes(searchQuery) || 
+                     meanings.includes(searchQuery) ||
+                     readings_on.includes(searchQuery) ||
+                     readings_kun.includes(searchQuery) ||
+                     readings_on_romaji.includes(searchQuery) || // Search by Romaji On'yomi
+                     readings_kun_romaji.includes(searchQuery);  // Search by Romaji Kun'yomi
+          });
+      }
+      // --- End of Enhanced Search Logic ---
+
+      if (itemsToDisplay.length === 0) {
+        kanjiListContainer.innerHTML = `<div class="loader">No Kanji characters match the filter: "${currentFilter}" ${searchQuery ? `and search: "${searchQuery}"` : ''}.</div>`;
+        currentViewCountEl.textContent = "Displaying: 0 Kanji";
+        paginationControlsEl.innerHTML = '';
+        return;
+      }
+
+      const totalItemsInCurrentFilter = itemsToDisplay.length;
+      const startIndex = (currentPage - 1) * itemsPerPage;
+      const endIndex = startIndex + itemsPerPage;
+      const paginatedItems = itemsToDisplay.slice(startIndex, endIndex);
+
+      currentViewCountEl.textContent = `Displaying ${paginatedItems.length} of ${totalItemsInCurrentFilter} Kanji (Page ${currentPage})`;
+
+      paginatedItems.forEach(([char, info]) => {
+        const card = document.createElement("div");
+        card.className = "kanji-card";
+        card.dataset.char = char;
+
+        const isLearned = learnedKanji.includes(char);
+        const meanings = info && info.meanings ? info.meanings.join(', ') : 'N/A';
+        const readings_on = info && info.readings_on ? info.readings_on.join(', ') : 'N/A';
+        const readings_kun = info && info.readings_kun ? info.readings_kun.join(', ') : 'N/A';
+        const strokes = info && info.strokes || 'N/A';
+        const grade = info && info.grade || 'N/A';
+        const jlptLevel = info && (info.jlpt_new || info.jlpt_old);
+        const jlptDisplay = jlptLevel ? `N${jlptLevel}` : 'N/A';
+        const wk_level_html = info && info.wk_level ? `<div><span class="field-label">WK Level:</span> ${info.wk_level}</div>` : '';
+
+        // --- NEW: Romaji for readings ---
+        const readings_on_romaji = toRomaji(readings_on);
+        const readings_kun_romaji = toRomaji(readings_kun);
 
         card.innerHTML = `
+          <div class="kanji-char">
+            ${char}
+            <button class="speech-button" data-char="${char}" ${!japaneseVoice ? 'disabled' : ''}>🔊</button>
+          </div>
+          <div class="kanji-details">
+            <div><span class="field-label">Meanings:</span> ${meanings}</div>
             <div>
-                 <div class="absolute top-2 right-2 flex space-x-1">
-                    <button class="speak-btn p-1.5 text-slate-400 hover:text-indigo-500 rounded-full hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M9.383 3.076A1 1 0 0110 4v12a1 1 0 01-1.707.707L4.586 13H2a1 1 0 01-1-1V8a1 1 0 011-1h2.586l3.707-3.707a1 1 0 011.09-.217zM14.657 2.929a1 1 0 011.414 0A9.972 9.972 0 0119 10a9.972 9.972 0 01-2.929 7.071 1 1 0 01-1.414-1.414A7.971 7.971 0 0017 10c0-2.21-.894-4.208-2.343-5.657a1 1 0 010-1.414zm-2.829 2.828a1 1 0 011.415 0A5.983 5.983 0 0115 10a5.984 5.984 0 01-1.757 4.243 1 1 0 01-1.415-1.415A3.984 3.984 0 0013 10a3.983 3.983 0 00-1.172-2.828 1 1 0 010-1.415z" clip-rule="evenodd" /></svg>
-                    </button>
-                    <button class="learn-btn p-1.5 text-slate-400 hover:text-green-500 rounded-full hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" /></svg>
-                    </button>
-                </div>
-                <p class="japanese text-6xl text-center mb-2 text-slate-900 dark:text-white">${kanji}</p>
-                <div class="text-sm space-y-2">
-                    <p class="font-semibold text-slate-700 dark:text-slate-300">Meanings: <span class="font-normal text-slate-600 dark:text-slate-400">${data.meanings.join(', ')}</span></p>
-                    <div>
-                        <p class="font-semibold text-slate-700 dark:text-slate-300">On'yomi:</p>
-                        <p class="text-slate-600 dark:text-slate-400 japanese">${onReadings || 'N/A'}</p>
-                        <p class="text-xs text-indigo-500 dark:text-indigo-400">${kanaToRomaji(onReadings)}</p>
-                    </div>
-                    <div>
-                        <p class="font-semibold text-slate-700 dark:text-slate-300">Kun'yomi:</p>
-                        <p class="text-slate-600 dark:text-slate-400 japanese">${kunReadings || 'N/A'}</p>
-                        <p class="text-xs text-indigo-500 dark:text-indigo-400">${kanaToRomaji(kunReadings)}</p>
-                    </div>
-                </div>
+                <span class="field-label">On:</span> ${readings_on}
+                ${readings_on_romaji ? `<span class="romaji">(${readings_on_romaji})</span>` : ''}
             </div>
-            <div class="text-xs text-slate-400 dark:text-slate-500 mt-4 pt-2 border-t border-slate-200 dark:border-slate-700 flex justify-between">
-                <span>Grade: ${data.grade || 'N/A'}</span>
-                <span>Strokes: ${data.strokes}</span>
-                <span>JLPT: N${data.jlpt_new || '?'}</span>
+            <div>
+                <span class="field-label">Kun:</span> ${readings_kun}
+                ${readings_kun_romaji ? `<span class="romaji">(${readings_kun_romaji})</span>` : ''}
             </div>
+            <div><span class="field-label">Strokes:</span> ${strokes}</div>
+            <div><span class="field-label">Grade:</span> ${grade}</div>
+            <div><span class="field-label">JLPT:</span> ${jlptDisplay}</div>
+            ${wk_level_html}
+          </div>
+          <button class="learned-btn ${isLearned ? 'is-learned' : ''}" data-char="${char}">
+            ${isLearned ? 'Mark as Unlearned' : 'Mark as Learned'}
+          </button>
         `;
-        return card;
+        fragment.appendChild(card);
+      });
+
+      kanjiListContainer.innerHTML = '';
+      kanjiListContainer.appendChild(fragment);
+      renderPaginationControls(totalItemsInCurrentFilter);
+      attachLearnedButtonListeners();
+      attachSpeechButtonListeners();
+      checkVoiceSupport();
     }
 
-    function renderKanjiList(kanjiListToRender) {
-        kanjiListContainer.innerHTML = ''; 
-        if (kanjiListToRender.length === 0) {
-            noResultsDiv.classList.remove('hidden');
-        } else {
-            noResultsDiv.classList.add('hidden');
-            const fragment = document.createDocumentFragment();
-            kanjiListToRender.forEach(kanji => {
-                if (allKanjiData[kanji]) {
-                    fragment.appendChild(createKanjiCard(kanji, allKanjiData[kanji]));
-                }
+    function attachLearnedButtonListeners() {
+      document.querySelectorAll(".learned-btn").forEach(btn => {
+        const newBtn = btn.cloneNode(true);
+        btn.parentNode.replaceChild(newBtn, btn);
+        newBtn.addEventListener("click", (e) => {
+          if (e.target.disabled) return;
+          const char = e.target.dataset.char;
+          const index = learnedKanji.indexOf(char);
+          if (index === -1) {
+            learnedKanji.push(char);
+          } else {
+            learnedKanji.splice(index, 1);
+          }
+          localStorage.setItem("learnedKanji", JSON.stringify(learnedKanji));
+          newBtn.classList.toggle("is-learned", index === -1);
+          newBtn.textContent = (index === -1) ? "Mark as Unlearned" : "Mark as Learned";
+          if (currentFilter === "learned") {
+            currentPage = 1;
+            renderKanji();
+          }
+          updateJLPTCounts();
+        });
+      });
+    }
+
+    function attachSpeechButtonListeners() {
+        document.querySelectorAll(".speech-button").forEach(btn => {
+            const newBtn = btn.cloneNode(true);
+            btn.parentNode.replaceChild(newBtn, btn);
+            newBtn.addEventListener("click", (e) => {
+                if (!japaneseVoice || !synthesizer || e.target.disabled) return;
+                const charToSpeak = e.target.dataset.char;
+                speakKanji(charToSpeak);
             });
-            kanjiListContainer.appendChild(fragment);
-        }
-    }
-    
-    // --- Event Handling and Logic ---
-    function handleCardInteraction(e) {
-        const speakBtn = e.target.closest('.speak-btn');
-        const learnBtn = e.target.closest('.learn-btn');
-
-        if (speakBtn) {
-            const card = speakBtn.closest('.kanji-card');
-            const kanji = card.dataset.kanji;
-            const utterance = new SpeechSynthesisUtterance(kanji);
-            utterance.lang = 'ja-JP';
-            speechSynthesis.speak(utterance);
-        }
-
-        if (learnBtn) {
-            const card = learnBtn.closest('.kanji-card');
-            const kanji = card.dataset.kanji;
-            if (learnedKanji.has(kanji)) {
-                learnedKanji.delete(kanji);
-                card.classList.remove('learned');
-            } else {
-                learnedKanji.add(kanji);
-                card.classList.add('learned');
-            }
-            saveLearnedKanji();
-        }
-    }
-    
-    function filterAndSearch() {
-        const query = searchInput.value.toLowerCase().trim();
-        const baseList = kanjiByLevel[currentFilter] || [];
-        
-        const filteredList = !query ? baseList : baseList.filter(kanji => {
-            const data = allKanjiData[kanji];
-            if (!data) return false;
-            
-            const isKanji = kanji === query;
-            const inMeanings = data.meanings.some(m => m.toLowerCase().includes(query));
-            const inOnYomi = data.readings_on.some(r => r.includes(query) || kanaToRomaji(r).toLowerCase().includes(query));
-            const inKunYomi = data.readings_kun.some(r => kanaToRomaji(r).toLowerCase().includes(query) || r.split('.')[0].includes(query));
-            const isGrade = `grade:${data.grade}` === query || `g${data.grade}` === query;
-            const isStrokes = `strokes:${data.strokes}` === query || `s${data.strokes}` === query;
-            const isJlpt = `n${data.jlpt_new}` === query;
-
-            return isKanji || inMeanings || inOnYomi || inKunYomi || isGrade || isStrokes || isJlpt;
         });
-
-        renderKanjiList(filteredList);
-    }
-    
-    function handleFilterClick(level) {
-        currentFilter = level;
-        filterButtons.forEach(btn => {
-            const isActive = btn.dataset.level === level;
-            btn.classList.toggle('active', isActive);
-            btn.classList.toggle('bg-indigo-600', isActive);
-            btn.classList.toggle('text-white', isActive);
-            btn.classList.toggle('dark:bg-slate-800', !isActive);
-        });
-        filterAndSearch();
     }
 
-    // --- Dark Mode Toggle ---
-    const themeToggleBtn = document.getElementById('theme-toggle');
-    const darkIcon = document.getElementById('theme-toggle-dark-icon');
-    const lightIcon = document.getElementById('theme-toggle-light-icon');
-    
-    if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-        document.documentElement.classList.add('dark');
-        lightIcon.classList.remove('hidden');
-    } else {
-        darkIcon.classList.remove('hidden');
+    function speakKanji(kanjiChar) {
+        if (!japaneseVoice || !synthesizer) return;
+        if (synthesizer.speaking) synthesizer.cancel();
+        const utterance = new SpeechSynthesisUtterance(kanjiChar);
+        utterance.lang = 'ja-JP';
+        utterance.voice = japaneseVoice;
+        utterance.rate = 0.8;
+        utterance.pitch = 1;
+        synthesizer.speak(utterance);
     }
 
-    themeToggleBtn.addEventListener('click', () => {
-        darkIcon.classList.toggle('hidden');
-        lightIcon.classList.toggle('hidden');
-        const isDark = document.documentElement.classList.toggle('dark');
-        localStorage.setItem('color-theme', isDark ? 'dark' : 'light');
-    });
+    function renderPaginationControls(totalItems) {
+      paginationControlsEl.innerHTML = '';
+      const totalPages = Math.ceil(totalItems / itemsPerPage);
+      if (totalPages <= 1) return;
+      if (currentPage > 1) {
+        const prevButton = document.createElement('button');
+        prevButton.textContent = 'Previous';
+        prevButton.addEventListener('click', () => { currentPage--; renderKanji(); });
+        paginationControlsEl.appendChild(prevButton);
+      }
+      const pageInfo = document.createElement('span');
+      pageInfo.textContent = ` Page ${currentPage} of ${totalPages} `;
+      pageInfo.style.margin = "0 10px";
+      paginationControlsEl.appendChild(pageInfo);
+      if (currentPage < totalPages) {
+        const nextButton = document.createElement('button');
+        nextButton.textContent = 'Next';
+        nextButton.addEventListener('click', () => { currentPage++; renderKanji(); });
+        paginationControlsEl.appendChild(nextButton);
+      }
+    }
 
-    // --- Initialization ---
+    function updateJLPTCounts() {
+      const dataForCounting = allKanjiData;
+      const counts = { n1: 0, n2: 0, n3: 0, n4: 0, n5: 0, other: 0 };
+      let totalInDataset = 0;
+      const currentLearnedCount = learnedKanji.length;
+
+      if (dataForCounting && Object.keys(dataForCounting).length > 0) {
+        for (const char in dataForCounting) {
+          if (dataForCounting.hasOwnProperty(char)) {
+            totalInDataset++;
+            const info = dataForCounting[char];
+            const jlptLevel = info.jlpt_new || info.jlpt_old;
+            if (jlptLevel === 1) counts.n1++;
+            else if (jlptLevel === 2) counts.n2++;
+            else if (jlptLevel === 3) counts.n3++;
+            else if (jlptLevel === 4) counts.n4++;
+            else if (jlptLevel === 5) counts.n5++;
+            else counts.other++;
+          }
+        }
+        jlptCountsEl.innerHTML = `Total (All Data): ${totalInDataset} | N5: ${counts.n5} | N4: ${counts.n4} | N3: ${counts.n3} | N2: ${counts.n2} | N1: ${counts.n1} | Other: ${counts.other} | Learned: <span id="learned-count">${currentLearnedCount}</span>`;
+      } else {
+        jlptCountsEl.innerHTML = `<span class="error-message">Global counts unavailable ('data/all_kanji.json' missing/empty).</span> Learned: <span id="learned-count">${currentLearnedCount}</span>`;
+      }
+      const learnedCountEl = document.getElementById('learned-count');
+      if(learnedCountEl) learnedCountEl.textContent = currentLearnedCount;
+    }
+
     document.addEventListener('DOMContentLoaded', async () => {
-        loadLearnedKanji();
+      infoBoxArea.innerHTML = `<div class="info-box"><strong>Tip:</strong> If Kanji don't load, check the browser console (F12) for errors. You might need to use a local web server (see script comments).</div>`;
+      checkVoiceSupport();
 
-        let searchTimeout;
-        searchInput.addEventListener('input', () => {
-            clearTimeout(searchTimeout);
-            searchTimeout = setTimeout(filterAndSearch, 300);
+      filterButtons.forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          const levelToLoad = e.target.dataset.level;
+          if (e.target.disabled) return;
+          loadAndDisplayKanji(levelToLoad);
         });
+      });
+      
+      // --- NEW: Search Input Event Listener ---
+      let searchTimeout;
+      searchInput.addEventListener('input', () => {
+          clearTimeout(searchTimeout);
+          // Debounce the search to avoid re-rendering on every keystroke
+          searchTimeout = setTimeout(() => {
+              currentPage = 1; // Reset to first page on new search
+              renderKanji();
+          }, 250);
+      });
 
-        filterButtons.forEach(button => {
-            button.addEventListener('click', () => handleFilterClick(button.dataset.level));
-        });
+      allKanjiData = await fetchJsonFile('data/all_kanji.json', true);
 
-        kanjiListContainer.addEventListener('click', handleCardInteraction);
-
-        const dataLoaded = await loadAllData();
-        if (dataLoaded) {
-            handleFilterClick('all');
-        }
+      const learnedButton = document.querySelector('button[data-level="learned"]');
+      if (!allKanjiData || Object.keys(allKanjiData).length === 0) {
+        if (learnedButton) learnedButton.disabled = true;
+      } else {
+        if (learnedButton) learnedButton.disabled = false;
+      }
+      
+      updateJLPTCounts();
+      
+      // Load the default "All" filter on startup
+      await loadAndDisplayKanji("all");
     });
+    // --- End of Script ---
     </script>
 </body>
 </html>
